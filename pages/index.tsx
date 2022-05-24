@@ -66,7 +66,7 @@ function LandingPage(props: LandingPageProps) {
                 </div>
                 <a id="ask-community" href="/artikel" className="btn btn-outline mr-4 mt-0">
         <ArrowRightIcon size="small" className="octicon mr-1" />
-        {`Beiträge entdecken`}
+        {`Zum Q & A`}
                              </a>
                 <div className="mt-3">{SearchResults}</div>
               </div>
@@ -84,13 +84,13 @@ function LandingPage(props: LandingPageProps) {
 
       <div className="px-3 px-md-6 container-xl">
       <div className="col-12 col-lg-10 float-left">
-      <h3 className="display-4">„Die Idee eines studentischen BayDiG-Wikis ist großartig. Junge Menschen sind wichtige Adressaten des Digitalgesetzes. Deshalb zählt gerade auch ihre Perspektive.”</h3>
+      <h3 className="display-4">„Demokratie heißt auch nah an den Menschen zu sein. Social Media schafft Nähe zwischen dem Staat und seinen Bürgerinnen und Bürgern.”</h3>
           </div>
           <div className="mt-5 float-left">
             <img className="float-left mt-2" src ="/assets/images/mocker.png" width="60px"></img>
             <div className="col-12 col-lg-6 float-left">
-          <h3 className="display-4 ml-3 float-left color-text-link">Valerie Mocker</h3>
-          <h5 className="display-4 ml-3 float-left">Universität Oxford, Mitglied des Präsidiums von Wikimedia e.V.</h5>
+          <h3 className="display-4 ml-3 float-left color-text-link">Prof. Dr. Dirk Heckmann</h3>
+          <h5 className="display-4 ml-3 float-left">Technische Universität München, Direktor des TUM Center for Digital Public Services (CDPS)</h5>
           </div>
           </div>
        

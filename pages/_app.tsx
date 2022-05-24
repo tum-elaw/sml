@@ -23,7 +23,7 @@ const MyApp = ({ Component, pageProps, csrfToken, themeProps }: MyAppProps) => {
     <>
       <Head>
         <meta charSet="utf-8" />
-        <title>BayDiG Wiki</title>
+        <title>Social Media Leitfaden</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
         <link rel="alternate icon" type="image/png" href="/assets/images/site/favicon.png" />

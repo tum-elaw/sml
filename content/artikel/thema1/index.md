@@ -1,6 +1,6 @@
 ---
-title: Alle Beiträge
-shortTitle: Alle Beiträge
+title: Alle Fragen und Antworten
+shortTitle: Fragen und Antworten
 intro: 'Alle Beiträge'
 redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/managing-billing-for-git-large-file-storage

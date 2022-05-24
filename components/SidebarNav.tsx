@@ -35,7 +35,7 @@ export const SidebarNav = () => {
           className="h4-mktg color-text-primary no-underline no-wrap pl-2 flex-auto"
         >
           {/*{t('github_docs')} */}
-          BayDiG Wiki
+          Social Media Leitfaden
         </Link>
       </div>
       <nav>

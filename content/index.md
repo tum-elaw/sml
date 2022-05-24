@@ -17,28 +17,28 @@ children:
 externalProducts:
   qa:
     id: qa
-    name: Q&A
-    href: 'https://github.com/tum-elaw/BayDiG-wiki/discussions/categories/q-a'
+    name: Grundgesetz (GG)
+    href: 'https://www.gesetze-im-internet.de/gg/'
     external: true
   codeql:
     id: codeql
-    name: Bayerisches Digitalgesetz
-    href: 'https://www.stmd.bayern.de/service/gesetz-und-verordnungsentwuerfe/'
+    name: Netzwerkdurchsetzungsgesetz (NetzDG)
+    href: 'https://www.gesetze-im-internet.de/netzdg/index.html'
     external: true
   atom:
     id: atom
-    name: TUM Center for Digital Public Services
-    href: 'https://www.tum-cdps.de/'
+    name: Urheberrechtsgesetz (UrhG)
+    href: 'https://www.gesetze-im-internet.de/urhg/'
     external: true
   cli:
     id: cli
-    name: Lehrstuhl für Recht und Sicherheit der Digitalisierung
-    href: 'https://www.gov.sot.tum.de/elaw/startseite/'
+    name: Kunsturhebergesetz (KUG)
+    href: 'https://www.gesetze-im-internet.de/kunsturhg/index.html'
     external: true
   electron:
     id: electron
-    name: Bayerisches Staatsministerium für Digitales
-    href: 'https://www.stmd.bayern.de/'
+    name: Datenschutzgrundverordnung (DSGVO)
+    href: 'https://dejure.org/gesetze/DSGVO'
     external: true
 ---
 

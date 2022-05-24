@@ -1,6 +1,6 @@
 ---
-title: Alle Beiträge
-shortTitle: Alle Beiträge
+title: Alle Inhalte
+shortTitle: Alle Inhalte
 intro: 'Übersicht aller Beiträge im Wiki zum bayerischen Digitalgesetz'
 redirect_from:
   - /categories/20/articles/
