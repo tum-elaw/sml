@@ -7,8 +7,8 @@ featuredLinks:
     - /artikel/thema1/beitrag6
     - /artikel/thema1/beitrag4
   popular:
-    - /artikel/thema1/beitrag10
-    - /artikel/thema1/beitrag12
+    - /artikel/thema1/beitrag1
+    - /artikel/thema1/beitrag2
     - /artikel/thema1/beitrag8
     - /artikel/thema1/beitrag7
 versions: '*'
@@ -39,6 +39,11 @@ externalProducts:
     id: electron
     name: Datenschutzgrundverordnung (DSGVO)
     href: 'https://dejure.org/gesetze/DSGVO'
+    external: true
+  test:
+    id: test
+    name: Strafgesetzbuch (StGB)
+    href: 'https://www.gesetze-im-internet.de/stgb/'
     external: true
 ---
 
