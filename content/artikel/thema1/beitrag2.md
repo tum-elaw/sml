@@ -16,6 +16,7 @@ shortTitle: Darf ich im Namen meines Arbeitgebers (z.B. der Landesbehörde) auf 
 ---
 
 Die Öffentlichkeitsarbeit für Ihren Arbeitgeber (z.B. die bayerischen Landesbehörden) übernehmen die hierfür vorgesehenen Pressestellen und Abteilungen (bzw. Behördenvertreter).
+
 Grundsätzlich sind Angestellte nicht befugt, ihren Arbeitgeber nach außen auf Social Media zu repräsentieren, es sei denn, im Arbeitsvertrag ist ausdrücklich etwas anderes geregelt oder aus der Natur der Arbeitstätigkeit ergibt sich etwas gegenteiliges.
 Sofern Sie nicht den Eindruck erwecken, Äußerungen im Namen Ihres Arbeitgebers zu verbreiten, ist das (arbeitsrechtlich) durchaus erlaubt. Wenn Sie über Ihre Arbeit schreiben oder Fragen diesbezüglich beantworten, sollte ebenfalls nicht der Eindruck entstehen, dass Sie als offizieller Repräsentant Ihrer Arbeitsstelle tätig sind, sondern als Privatperson.
 Beachten Sie immer dabei, dass Sie eventuell hinsichtlich einiger Bereiche und Tätigkeiten der Verschwiegenheitspflicht unterliegen.
