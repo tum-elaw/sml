@@ -87,7 +87,7 @@ function LandingPage(props: LandingPageProps) {
       <h3 className="display-4">„Demokratie heißt auch nah an den Menschen zu sein. Social Media schafft Nähe zwischen dem Staat und seinen Bürgerinnen und Bürgern.”</h3>
           </div>
           <div className="mt-5 float-left">
-            <img className="float-left mt-2" src ="/assets/images/mocker.png" width="60px"></img>
+            <img className="float-left mt-2" src ="/assets/images/Profilbild_DH_Credits_an_Kilian_Blues_bidt_test.png" width="60px"></img>
             <div className="col-12 col-lg-6 float-left">
           <h3 className="display-4 ml-3 float-left color-text-link">Prof. Dr. Dirk Heckmann</h3>
           <h5 className="display-4 ml-3 float-left">Technische Universität München, Direktor des TUM Center for Digital Public Services (CDPS)</h5>
