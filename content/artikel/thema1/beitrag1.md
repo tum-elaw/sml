@@ -17,3 +17,8 @@ shortTitle: Darf ich während meiner Arbeitszeit Social Media verwenden?
 Das hängt davon ab, ob es eine ausdrückliche Gestattung des Arbeitgebers (z.B. der Behördenleitung) zur privaten Nutzung des Internets gibt. Dabei kann auch eine teilweise Nutzung erlaubt sein. 
 
 Bei ausdrücklicher Erlaubnis ist die private Nutzung von Social Media während der Arbeitszeit in dem erlaubten Umfang gestattet, außer die Arbeitsleistung wird erheblich beeinträchtigt. Wenn nichts zur Nutzung gesagt wurde, ist die private Nutzung während der Arbeitszeit grundsätzlich nicht erlaubt. Bei Verstößen dagegen droht zunächst eine Abmahnung und bei mehreren Verstößen sogar eine Kündigung; bei gravierenden Verstößen wäre auch eine außerordentliche/fristlose Kündigung denkbar.
+
+Test Test [[1]](#1)
+
+## Quellenverzeichnis
+<a id="1">[1]</a> Voller Text Zitation
