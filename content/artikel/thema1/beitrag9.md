@@ -1,5 +1,5 @@
 ---
-title: Digitale Qualifizierung der Beschäftigten der öffentlichen Verwaltung - Art. 7 BayDiG-E
+title: Bilder von Events der Behörde veröffentlichen
 intro: Darf ich meine Bilder, die auf dem letzten Event der Behörde gemacht habe, auf Social Media veröffentlichen?
 contributor:
   name: Sophie Salfetter

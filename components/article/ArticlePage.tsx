@@ -145,19 +145,6 @@ export const ArticlePage = () => {
                 dangerouslySetInnerHTML={{ __html: renderedPage }}
               />
             </div>
-            <div className="no-print">
-            <Giscus
-                    repo="tum-elaw/baydig-wiki"
-                    repoId="R_kgDOG7uxDw"
-                    category="General"
-                    categoryId="DIC_kwDOG7uxD84CN7U1"
-                    mapping="title"
-                    reactionsEnabled="1"
-                    emitMetadata="0"
-                    theme="preferred_color_scheme"
-                    lang="de"
-                  />
-                  </div>
           </div>
                           
           {currentLearningTrack?.trackName ? (

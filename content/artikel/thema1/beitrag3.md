@@ -1,5 +1,5 @@
 ---
-title: Repräsentation und Vertretung des Arbeitgebers auf Social Media
+title: Eigene Meinung auf Social Media äußern
 intro: Kann ich Ärger bekommen, wenn ich meine Meinung auf Social Media äußere?
 redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/upgrading-git-large-file-storage

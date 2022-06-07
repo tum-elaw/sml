@@ -1,5 +1,5 @@
 ---
-title: Repräsentation und Vertretung des Arbeitgebers auf Social Media
+title: Privates Social Media-Profil als solches Kennzeichnen
 intro: Muss ich bei meiner privaten Social Media-Profilseite angeben, dass es sich um meine private Seite handelt?
 redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/upgrading-git-large-file-storage

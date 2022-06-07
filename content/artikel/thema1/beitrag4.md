@@ -1,5 +1,5 @@
 ---
-title: Digitaler Verbraucherschutz - Art. 2 Nr. 8 BayDiG-E
+title: Vernetzung auf Social Media
 intro: Mit wem darf ich mich auf Social Media vernetzen?
 contributor:
   name: Denis Graipel
