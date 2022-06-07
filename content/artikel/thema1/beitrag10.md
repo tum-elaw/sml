@@ -1,6 +1,6 @@
 ---
 title: Bayernserver - Art. 39 BayDiG-E
-intro: 'Bayernserver - Art. 39 BayDiG-E'
+intro: Worauf muss ich achten, wenn ich fremde Inhalte auf Social Media teile?
 contributor:
   name: Lukas Baumgartner
   URL: https://www.tum.de/
@@ -15,7 +15,7 @@ versions:
 type: how_to
 topics:
   - Art. 39
-shortTitle: Bayernserver
+shortTitle: Worauf muss ich achten, wenn ich fremde Inhalte auf Social Media teile?
 ---
 
 ## 1. Definition des Begriffs

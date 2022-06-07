@@ -1,6 +1,6 @@
 ---
 title: Digitale Souveränität - Art. 3 BayDiG-E
-intro: 'Digitale Souveränität - Art. 3 BayDiG-E'
+intro: Darf ich über meine Arbeit bei der Behörde schreiben?
 contributor:
   name: Denis Graipel
   URL: https://www.gov.sot.tum.de/gov/home/
@@ -15,7 +15,7 @@ versions:
 type: how_to
 topics:
   - Art. 3
-shortTitle: Digitale Souveränität
+shortTitle: Darf ich über meine Arbeit bei der Behörde schreiben?
 ---
 
 ## I. Definition

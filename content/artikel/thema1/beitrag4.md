@@ -1,6 +1,6 @@
 ---
 title: Digitaler Verbraucherschutz - Art. 2 Nr. 8 BayDiG-E
-intro: 'Digitaler Verbraucherschutz - Art. 2 Nr. 8 BayDiG-E'
+intro: Mit wem darf ich mich auf Social Media vernetzen?
 contributor:
   name: Denis Graipel
   URL: https://www.tum.de/
@@ -15,7 +15,7 @@ versions:
 type: how_to
 topics:
   - Art. 2
-shortTitle: Digitaler Verbraucherschutz
+shortTitle: Mit wem darf ich mich auf Social Media vernetzen?
 ---
 
 

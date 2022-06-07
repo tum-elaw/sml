@@ -1,6 +1,6 @@
 ---
 title: Digitale Dienste - Art. 17 BayDiG-E
-intro: 'Digitale Dienste - Art. 17 BayDiG-E'
+intro: Kann ich Ärger bekommen, wenn ich fremde Inhalte like bzw. favorisiere?
 contributor:
   name: Lukas Baumgartner
   URL: https://www.tum.de/
@@ -15,7 +15,7 @@ versions:
 type: how_to
 topics:
   - Art. 17
-shortTitle: Digitale Dienste
+shortTitle: Kann ich Ärger bekommen, wenn ich fremde Inhalte like bzw. favorisiere?
 ---
 ## 1. Definition des Begriffs
 

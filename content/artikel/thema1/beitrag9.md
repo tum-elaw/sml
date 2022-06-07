@@ -1,6 +1,6 @@
 ---
 title: Digitale Qualifizierung der Beschäftigten der öffentlichen Verwaltung - Art. 7 BayDiG-E
-intro: 'Digitale Qualifizierung der Beschäftigten der öffentlichen Verwaltung - Art. 7 BayDiG-E'
+intro: Darf ich meine Bilder, die auf dem letzten Event der Behörde gemacht habe, auf Social Media veröffentlichen?
 contributor:
   name: Sophie Salfetter
   URL: https://www.tum.de/
@@ -15,7 +15,7 @@ versions:
 type: how_to
 topics:
   - Art. 7
-shortTitle: Digitale Qualifizierung der Beschäftigten der öffentlichen Verwaltung
+shortTitle: Darf ich meine Bilder, die auf dem letzten Event der Behörde gemacht habe, auf Social Media veröffentlichen?
 ---
 
 ## 1. Definition des Begriffs laut Gesetz, Verständnis der Gesetzesbegründung, Verständnis aus Fachperspektive

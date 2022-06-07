@@ -1,6 +1,6 @@
 ---
 title: Portalverbund Bayern/Bayernportal - Art. 27 BayDiG-E
-intro: 'Portalverbund Bayern/Bayernportal - Art. 27 BayDiG-E'
+intro: Kann ich Ärger bekommen, wenn ich eine eigene Social Media-Gruppe erstelle oder fremden Gruppen beitrete?
 contributor:
   name: Lukas Baumgartner 
   URL: https://www.tum.de/
@@ -15,7 +15,7 @@ versions:
 type: how_to
 topics:
   - Art. 27
-shortTitle: Portalverbund Bayern/Bayernportal
+shortTitle: Kann ich Ärger bekommen, wenn ich eine eigene Social Media-Gruppe erstelle oder fremden Gruppen beitrete?
 ---
 
 ## 1.Definition des Begriffs

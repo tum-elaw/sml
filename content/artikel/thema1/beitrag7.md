@@ -1,6 +1,6 @@
 ---
 title: Stärkung digitaler Grundkompetenzen (Gesellschaft, Wirtschaft und Verwaltung) - Art. 2 Satz 2 Nr. 7 BayDiG-E
-intro: 'Stärkung digitaler Grundkompetenzen (Gesellschaft, Wirtschaft und Verwaltung) - Art. 2 Satz 2 Nr. 7 BayDiG-E'
+intro: Wie soll ich reagieren, wenn mich eine Person aufgrund meiner Tätigkeit bei der Landesverwaltung kontaktiert?
 contributor:
   name: Sophie Salfetter
   URL: https://www.tum.de/
@@ -15,7 +15,7 @@ versions:
 type: how_to
 topics:
   - Art. 2
-shortTitle: Stärkung digitaler Grundkompetenzen
+shortTitle: Wie soll ich reagieren, wenn mich eine Person aufgrund meiner Tätigkeit bei der Landesverwaltung kontaktiert?
 ---
 ## 1. Definition des Begriffs laut Gesetz, Verständnis der Gesetzesbegründung, Verständnis aus Fachperspektive
 

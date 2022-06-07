@@ -1,6 +1,6 @@
 ---
 title: Digitale Geschäftsmodelle - Art. 2 Nr. 9 BayDiG-E
-intro: 'Digitale Geschäftsmodelle - Art. 2 Nr. 9 BayDiG-E'
+intro: Darf ich andere Nutzer blockieren?
 contributor:
   name: Denis Graipel
   URL: https://www.gov.tum.de/elaw/team/jonas-hacker/
@@ -15,7 +15,7 @@ versions:
 type: how_to
 topics:
   - Art. 2
-shortTitle: Digitale Geschäftsmodelle
+shortTitle: Darf ich andere Nutzer blockieren?
 ---
 
 ## I. Definition
