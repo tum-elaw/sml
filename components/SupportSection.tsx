@@ -15,13 +15,7 @@ export const SupportSection = () => {
   return (
     <section className="mt-lg-9 py-7 px-3 px-md-6 no-print color-bg-tertiary">
       <div className="container-xl gutter-lg-spacious clearfix">
-        <div className="col-12 col-lg-6 col-xl-4 mb-6 mb-xl-0 float-left">
-          {!isDeprecated && <Survey />}
-        </div>
-        <div className="col-12 col-lg-6 col-xl-4 mb-6 mb-xl-0 float-left">
-          {!isDeprecated && <Contribution />}
-        </div>
-        <div className="col-12 col-lg-12 col-xl-4 float-left">
+        <div className="col-12 col-lg-12 col-xl-4 float-right">
           <Support />
         </div>
       </div>
