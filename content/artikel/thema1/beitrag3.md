@@ -14,8 +14,8 @@ topics:
   - Art. 7
 shortTitle: Kann ich Ärger bekommen, wenn ich meine Meinung auf Social Media äußere?
 ---
-Grundsätzlich darf man seine Meinung als Privatperson uneingeschränkt äußern – auch über Social Media (**grundrechtlich** geschützte **Meinungsfreiheit**). Seine Meinung kann man nicht nur durch Wörter ausdrücken, sondern auch zum Beispiel durch Bilder (etwa sog. Memes), Videos (etwa sog. GIFs), Likes („:+1:“) oder Setzen/Verbreiten eines Links äußern<a id="4">[[1]](#1)</a>.  
-Es gibt aber einige Einschränkungen, die zu beachten sind. Das folgende Schaubild und Prüfungsschema soll eine Handreichung bieten, damit man selbst eine (erste) Einschätzung über die Zulässigkeit einer bestimmten Äußerung auf Social Media vornehmen kann<a id="3">[[2]](#2)</a>: 
+Grundsätzlich darf man seine Meinung als Privatperson uneingeschränkt äußern – auch über Social Media (**grundrechtlich** geschützte **Meinungsfreiheit**). Seine Meinung kann man nicht nur durch Wörter ausdrücken, sondern auch zum Beispiel durch Bilder (etwa sog. Memes), Videos (etwa sog. GIFs), Likes („:+1:“) oder Setzen/Verbreiten eines Links äußern<a id="1.1">[[1]](#1)</a>.  
+Es gibt aber einige Einschränkungen, die zu beachten sind. Das folgende Schaubild und Prüfungsschema soll eine Handreichung bieten, damit man selbst eine (erste) Einschätzung über die Zulässigkeit einer bestimmten Äußerung auf Social Media vornehmen kann<a id="2.1">[[2]](#2)</a>: 
 
 
 # 1. Handelt es sich um eine Äußerung mit Elementen der Stellungnahme/des Meinens?
@@ -72,6 +72,6 @@ Eine Verletzung der **politischen Treuepflicht** wird hingegen nicht bereits dan
 
 Man sollte dabei immer berücksichtigen, dass bei der Beantwortung der Frage, ob gegen eines dieser Vorgaben verstoßen wurde, die konkrete Position, die man (innerhalb der Stellenhierarchie) hat, sowie sein Aufgaben- bzw. Verantwortungsbereich von Bedeutung ist. 
 
-<a id="1">[[1]](#4)</a> Quelle
+<a id="1">[[1]](#1.1)</a> Quelle
 
-<a id="2">[[2]](#3)</a> Wie immer ist aber natürlich darauf zu achten, dass jeder Fall individuell betrachtet werden muss und ggf. anders zu beurteilen ist, als eine pauschale Vermutung zunächst erlaubt.
+<a id="2">[[2]](#2.1)</a> Wie immer ist aber natürlich darauf zu achten, dass jeder Fall individuell betrachtet werden muss und ggf. anders zu beurteilen ist, als eine pauschale Vermutung zunächst erlaubt.
