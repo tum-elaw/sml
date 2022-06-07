@@ -54,7 +54,7 @@ function LandingPage(props: LandingPageProps) {
         <Search isStandalone={true}>
           {({ SearchInput, SearchResults }) => {
             return (
-              <div className="container-xl px-3 px-md-6 pb-6 pb-lg-9">
+              <div className="container-xl px-3 px-md-6 pb-6 pb-lg-0">
                 <div className="gutter gutter-xl-spacious pt-6 pt-lg-0 d-lg-flex flex-row-reverse flex-items-center">
                   <div className="col-lg-7">
                     <HfPHeader />
@@ -64,10 +64,6 @@ function LandingPage(props: LandingPageProps) {
                     {SearchInput}
                   </div>
                 </div>
-                <a id="ask-community" href="/artikel" className="btn btn-outline mr-4 mt-0">
-        <ArrowRightIcon size="small" className="octicon mr-1" />
-        {`Zum Q & A`}
-                             </a>
                 <div className="mt-3">{SearchResults}</div>
               </div>
             )
@@ -95,12 +91,26 @@ function LandingPage(props: LandingPageProps) {
           </div>
           </div>
        
+          <div className="featured-links container-xl">
+          <div className="gutter gutter-xl-spacious clearfix">
+            <div className="col-12 col-lg-12 mt-6 mb-md-4 mb-lg-0 float-left">
+              <h2 className="h2-mktg">Einleitung</h2>
+              <div className='mt-3'>
+          <p>Social Media gehört inzwischen unstreitig zum Alltag der meisten Menschen.  Darunter versteht man Medien, die es einem ermöglichen, im Internet in wechselseitigen Austausch mit anderen Personen zu treten und dadurch soziale Beziehungen aufzubauen.  Dabei kann die Art und Weise, wie man mit anderen in Kontakt tritt, je nach dem konkreten De-sign des sozialen Mediums variieren.  Beispiele für Social Media-Plattformen sind face-book, Instagram, TikTok, LinkedIn und Twitter.</p>
+
+<p>Die Vorteile von Social Media sind vielen bekannt. Dagegen ist öfters nicht bekannt, was im Umgang mit Social Media erlaubt bzw. nicht erlaubt ist. Diese Webseite soll Unklarhei-ten beseitigen und einen ersten Einblick darin geben, was bei der privaten Nutzung von Social Media aus rechtlicher Sicht zu beachten ist.</p>
+
+<p>Man muss stets bedenken, dass jeder Sachverhalt für sich genommen einzeln zu betrach-tet und zu beurteilen ist, sodass die Ausführungen auf dieser Webseite eine individuelle Rechtsberatung nicht ersetzen können.</p>
           
-    
+          </div>
+          </div>
+          </div>
+          </div>
+          
         
           <div className="featured-links container-xl">
           <div className="gutter gutter-xl-spacious clearfix">
-            <div className="col-12 col-lg-6 mt-8 mb-md-4 mb-lg-0 float-left">
+            <div className="col-12 col-lg-6 mt-6 mb-md-4 mb-lg-0 float-left">
             
               <ArticleList
                 title={t('toc:getting_started')}

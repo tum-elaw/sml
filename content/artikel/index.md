@@ -29,6 +29,7 @@ versions:
   ghes: '*'
   ghae: '*'
 children:
+  - testarticle
   - thema1
 ---
 
