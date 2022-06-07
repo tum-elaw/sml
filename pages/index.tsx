@@ -54,7 +54,7 @@ function LandingPage(props: LandingPageProps) {
         <Search isStandalone={true}>
           {({ SearchInput, SearchResults }) => {
             return (
-              <div className="container-xl px-3 px-md-6 pb-6 pb-lg-9">
+              <div className="container-xl px-3 px-md-6 pb-6 pb-lg-4">
                 <div className="gutter gutter-xl-spacious pt-6 pt-lg-0 d-lg-flex flex-row-reverse flex-items-center">
                   <div className="col-lg-7">
                     <HfPHeader />
@@ -64,10 +64,6 @@ function LandingPage(props: LandingPageProps) {
                     {SearchInput}
                   </div>
                 </div>
-                <a id="ask-community" href="/artikel" className="btn btn-outline mr-4 mt-0">
-        <ArrowRightIcon size="small" className="octicon mr-1" />
-        {`Zum Q & A`}
-                             </a>
                 <div className="mt-3">{SearchResults}</div>
               </div>
             )
