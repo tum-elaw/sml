@@ -1,7 +1,7 @@
 ---
 title: Alle Inhalte
-shortTitle: Alle Inhalte
-intro: 'Übersicht aller Beiträge im Wiki zum bayerischen Digitalgesetz'
+shortTitle: Fragen & Antworten
+intro: 'Übersicht aller Fragen und Antworten im Social Media Leitfaden'
 redirect_from:
   - /categories/20/articles/
   - /categories/95/articles/
