@@ -28,7 +28,7 @@ export const SidebarNav = () => {
           tabIndex={-1}
         >
           {/*<MarkGithubIcon size={32} />*/}
-          <img src="/assets/images/site/govlogo.png" width="42px"></img>
+          
         </Link>
         <Link
           href={`/${router.locale}`}

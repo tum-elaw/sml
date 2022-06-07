@@ -78,7 +78,7 @@ export const Header = () => {
             <div className="d-flex flex-items-center" id="github-logo-mobile" role="banner">
               <Link aria-hidden="true" tabIndex={-1} href={`/${router.locale}`}>
                 {/*<MarkGithubIcon size={32} className="color-icon-primary" />*/}
-                <img src="/assets/images/site/govlogo.png" width="32px"></img>
+                
               </Link>
 
               <Link
