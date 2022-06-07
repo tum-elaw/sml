@@ -54,7 +54,7 @@ function LandingPage(props: LandingPageProps) {
         <Search isStandalone={true}>
           {({ SearchInput, SearchResults }) => {
             return (
-              <div className="container-xl px-3 px-md-6 pb-6 pb-lg-4">
+              <div className="container-xl px-3 px-md-6 pb-6 pb-lg-0">
                 <div className="gutter gutter-xl-spacious pt-6 pt-lg-0 d-lg-flex flex-row-reverse flex-items-center">
                   <div className="col-lg-7">
                     <HfPHeader />
