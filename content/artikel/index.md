@@ -1,6 +1,6 @@
 ---
 title: Alle Inhalte
-shortTitle: Fragen & Antworten
+shortTitle: Alle Inhalte
 intro: 'Übersicht aller Fragen und Antworten im Social Media Leitfaden'
 redirect_from:
   - /categories/20/articles/
