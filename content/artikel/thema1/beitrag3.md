@@ -17,7 +17,6 @@ shortTitle: Kann ich Ärger bekommen, wenn ich meine Meinung auf Social Media ä
 Grundsätzlich darf man seine Meinung als Privatperson uneingeschränkt äußern – auch über Social Media (**grundrechtlich** geschützte **Meinungsfreiheit**). Seine Meinung kann man nicht nur durch Wörter ausdrücken, sondern auch zum Beispiel durch Bilder (etwa sog. Memes), Videos (etwa sog. GIFs), Likes („:+1:“) oder Setzen/Verbreiten eines Links äußern<a id="4">[[1]](#1)</a>.  
 Es gibt aber einige Einschränkungen, die zu beachten sind. Das folgende Schaubild und Prüfungsschema soll eine Handreichung bieten, damit man selbst eine (erste) Einschätzung über die Zulässigkeit einer bestimmten Äußerung auf Social Media vornehmen kann<a id="3">[[2]](#2)</a>: 
 
-
 # 1. Handelt es sich um eine Äußerung mit Elementen der Stellungnahme/des Meinens?
  
 Der umfassende Schutz der Meinungsfreiheit aus Art. 5 Abs. 1 GG kommt nur Meinungen zugute:
