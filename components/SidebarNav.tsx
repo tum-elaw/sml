@@ -35,7 +35,7 @@ export const SidebarNav = () => {
           className="h4-mktg color-text-primary no-underline no-wrap flex-auto"
         >
           {/*{t('github_docs')} */}
-          Social Media Leitfadens
+          Social Media Leitfaden
         </Link>
       </div>
       <nav>
