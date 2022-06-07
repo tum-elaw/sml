@@ -1,5 +1,5 @@
 ---
-title: Digitale Dienste - Art. 17 BayDiG-E
+title: Liken fremder Inhalte
 intro: Kann ich Ärger bekommen, wenn ich fremde Inhalte like bzw. favorisiere?
 contributor:
   name: Lukas Baumgartner

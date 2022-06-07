@@ -1,5 +1,5 @@
 ---
-title: Stärkung digitaler Grundkompetenzen (Gesellschaft, Wirtschaft und Verwaltung) - Art. 2 Satz 2 Nr. 7 BayDiG-E
+title: Ich wurde wegen meiner Tätigkeit bei der Landesberwaltung kontaktiert
 intro: Wie soll ich reagieren, wenn mich eine Person aufgrund meiner Tätigkeit bei der Landesverwaltung kontaktiert?
 contributor:
   name: Sophie Salfetter

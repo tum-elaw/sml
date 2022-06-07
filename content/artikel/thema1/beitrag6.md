@@ -1,5 +1,5 @@
 ---
-title: Digitale Souveränität - Art. 3 BayDiG-E
+title: Informationen über meine Tätigkeit
 intro: Darf ich über meine Arbeit bei der Behörde schreiben?
 contributor:
   name: Denis Graipel

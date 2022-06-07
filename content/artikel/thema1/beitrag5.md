@@ -1,5 +1,5 @@
 ---
-title: Digitale Geschäftsmodelle - Art. 2 Nr. 9 BayDiG-E
+title: Blockieren anderer Nutzer
 intro: Darf ich andere Nutzer blockieren?
 contributor:
   name: Denis Graipel

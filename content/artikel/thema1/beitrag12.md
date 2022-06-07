@@ -1,5 +1,5 @@
 ---
-title: Portalverbund Bayern/Bayernportal - Art. 27 BayDiG-E
+title: Nutzung von Gruppen in Social Media
 intro: Kann ich Ärger bekommen, wenn ich eine eigene Social Media-Gruppe erstelle oder fremden Gruppen beitrete?
 contributor:
   name: Lukas Baumgartner 
