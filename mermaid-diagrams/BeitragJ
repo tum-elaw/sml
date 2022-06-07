@@ -1,0 +1,7 @@
+graph TD
+    A["Handelt es sich um ein schutzfähiges Werk? <a href='http://google.com'>[3]</a>"] -->|Nein| B["Ist ein anderes Schutzrecht betroffen? <a href='http://google.com'>[4]</a>"]
+    A --> C["<b>Stellt die Handlung einen Eingriff in die Verwertungsrechte des Urhebers dar?<a href='https://www.tum.de'>[7]</a></b></br>Der/dem Urheber sind u.a. folgende (Verwertungs-) Handlungen vorbehalten:</br><ul> <li>- Vervielfältigungsrecht</li><li> - Recht der öffentliche Zugänglichmachung</li></ul>"]
+    B -->|Ja| D[Laptop]
+    B -->|Nein| E[iPhone]
+    C -->|Three| F[fa:fa-car Car]
+  
