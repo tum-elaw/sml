@@ -91,7 +91,7 @@ function LandingPage(props: LandingPageProps) {
             <div className="col-12 col-lg-6 float-left">
           <h3 className="display-4 ml-3 float-left color-text-link">Prof. Dr. Dirk Heckmann</h3>
           <h5 className="display-4 ml-3 float-left">Technische Universität München, Direktor des TUM Center for Digital Public Services (CDPS)</h5>
-          <h6 className="display-4 ml-3 float-left">Bildcredits an Kilian Blues bidt</h6>
+          <div className="display-4 ml-3 float-left">Bildcredits an Kilian Blues bidt</div>
           </div>
           </div>
        
