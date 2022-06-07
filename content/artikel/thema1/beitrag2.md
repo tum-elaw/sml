@@ -12,7 +12,7 @@ versions:
 type: how_to
 topics:
   - Art. 7
-shortTitle: Darf ich im Namen meines Arbeitgebers (z.B. der Landesbehörde) auf Social Media schreiben und antworten?
+shortTitle: Muss ich bei meiner privaten Social Media-Profilseite angeben, dass es sich um meine private Seite handelt?
 ---
 
 Die Öffentlichkeitsarbeit für Ihren Arbeitgeber (z.B. die bayerischen Landesbehörden) übernehmen die hierfür vorgesehenen Pressestellen und Abteilungen (bzw. Behördenvertreter).
