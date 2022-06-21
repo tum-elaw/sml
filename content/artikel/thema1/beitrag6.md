@@ -1,9 +1,6 @@
 ---
 title: Informationen über meine Tätigkeit
 intro: Darf ich über meine Arbeit bei der Behörde schreiben?
-contributor:
-  name: Denis Graipel
-  URL: https://www.gov.sot.tum.de/gov/home/
 redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/upgrading-git-large-file-storage
   - /articles/purchasing-additional-storage-and-bandwidth-for-a-personal-account/
@@ -33,9 +30,3 @@ Eine große Herausforderung in der (Zurück-)Erlangung der digitalen Souveränit
 ## IV. Fazit und Bewertung
 
 Die digitale Souveränität sollte eine wichtige Anforderung bei der Modernisierung der öffentlichen Verwaltung sein, hat aber auch eine Bedeutung im Gesamtkontext der Digitalisierung der gesamten Gesellschaft. Meines Erachtens fehlen noch weitere Konkretisierungen, welche Maßnahmen zu mehr digitaler Souveränität führen sollen. Bisher ist überwiegend der Betrieb eigener Rechenzentren erwähnt, welcher sich auf der GAIA-X-Initiative der EU stützt. Zurückzuführen ist dies wahrscheinlich auf einer Fehlinterpretation von „digitaler Souveränität“, indem man sie mit Datensouveränität gleichsetzt und das Ziel damit schon erreicht sieht. Gesetzgeberisch könnten Anforderungen wie Interoperabilität von Verwaltungsprogrammen, die Bevorzugung von Open-Source-Programmen und der Leitsatz „public money, public code“ festgeschrieben werden. Neben diesen Punkten, die die Verwaltung unmittelbar betreffen, sollte außerdem der Netzausbau, sowohl beim Breitband-, als auch beim Mobilfunknetz vorangebracht werden, indem man Kommunen bei der Errichtung unterstützt und bürokratische Hürden reduziert, so dass die Genehmigungsverfahren schneller ablaufen können. So können abgelegenere Orte, welche aus Perspektive der großen Telekommunikationsanbieter unrentabel sind, an der Digitalisierung partizipieren. Denn ein Recht auf elektronische Verwaltung ohne Internet im Dorf bringt dem Bürger nichts. Mit dem aktuellen Kurs entsteht ein großes Gefälle zwischen den Städten, in denen mittlerweile 5G-Netze errichtet werden und dem ländlichen Raum, in dem teilweise gar kein Empfang vorhanden ist. Seit der Abschaltung der 3G-Netze14 gibt es außer LTE nur noch das sehr langsame GSM-Netz, mit welchem sich nicht brauchbar im Internet surfen lässt. Durch die Gründung einer staatlichen Firma zur Entwicklung von Softwarelösungen könnte man die Nachfrage bündeln und Kosten für individuelle Entwicklungen verhindern. Dies stärkt vor allem kleinere Kommunen, denn die meisten Beratungsunternehmen sind auf Microsoft-Produkte spezialisiert und so stehen derzeit gar nicht die Kapazitäten für Open-Source-Implementierungen zur Verfügung. Die Stadt München hat über ihr IT-Referat bereits solche Eigenbetriebe zur Beratung und Implementierung aufgebaut.15
-
-{% tip %}
-
-**Autor:** Denis Graipel
-
-{% endtip %}

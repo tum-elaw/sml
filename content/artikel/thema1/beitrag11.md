@@ -1,9 +1,6 @@
 ---
 title: Liken fremder Inhalte
 intro: Kann ich Ärger bekommen, wenn ich fremde Inhalte like bzw. favorisiere?
-contributor:
-  name: Lukas Baumgartner
-  URL: https://www.tum.de/
 redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/upgrading-git-large-file-storage
   - /articles/purchasing-additional-storage-and-bandwidth-for-a-personal-account/
@@ -45,10 +42,3 @@ Die digitale Implementierung der einzelnen Dienstleistungen im Sinne eines Ende-
 ## 4. Fazit
 Die Einführung von digitalen Prozessen in der öffentlichen Verwaltung ist aus Bürger- und Unternehmenssicht sehr zu begrüßen und eröffnet umfangreiche Möglichkeiten auf dem Weg zum E-Government in Deutschland. Der Gesetzgeber muss bei der technischen Implementierung der Prozesse auf eine möglichst einfache und stringente Umsetzung achten, um Systeme administrierbar zu halten und überflüssige Komplexitäten zu vermeiden.   
 Nachbesserungsbedarf ergibt sich potenziell hinsichtlich der Regelung zur Nutzung von Metadaten bei digitalen Diensten. Durch die Speicherung und Verarbeitung dieser Daten im Betriebsalltag des Systems könnten wertvolle Erkenntnisse zu Verbesserung des Systems abgleitet werden. Auch das Design für zukünftige Automatisierungen kann auf Basis gewonnener Metadaten basieren, um weitere Effizienzverbesserungen zu erzielen. 
-
-
-{% tip %}
-
-**Autor:** Lukas Baumgartner
-
-{% endtip %}

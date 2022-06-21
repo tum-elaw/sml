@@ -1,9 +1,6 @@
 ---
 title: Bilder von Events der Behörde veröffentlichen
 intro: Darf ich meine Bilder, die auf dem letzten Event der Behörde gemacht habe, auf Social Media veröffentlichen?
-contributor:
-  name: Sophie Salfetter
-  URL: https://www.tum.de/
 redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/upgrading-git-large-file-storage
   - /articles/purchasing-additional-storage-and-bandwidth-for-a-personal-account/
@@ -37,9 +34,3 @@ Eine enorme Chance, aus politikwissenschaftlicher Perspektive ist, dass das Gese
 5. Fazit, Bewertung und Ideen zur Umsetzung des Begriffs
 Es müssen genaue Ziele und ein Zeitplan für Qualifizierung festgelegt werden, um den Fortschritt messen und einschätzen zu können. In dieser Hinsicht besteht Nachbesserungsbedarf, da die öffentliche Verwaltung ein attraktiver Arbeitgeber für begehrte Arbeitnehmer künftiger Generationen werden muss. Deswegen muss der Gesetzgeber so schnell wie möglich detaillierte Konzepte zur Qualifizierung und Weiterbildung transparent machen, damit potenzielle, zukünftige Mitarbeiter die Chancen und Möglichkeiten erkennen und dann ergreifen können. Durch den Aufbau einer internen Qualifizierungsplattform könnten die Mitarbeiter jederzeit Weiterbildungen online durchführen. Durch die zentrale Plattform können dort Fragen gestellt werden die schnellstmöglich von Bots oder von Mitarbeitern beantwortet werden. Ohne Leistungsdruck und Stress könnten die Mitarbeiter so in ihrem eigenen Tempo die Plattform zum Lernen nutzen. Da jeder andere Voraussetzungen mitbringt können verschiedene Workshops und Übungen übersprungen oder bei Bedarf wiederholt werden.
 
-
-{% tip %}
-
-**Autor:** Sophie Salfetter
-
-{% endtip %}
