@@ -14,8 +14,7 @@ shortTitle: Glossar
 [siehe Günther/Lenz, ArbRAktuell 2020, 405 (407 f.)]
 
 ### GIF
-Ein GIF (Plural: die GIFs) ist ein Grafikaustauschformat (engl.: Graphics Interchange Format), in dem mehrere Einzelbilder, die übereinanderliegen, in einer Datei abgespeichert werden. <sup><a id="1.1">[[1]](#1)</a></sup>  Es wird genutzt, um kurze Animationen zu erstellen, die anschließend ins Internet hochgeladen und verbreitet werden.  Heutzutage wird es als Synonym für animierte Kurzvideos – meist in Form von sehr kurzen Filmszenen – verwendet, auch wenn diese technisch nicht in diesem Grafikaustauschformat vorliegen.  Wenn diese Kurzvideoausschnitte noch mit einem Untertitel oder Text versehen werden, ersetzen sie oft eine geschriebene Antwort. 
-
+Ein GIF (Plural: die GIFs) ist ein Grafikaustauschformat (engl.: Graphics Interchange Format), in dem mehrere Einzelbilder, die übereinanderliegen, in einer Datei abgespeichert werden.<sup><a id="1.1">[[1]](#1)</a></sup> Es wird genutzt, um kurze Animationen zu erstellen, die anschließend ins Internet hochgeladen und verbreitet werden. <sup><a id="2.1">[[2]](#2)</a></sup> Heutzutage wird es als Synonym für animierte Kurzvideos – meist in Form von sehr kurzen Filmszenen – verwendet, auch wenn diese technisch nicht in diesem Grafikaustauschformat vorliegen.<sup><a id="3.1">[[3]](#3)</a></sup> Wenn diese Kurzvideoausschnitte noch mit einem Untertitel oder Text versehen werden, ersetzen sie oft eine geschriebene Antwort. 
 
 Beispiel: 	Videodatei „Katzenvideo_GIF ohne Text“  verwenden und ganz am Ende beim letzten Standbild folgende Über-/Unterschrift verwenden:
 „SHIT I THINK
@@ -76,7 +75,8 @@ Auf diese Weise können Nutzerinnen und Nutzer auf Beiträge anderer hinweisen u
 
 ## C. Fußnoten
 <a id="1">[[1]](#1.1)</a> Netzwelt 2020: [https://www.netzwelt.de/abkuerzung/174552-bedeutet-gif-erklaerung-definition.html](https://www.netzwelt.de/abkuerzung/174552-bedeutet-gif-erklaerung-definition.htm)  
-<a id="1">[[1]](#1.1)</a> Quelle  
+<a id="2">[[2]](#2.1)</a> Netzwelt 2020: [https://www.netzwelt.de/abkuerzung/174552-bedeutet-gif-erklaerung-definition.html](https://www.netzwelt.de/abkuerzung/174552-bedeutet-gif-erklaerung-definition.htm)  
+<a id="3">[[3]](#3.1)</a> Netzwelt 2020: [https://www.netzwelt.de/abkuerzung/174552-bedeutet-gif-erklaerung-definition.html](https://www.netzwelt.de/abkuerzung/174552-bedeutet-gif-erklaerung-definition.htm)  
 <a id="1">[[1]](#1.1)</a> Quelle  
 <a id="1">[[1]](#1.1)</a> Quelle  
 <a id="1">[[1]](#1.1)</a> Quelle  
@@ -86,3 +86,16 @@ Auf diese Weise können Nutzerinnen und Nutzer auf Beiträge anderer hinweisen u
 <a id="1">[[1]](#1.1)</a> Quelle   
 <a id="1">[[1]](#1.1)</a> Quelle  
 <a id="1">[[1]](#1.1)</a> Quelle  
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-pink.min.css">
+<script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+
+<!-- Accent-colored raised button with ripple -->
+<button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">
+  Button
+</button>
+<!-- Colored FAB button -->
+<button class="mdl-button mdl-js-button mdl-button--fab mdl-button--colored">
+  <i class="material-icons">add</i>
+</button>

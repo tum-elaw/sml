@@ -52,7 +52,7 @@ module.exports = function csp (req, res, next) {
       ],
       styleSrc: [
         "'self'",
-        "'unsafe-inline'"
+        "'unsafe-inline'",
       ],
       childSrc: [
         "'self'" // exception for search in deprecated GHE versions
