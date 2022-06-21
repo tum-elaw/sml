@@ -8,6 +8,8 @@ versions:
   ghae: '*'
 shortTitle: Glossar
 ---
+<link rel="stylesheet" href="/stylesheets/smltooltip.css"></link>
+
 ## A. Begriffe
 
 ###  Emojis bzw. Emoticons
@@ -104,20 +106,6 @@ Auf diese Weise können Nutzerinnen und Nutzer auf Beiträge anderer hinweisen u
 <a id="28">[[28]](#28.1)</a> Quelle
 
 
-
-
-
-
-<!-- Accent-colored raised button with ripple -->
-<button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">
-  Button
-</button>
-<!-- Colored FAB button -->
-<button class="mdl-button mdl-js-button mdl-button--fab mdl-button--colored">
-  <i class="material-icons">add</i>
-</button>
-
-
 <div class="tooltip">Hover over me
   <span class="tooltiptext">Tooltip text</span>
 </div>
@@ -128,10 +116,10 @@ Auf diese Weise können Nutzerinnen und Nutzer auf Beiträge anderer hinweisen u
     position: relative;
     display: inline-block;
     border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
-  }
-  
-  /* Tooltip text */
-  .tooltip .tooltiptext {
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
     visibility: hidden;
     width: 120px;
     background-color: #555;
@@ -139,21 +127,21 @@ Auf diese Weise können Nutzerinnen und Nutzer auf Beiträge anderer hinweisen u
     text-align: center;
     padding: 5px 0;
     border-radius: 6px;
-  
+
     /* Position the tooltip text */
     position: absolute;
     z-index: 1;
     bottom: 125%;
     left: 50%;
     margin-left: -60px;
-  
+
     /* Fade in tooltip */
     opacity: 0;
     transition: opacity 0.3s;
-  }
-  
-  /* Tooltip arrow */
-  .tooltip .tooltiptext::after {
+}
+
+/* Tooltip arrow */
+.tooltip .tooltiptext::after {
     content: "";
     position: absolute;
     top: 100%;
@@ -162,13 +150,11 @@ Auf diese Weise können Nutzerinnen und Nutzer auf Beiträge anderer hinweisen u
     border-width: 5px;
     border-style: solid;
     border-color: #555 transparent transparent transparent;
-  }
-  
-  /* Show the tooltip text when you mouse over the tooltip container */
-  .tooltip:hover .tooltiptext {
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
     visibility: visible;
     opacity: 1;
-  }
+}
 </style>
-
-<link rel="stylesheet" type="text/css" media="all" href="stylesheets/smltooltip.css" />
