@@ -15,7 +15,7 @@ topics:
 miniTocMaxHeadingLevel: 3
 shortTitle: Kann ich Ärger bekommen, wenn ich meine Meinung auf Social Media äußere?
 ---
-Grundsätzlich darf man seine Meinung als Privatperson uneingeschränkt äußern – auch über Social Media (**grundrechtlich** geschützte **Meinungsfreiheit**). Seine Meinung kann man nicht nur durch Wörter ausdrücken, sondern auch zum Beispiel durch Bilder (etwa sog. Memes), Videos (etwa sog. GIFs), Likes („:+1:“) oder Setzen/Verbreiten eines Links äußern.<sup><a id="1.1">[[1]](#1)</a></sup> 
+Grundsätzlich darf man seine Meinung als Privatperson uneingeschränkt äußern – auch über Social Media (**grundrechtlich** geschützte **Meinungsfreiheit**). Seine Meinung kann man nicht nur durch Wörter ausdrücken, sondern auch zum Beispiel durch Bilder (etwa sog. Memes), Videos (etwa sog. GIFs), Likes („:+1:“) oder Setzen/Verbreiten eines Links äußern.<span class="tooltip"><sup><a id='1.1'>[[1]](#1)</a></sup><span class="tooltiptext">Quelle</span></span>
 Es gibt aber einige Einschränkungen, die zu beachten sind. Das folgende Schaubild und Prüfungsschema soll eine Handreichung bieten, damit man selbst eine (erste) Einschätzung über die Zulässigkeit einer bestimmten Äußerung auf Social Media vornehmen kann:<sup><a id="2.1">[[2]](#2)</a></sup> 
 
 ## 1. Handelt es sich um eine Äußerung mit Elementen der Stellungnahme/des Meinens?
@@ -33,6 +33,7 @@ Da nicht selten einer Meinungen eine Tatsache zugrunde liegt und eine Abgrenzung
 Dadurch sind Tatsachenbehauptungen mit Meinungsbezug selbst dann von der Meinungsfreiheit geschützt, wenn sie sich später als unwahr herausstellen. <sup><a id="8.1">[[8]](#8)</a></sup> 
 Eine Ausnahme hiervon wird nur bei bewusst **unwahren Tatsachenbehauptungen** und solchen, deren **Unwahrheit** bereits zum Zeitpunkt der Äußerung **unzweifelhaft feststeht**, gemacht: Diese Tatsachenbehauptungen sind von vornherein nicht durch die Meinungsfreiheit geschützt;<sup><a id="9.1">[[9]](#9)</a></sup>   teilweise sogar explizit unter Strafe gestellt. <sup><a id="10.1">[[10]](#10)</a></sup>
  
+ Falls Meinung --> 
 
 ## 2. Erfolgt die Aussage im Rahmen einer geistigen Auseinandersetzung in einer Sache oder handelt es sich um (unzulässige) Schmähkritik?
  
@@ -117,53 +118,52 @@ Rn. 19, m.w.N.
 <a id="38">[[38]](#38.1)</a> Werres in: Beck Online Kommentar Beamtenrecht Bund, 25. Edition, Stand: 1. Februar 2022, § 60 BBG,
 Rn. 19.  
 <a id="39">[[39]](#39.1)</a> So wird es zum Beispiel auch bei der Feststellung der Gesetzestreue eines Beamten gehandhabt: ein einmaliges außerdienstliches Fehlverhalten eines Beamten bedeutet nicht gleich, dass er keine Gesetzestreue oder kein Ver-antwortungsbewusstsein bei der Erfüllung seiner konkreten dienstlichen (Beamten-)Pflichten hat. Dem außer-dienstlichen Fehlverhalten kommt eine Indizwirkung für eine Verletzung der Dienstpflichten umso eher zu, je näher der Bezug des besagten Fehlverhaltens zu den übertragenen Dienstpflichten ist. Bei einem Kassenbeamten sind beispielsweise außerdienstliche Vermögensdelikte eher geeignet, Rückschlüsse auf seine dienstliche Ver-trauenswürdigkeit zu geben, als es bei außerdienstlichen Straßenverkehrs- oder Ehrverletzungsdelikten der Fall wäre, BVerwG NJW 2001, 1080 (1082); ausländerfeindliche Aussagen dürften hingegen insbesondere schwerwie-gen, wenn es sich bei dem äußernden Beamten um den Leiter eines Personalreferats handelt, vgl. BVerwG NJW 2002, 155.
-<sup><a id='1.1'>[[1]](#1)</a></sup>
 
 <style>
-    /* Tooltip container */
+/* Tooltip container */
 .tooltip {
-    position: relative;
-    display: inline-block;
-    border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
 }
 
 /* Tooltip text */
 .tooltip .tooltiptext {
-    visibility: hidden;
-    width: 120px;
-    background-color: #555;
-    color: #fff;
-    text-align: center;
-    padding: 5px 0;
-    border-radius: 6px;
+  visibility: hidden;
+  width: 120px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
 
-    /* Position the tooltip text */
-    position: absolute;
-    z-index: 1;
-    bottom: 125%;
-    left: 50%;
-    margin-left: -60px;
+  /* Position the tooltip text */
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
 
-    /* Fade in tooltip */
-    opacity: 0;
-    transition: opacity 0.3s;
+  /* Fade in tooltip */
+  opacity: 0;
+  transition: opacity 0.3s;
 }
 
 /* Tooltip arrow */
 .tooltip .tooltiptext::after {
-    content: "";
-    position: absolute;
-    top: 100%;
-    left: 50%;
-    margin-left: -5px;
-    border-width: 5px;
-    border-style: solid;
-    border-color: #555 transparent transparent transparent;
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
 }
 
 /* Show the tooltip text when you mouse over the tooltip container */
 .tooltip:hover .tooltiptext {
-    visibility: visible;
-    opacity: 1;
+  visibility: visible;
+  opacity: 1;
 }
-</style>
+</script>
