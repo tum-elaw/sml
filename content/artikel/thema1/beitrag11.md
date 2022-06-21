@@ -42,3 +42,54 @@ Die digitale Implementierung der einzelnen Dienstleistungen im Sinne eines Ende-
 ## 4. Fazit
 Die Einführung von digitalen Prozessen in der öffentlichen Verwaltung ist aus Bürger- und Unternehmenssicht sehr zu begrüßen und eröffnet umfangreiche Möglichkeiten auf dem Weg zum E-Government in Deutschland. Der Gesetzgeber muss bei der technischen Implementierung der Prozesse auf eine möglichst einfache und stringente Umsetzung achten, um Systeme administrierbar zu halten und überflüssige Komplexitäten zu vermeiden.   
 Nachbesserungsbedarf ergibt sich potenziell hinsichtlich der Regelung zur Nutzung von Metadaten bei digitalen Diensten. Durch die Speicherung und Verarbeitung dieser Daten im Betriebsalltag des Systems könnten wertvolle Erkenntnisse zu Verbesserung des Systems abgleitet werden. Auch das Design für zukünftige Automatisierungen kann auf Basis gewonnener Metadaten basieren, um weitere Effizienzverbesserungen zu erzielen. 
+
+
+
+<style>
+    /* Tooltip container */
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+
+    /* Fade in tooltip */
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+/* Tooltip arrow */
+.tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
+</style>

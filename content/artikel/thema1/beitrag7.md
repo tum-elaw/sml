@@ -33,3 +33,54 @@ Eine Herausforderung, um die digitale Grundkompetenz zu stärken wird der Netzau
 ## 5. Fazit, Bewertung und Ideen zur Umsetzung des Begriffs
 
 Um eine digitale Grundkompetenz in der Gesellschaft, Wirtschaft und Verwaltung stärken zu können spielt die Bildung eine zentrale Rolle. Um diese Wissens- und Kompetenzlücke bei zukünftigen Generationen nicht aufkommen zu lassen benötigen wir die Einführung des Schulfaches Digitalkunde, damit schon im Kindesalter Programmierung und Coding gelernt werden kann. „Programmieren ist neben Lesen, Schreiben und Rechnen die vierte Kulturtechnik für das 21. Jahrhundert! Entsprechend muss die Schulausbildung darauf angepasst werden – daran führt kein Weg vorbei.“ (Kollmann & Schmidt, 2016). In Universitäten und bei Ausbildungen müssen diese Kompetenzen dann weiter gefördert werden. Digitale Start-ups müssen gefördert werden und KMU müssen auch vermehrt bei der Implementierung der Digitalisierung unterstützt werden. Nachbesserungsbedarf besteht bei der Erstellung eines Definitionskatalogs über die genauen Aspekte digitaler Grundkompetenzen so wie beispielsweise in der IHK Studie Abbildung 1 (siehe Anhang), diese Übersicht ist dann immer auf den neusten Stand zu aktualisieren, falls Programme und Anwendungen hinzukommen beziehungsweise wegfallen. Um die digitalen Grundkompetenzen der Gesellschaft zu stärken kann die vom Land Nordrhein-Westfalen entwickelte Onlineplattform „Digital Check NRW“ als Vorbild dienen. Dort können die Bürger mit einem Selbsttest testen wie gut ihre digitalen Kompetenzen sind und mit Hilfe des Ergebnisses kann erörtert werden, wo noch Verbesserungsbedarf besteht. Auf der Website findet man dann passende Weiterbildungsmöglichkeiten und eine Übersicht über aktuelle Online-Veranstaltungen, die die digitale Grundkompetenz der Bürger unterstützt (Gesellschaft für Medienpädagogik und Kommunikationskultur (GMK) e.V., 2022).
+
+
+
+<style>
+    /* Tooltip container */
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+
+    /* Fade in tooltip */
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+/* Tooltip arrow */
+.tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
+</style>
