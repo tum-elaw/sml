@@ -36,6 +36,7 @@ module.exports = function csp (req, res, next) {
       scriptSrc: [
         "'self'",
         'data:',
+        '*.jsdelivr.net',
         // For use during development only! This allows us to use a performant webpack devtool setting (eval)
         // https://webpack.js.org/configuration/devtool/#devtool
         process.env.NODE_ENV === 'development' && "'unsafe-eval'"

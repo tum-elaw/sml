@@ -22,3 +22,30 @@ Die folgende Checkliste soll einen Überblick darüber geben, ob man einen fremd
 
 <img className="float-left mt-2" src ="../../../assets/images/testDiagramm.png" ></img>
 
+<div>
+        <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+        <script>
+            mermaid.initialize({ startOnLoad: true });
+        </script>
+        <div class="mermaid">
+            graph TD 
+            A[Client] --> B[Load Balancer] 
+            B --> C[Server1] 
+            B --> D[Server2]
+        </div>
+        <div class="mermaid">
+            graph TD 
+            A[Client] -->|tcp_123| B
+            B(Load Balancer) 
+            B -->|tcp_456| C[Server1] 
+            B -->|tcp_456| D[Server2]
+        </div>
+        <div class="mermaid">
+            graph TD
+            A["Handelt es sich um ein schutzfähiges Werk? "] -->|Nein| B["Ist ein anderes Schutzrecht betroffen?"]
+            A --> C["<b>Stellt die Handlung einen Eingriff in die Verwertungsrechte des Urhebers dar?</b></br>Der/dem Urheber sind u.a. folgende (Verwertungs-) Handlungen vorbehalten:</br> - Vervielfältigungsrecht - Recht der öffentliche Zugänglichmachung"]
+            B -->|Ja| D[Laptop]
+            B -->|Nein| E[iPhone]
+            C -->|Three| F[fa:fa-car Car]
+        </div>
+</div>
