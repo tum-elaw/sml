@@ -1,9 +1,6 @@
 ---
 title: Ich wurde wegen meiner Tätigkeit bei der Landesberwaltung kontaktiert
 intro: Wie soll ich reagieren, wenn mich eine Person aufgrund meiner Tätigkeit bei der Landesverwaltung kontaktiert?
-contributor:
-  name: Sophie Salfetter
-  URL: https://www.tum.de/
 redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/upgrading-git-large-file-storage
   - /articles/purchasing-additional-storage-and-bandwidth-for-a-personal-account/
@@ -36,10 +33,3 @@ Eine Herausforderung, um die digitale Grundkompetenz zu stärken wird der Netzau
 ## 5. Fazit, Bewertung und Ideen zur Umsetzung des Begriffs
 
 Um eine digitale Grundkompetenz in der Gesellschaft, Wirtschaft und Verwaltung stärken zu können spielt die Bildung eine zentrale Rolle. Um diese Wissens- und Kompetenzlücke bei zukünftigen Generationen nicht aufkommen zu lassen benötigen wir die Einführung des Schulfaches Digitalkunde, damit schon im Kindesalter Programmierung und Coding gelernt werden kann. „Programmieren ist neben Lesen, Schreiben und Rechnen die vierte Kulturtechnik für das 21. Jahrhundert! Entsprechend muss die Schulausbildung darauf angepasst werden – daran führt kein Weg vorbei.“ (Kollmann & Schmidt, 2016). In Universitäten und bei Ausbildungen müssen diese Kompetenzen dann weiter gefördert werden. Digitale Start-ups müssen gefördert werden und KMU müssen auch vermehrt bei der Implementierung der Digitalisierung unterstützt werden. Nachbesserungsbedarf besteht bei der Erstellung eines Definitionskatalogs über die genauen Aspekte digitaler Grundkompetenzen so wie beispielsweise in der IHK Studie Abbildung 1 (siehe Anhang), diese Übersicht ist dann immer auf den neusten Stand zu aktualisieren, falls Programme und Anwendungen hinzukommen beziehungsweise wegfallen. Um die digitalen Grundkompetenzen der Gesellschaft zu stärken kann die vom Land Nordrhein-Westfalen entwickelte Onlineplattform „Digital Check NRW“ als Vorbild dienen. Dort können die Bürger mit einem Selbsttest testen wie gut ihre digitalen Kompetenzen sind und mit Hilfe des Ergebnisses kann erörtert werden, wo noch Verbesserungsbedarf besteht. Auf der Website findet man dann passende Weiterbildungsmöglichkeiten und eine Übersicht über aktuelle Online-Veranstaltungen, die die digitale Grundkompetenz der Bürger unterstützt (Gesellschaft für Medienpädagogik und Kommunikationskultur (GMK) e.V., 2022).
-
-
-{% tip %}
-
-**Autor:** Sophie Salfetter
-
-{% endtip %}

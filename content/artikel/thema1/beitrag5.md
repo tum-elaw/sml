@@ -1,9 +1,6 @@
 ---
 title: Blockieren anderer Nutzer
 intro: Darf ich andere Nutzer blockieren?
-contributor:
-  name: Denis Graipel
-  URL: https://www.gov.tum.de/elaw/team/jonas-hacker/
 redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/upgrading-git-large-file-storage
   - /articles/purchasing-additional-storage-and-bandwidth-for-a-personal-account/
@@ -36,7 +33,3 @@ Die Förderung digitaler Geschäftsmodelle ist ein zentraler Baustein um das Zie
 
 Test. Mit dieser Formulierung definiert die Bayerische Staatsregierung in ihrem Entwurf des Bayerischen Digitalgesetzes den Bereich der (vernetzten) Mobilität als eine Zielbestimmung ihrer digitalen Daseinsvorsorge. Unter Digitalisierung wird im Folgenden der „Prozess (…) der auf der intelligenten Vernetzung von Prozessketten und einer durchgängigen Erfassung, Aufbereitung, Analyse und Kommunikation von Daten beruht (…)“ verstanden. Aufgrund der technischen Entwicklungen und Fortschritte der vergangenen Jahrzehnte werden täglich viele Daten und Informationen gesammelt und deren konstruktive und gemeinschaftsdienliche Nutzung soll durch das neue Gesetz erreicht werden, im vorliegenden Kontext im Bereich der Mobilität. Der Fokus liegt dabei auf dem motorisierten Individualverkehr (v.a. Auto) und dabei vor allem im Bereich autonomes Fahren, insgesamt ist der Begriff jedoch weit zu verstehen und so spielen beispielsweise auch der öffentliche Personennahverkehr oder allgemein die intelligente Vernetzung und Steuerung der Verkehrssysteme eine Rolle. Insgesamt ergeben sich bei der Digitalisierung im Mobilitätsbereich eine Reihe von Chancen und Herausforderungen, die insbesondere aus rechtlicher, technischer und politisch-gesellschaftlicher Perspektive beleuchtet werden können. Wie wichtig die Einschätzbarkeit und Nachvollziehbarkeit des Geschäftsbetriebs ist, sollte man spätestens durch den Wirecard-Skandal erfahren haben. Auch nach dem Bekanntwerden des möglichen Bilanzbetrugs nahmen verschiedene hochrangige Politiker die Firma international in Schutz und widersprachen der Behauptungen der Medien. Weil sich durch moderne Unternehmen nicht nur die Geschäftsmodelle, sondern auch die Unternehmenskultur und die Arbeitsweise ändert, bedarf es unter anderem bei der Stadtplanung auf diese Veränderungen zu reagieren. So müssten in Wohngebieten zeitweise mietbare Büro- und Meetingräume zur Verfügung stehen. Dies hilft nicht nur jungen Unternehmen, sondern entlastet auch die Städte durch das Wegfallen von Pendelstrecken. Wie oben beschrieben, ist es aus Perspektive des Staates sehr günstig, in Unternehmen durch Risikokapital zu investieren. Entsprechend sollte der Freistaat Bayern hierfür eine ordentliche Summe durch einen Fond zur Verfügung stellen und etwaige Gewinne reinvestieren, anstatt nur an private Kapitalgeber zu vermitteln.
 
-{% tip %}
-
-**Autor:** Denis Graipel
-{% endtip %}

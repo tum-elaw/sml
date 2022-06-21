@@ -1,9 +1,6 @@
 ---
 title: Teilen fremder Inhalte
 intro: Worauf muss ich achten, wenn ich fremde Inhalte auf Social Media teile?
-contributor:
-  name: Fay
-  URL: https://www.tum.de/
 redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/upgrading-git-large-file-storage
   - /articles/purchasing-additional-storage-and-bandwidth-for-a-personal-account/
