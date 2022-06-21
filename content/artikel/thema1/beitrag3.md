@@ -14,8 +14,8 @@ topics:
   - Art. 7
 shortTitle: Kann ich Ärger bekommen, wenn ich meine Meinung auf Social Media äußere?
 ---
-Grundsätzlich darf man seine Meinung als Privatperson uneingeschränkt äußern – auch über Social Media (**grundrechtlich** geschützte **Meinungsfreiheit**). Seine Meinung kann man nicht nur durch Wörter ausdrücken, sondern auch zum Beispiel durch Bilder (etwa sog. Memes), Videos (etwa sog. GIFs), Likes („:+1:“) oder Setzen/Verbreiten eines Links äußern<a id="1.1">[[1]](#1)</a>.  
-Es gibt aber einige Einschränkungen, die zu beachten sind. Das folgende Schaubild und Prüfungsschema soll eine Handreichung bieten, damit man selbst eine (erste) Einschätzung über die Zulässigkeit einer bestimmten Äußerung auf Social Media vornehmen kann<a id="2.1">[[2]](#2)</a>: 
+Grundsätzlich darf man seine Meinung als Privatperson uneingeschränkt äußern – auch über Social Media (**grundrechtlich** geschützte **Meinungsfreiheit**). Seine Meinung kann man nicht nur durch Wörter ausdrücken, sondern auch zum Beispiel durch Bilder (etwa sog. Memes), Videos (etwa sog. GIFs), Likes („:+1:“) oder Setzen/Verbreiten eines Links äußern<sup><a id="1.1">[[1]](#1)</a></sup>.  
+Es gibt aber einige Einschränkungen, die zu beachten sind. Das folgende Schaubild und Prüfungsschema soll eine Handreichung bieten, damit man selbst eine (erste) Einschätzung über die Zulässigkeit einer bestimmten Äußerung auf Social Media vornehmen kann<sup><a id="2.1">[[2]](#2)</a></sup>: 
 
 # 1. Handelt es sich um eine Äußerung mit Elementen der Stellungnahme/des Meinens?
  
@@ -70,6 +70,8 @@ Ein Verstoß gegen das Gebot **unparteiischer und gerechter Aufgabenerfüllung**
 Eine Verletzung der **politischen Treuepflicht** wird hingegen nicht bereits dann bejaht, wenn man eine (politische) Überzeugung hat und auch nicht, wenn man diese Überzeugung anderen lediglich mitteilt.  Eine Verletzung ebendieser wird erst bei einem äußern Handeln angenommen, wenn sich diese Überzeugung etwa negativ auf die Erfüllung der Dienstpflicht und auf den Umgang mit den anderen Mitarbeiterinnen und Mitarbeiter auswirkt oder man aufgrund seiner Überzeugung Folgerungen für seine Einstellung  gegenüber der verfassungsmäßigen Ordnung zieht.  Als Beamtin oder Beamter muss man sich zur freiheitlich demokratischen Grundordnung bekennen – das ist der Minimalkonsens, der stets bestehen muss.  Meinungsäußerungen, die daran Zweifel erkennen lassen, sind mit der Treuepflicht und somit beamtenrechtlichen Stellung nicht vereinbar und können (arbeits-)rechtliche Konsequenzen nach sich ziehen. Das bedeutet jedoch nicht, dass man als Beamtin oder Beamter bestehende politische, rechtliche und – innerhalb der Grenzen der freiheitlich demokratischen Grundordnung – verfassungsrechtliche Verhältnisse niemals kritisieren darf: Die Kritik ist durchaus erlaubt, sofern sie besonnen, tolerant und sachlich vorgebracht wird.  In diesem Rahmen ist es einem als Privatfrau bzw. -mann auch erlaubt, beispielsweise seinen obersten Dienstvorgesetzten zu kritisieren. 
 
 Man sollte dabei immer berücksichtigen, dass bei der Beantwortung der Frage, ob gegen eines dieser Vorgaben verstoßen wurde, die konkrete Position, die man (innerhalb der Stellenhierarchie) hat, sowie sein Aufgaben- bzw. Verantwortungsbereich von Bedeutung ist. 
+
+### Referenzen
 
 <a id="1">[[1]](#1.1)</a> Quelle
 
