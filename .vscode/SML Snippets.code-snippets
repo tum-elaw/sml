@@ -22,4 +22,11 @@
 		"description": "Zitat inline",
 		"scope": "markdown"
 	  },
+
+	"Zitat back": {
+		"prefix": "Zitat back",
+		"body": ["<a id='1'>[[1]](#1.1)</a>"],
+		"description": "Zitat link back to text",
+		"scope": "markdown"
+	  },
 }
