@@ -12,6 +12,7 @@ versions:
 type: how_to
 topics:
   - Art. 7
+miniTocMaxHeadingLevel: 3
 shortTitle: Kann ich Ärger bekommen, wenn ich meine Meinung auf Social Media äußere?
 ---
 Grundsätzlich darf man seine Meinung als Privatperson uneingeschränkt äußern – auch über Social Media (**grundrechtlich** geschützte **Meinungsfreiheit**). Seine Meinung kann man nicht nur durch Wörter ausdrücken, sondern auch zum Beispiel durch Bilder (etwa sog. Memes), Videos (etwa sog. GIFs), Likes („:+1:“) oder Setzen/Verbreiten eines Links äußern<sup><a id="1.1">[[1]](#1)</a></sup>.  
@@ -71,7 +72,7 @@ Eine Verletzung der **politischen Treuepflicht** wird hingegen nicht bereits dan
 
 Man sollte dabei immer berücksichtigen, dass bei der Beantwortung der Frage, ob gegen eines dieser Vorgaben verstoßen wurde, die konkrete Position, die man (innerhalb der Stellenhierarchie) hat, sowie sein Aufgaben- bzw. Verantwortungsbereich von Bedeutung ist. 
 
-### Referenzen
+## Referenzen
 
 <a id="1">[[1]](#1.1)</a> Quelle
 
