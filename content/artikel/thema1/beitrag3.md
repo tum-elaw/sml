@@ -17,7 +17,7 @@ shortTitle: Kann ich Ärger bekommen, wenn ich meine Meinung auf Social Media ä
 Grundsätzlich darf man seine Meinung als Privatperson uneingeschränkt äußern – auch über Social Media (**grundrechtlich** geschützte **Meinungsfreiheit**). Seine Meinung kann man nicht nur durch Wörter ausdrücken, sondern auch zum Beispiel durch Bilder (etwa sog. Memes), Videos (etwa sog. GIFs), Likes („:+1:“) oder Setzen/Verbreiten eines Links äußern<sup><a id="1.1">[[1]](#1)</a></sup>.  
 Es gibt aber einige Einschränkungen, die zu beachten sind. Das folgende Schaubild und Prüfungsschema soll eine Handreichung bieten, damit man selbst eine (erste) Einschätzung über die Zulässigkeit einer bestimmten Äußerung auf Social Media vornehmen kann<sup><a id="2.1">[[2]](#2)</a></sup>: 
 
-# 1. Handelt es sich um eine Äußerung mit Elementen der Stellungnahme/des Meinens?
+## 1. Handelt es sich um eine Äußerung mit Elementen der Stellungnahme/des Meinens?
  
 Der umfassende Schutz der Meinungsfreiheit aus Art. 5 Abs. 1 GG kommt nur Meinungen zugute:
 Für die Einstufung als Meinung kommt es darauf an, dass die – in welcher Form auch immer geartete – Äußerung **Elemente der Stellungnahme**, des **Meinens**, des **Dafürhaltens** erkennen lässt.  Ist dies der Fall, liegt die erste Voraussetzung für die Zulässigkeit der Aussage vor.
@@ -34,7 +34,7 @@ Eine Ausnahme hiervon wird nur bei bewusst **unwahren Tatsachenbehauptungen** un
 
  
 
-# 2. Erfolgt die Aussage im Rahmen einer geistigen Auseinandersetzung in einer Sache oder handelt es sich um (unzulässige) Schmähkritik?
+## 2. Erfolgt die Aussage im Rahmen einer geistigen Auseinandersetzung in einer Sache oder handelt es sich um (unzulässige) Schmähkritik?
  
 
 Eine Äußerung im Sinne einer Stellungnahme/eines Meinens ist erlaubt, wenn sie im **Rahmen einer geistigen Auseinandersetzung** erfolgt.  Diese Schwelle ist in der Regel bereits erreicht, wenn ein Bezug zu einem gewissen Sachthema (**Sachbezug**) besteht: Selbst polemische und überspitzte Kritik an einer Person ist dann erlaubt, solange es **primär um die Auseinandersetzung in der Sache** an sich (und nicht um die Herablassung dieser Person) geht.  In der gegenwärtigen Reizüberflutung, welche mit der Digitalisierung und insbesondere Social Media in den letzten Jahren exponentiell zugenommen hat, sind auch besonders einprägsame, stark auf- bzw. abwertende sowie ironische Formulierungen als Meinungsäußerungen erlaubt, um Aufmerksamkeit zu erlangen. 
@@ -47,15 +47,15 @@ Allgemein gilt, dass bei der Beantwortung der Frage, ob eine konkrete Äußerung
   
 Die Meinungsäußerung ist erlaubt – unabhängig davon, ob sie begründet/grundlos, nützlich/schädlich oder emotional/rational ist.
 
-## Besonderheiten bei Aussagen von Angestellten in Bezug auf ihre eigene Arbeitsstelle
+### Besonderheiten bei Aussagen von Angestellten in Bezug auf ihre eigene Arbeitsstelle
 Hinsichtlich (Meinungs-)Äußerungen betreffend die eigene Arbeitsstelle wird auf die Frage weiter unten „F. Darf ich über meine Arbeit bei der Behörde schreiben?“ verwiesen.
 
-## Besonderheiten bei Angestellten des öffentlichen Dienstes, die nicht verbeamtet sind (d.h. Tarifbeschäftigten) :
+### Besonderheiten bei Angestellten des öffentlichen Dienstes, die nicht verbeamtet sind (d.h. Tarifbeschäftigten) :
 Ein Mäßigungsgebot, welches die Angestellten dazu anhalten soll, auch durch ihr außerdienstliches Verhalten den Anschein zu vermeiden, man würde sein Amt nicht unparteiisch und ausschließlich gemeinwohlorientiert wahrnehmen – wie im Beamtentum (s.u.) – existiert für die Beschäftigten im Tarifbereich nicht. 
 Jedoch muss man sich als Tarifbeschäftigte oder Tarifbeschäftigter (in dessen Aufgabenbereichen auch hoheitliche Tätigkeiten wahrgenommen werden) durch sein dienstliches wie **auch außerdienstliches Verhalten** zur freiheitlich demokratischen Grundordnung im Sinne des Grundgesetzes bekennen.  Der Umfang dieses Bekenntnisses bzw. dieser Treuepflicht bestimmt sich dabei nach der Stellung und dem Aufgabenkreis, den man gemäß dem Arbeitsvertrag übertragen bekommen hat.  Es ist zwar erlaubt, wenn man zum Beispiel verfassungsfeindliche Ziele einer Partei oder Organisation für richtig hält.  Jedoch muss man insoweit ein Mindestmaß an Verfassungstreue zeigen, als man nicht selbst (aktiv) verfassungsfeindliche Ziele verfolgt oder unterstützt  und darauf aus ist, den Staat, die Verfassung oder deren Organe zu beseitigen, zu beschimpfen oder verächtlich zu machen.  Verstößt man gegen diese Treuepflicht, könnte es sogar zu einer Kündigung kommen.  
 Entsprechend sollte man bei Meinungsäußerungen auf Social Media, die den Staat, die Verfassung oder deren Organe in ihrer jeweiligen Funktion innerhalb der freiheitlich demokratischen Grundordnung im besonderen Maße beschimpfen oder verächtlich machen, zurückhaltend sein.
 
-## Besonderheiten bei Beamtinnen und Beamten:
+### Besonderheiten bei Beamtinnen und Beamten:
 Einerseits wird von Beamtinnen und Beamten außerhalb ihres Dienstes kein wesentlich anderes Sozialverhalten als von den anderen Bürgerinnen und Bürgern erwartet. 
 Andererseits hat man aber als Angestellte oder Angestellter mit Beamtenstatus (**auch im außerdienstlichen Bereich**) aufgrund der Wahrung des Vertrauens der Bürgerinnen und Bürger in die Integrität der Amtsführung folgende Vorgaben zu beachten:
 

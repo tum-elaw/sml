@@ -31,5 +31,6 @@ versions:
 children:
   - testarticle
   - thema1
+  - glossar
 ---
 
