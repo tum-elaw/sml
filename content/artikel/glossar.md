@@ -10,13 +10,21 @@ shortTitle: Glossar
 ---
 <link rel="stylesheet" href="/stylesheets/smltooltip.css"></link>
 
+Hallo dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem <span class="tooltip"><a id='1.1'>[[1]](#1)</a>
+  <span class="tooltiptext">Netzwelt 2020 frgthzjukilökijutzzuzuzuuz: [https://www.netzwelt.de/abkuerzung/174552-bedeutet-gif-erklaerung-definition.html](https://www.netzwelt.de/abkuerzung/174552-bedeutet-gif-erklaerung-definition.htm)  </span>
+</span> ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
+<sup><a id='1.1'>[[1]](#1)</a></sup>
+
 ## A. Begriffe
 
 ###  Emojis bzw. Emoticons
-[siehe Günther/Lenz, ArbRAktuell 2020, 405 (407 f.)]
+[siehe Günther/Lenz, ArbRAktuell 2020, 405 (407 f.)] 
 
 ### GIF
-Ein GIF (Plural: die GIFs) ist ein Grafikaustauschformat (engl.: Graphics Interchange Format), in dem mehrere Einzelbilder, die übereinanderliegen, in einer Datei abgespeichert werden.<sup><a id="1.1">[[1]](#1)</a></sup> Es wird genutzt, um kurze Animationen zu erstellen, die anschließend ins Internet hochgeladen und verbreitet werden. <sup><a id="2.1">[[2]](#2)</a></sup> Heutzutage wird es als Synonym für animierte Kurzvideos – meist in Form von sehr kurzen Filmszenen – verwendet, auch wenn diese technisch nicht in diesem Grafikaustauschformat vorliegen.<sup><a id="3.1">[[3]](#3)</a></sup> Wenn diese Kurzvideoausschnitte noch mit einem Untertitel oder Text versehen werden, ersetzen sie oft eine geschriebene Antwort.<sup><a id='4.1'>[[4]](#4)</a></sup>
+Ein GIF (Plural: die GIFs) ist ein Grafikaustauschformat (engl.: Graphics Interchange Format), in dem mehrere Einzelbilder, die übereinanderliegen, in einer Datei abgespeichert werden.<sup><a id="1.1"><span class="tooltip">[[1]](#1)
+  <span class="tooltiptext">Tooltip text</span>
+</span></a></sup> Es wird genutzt, um kurze Animationen zu erstellen, die anschließend ins Internet hochgeladen und verbreitet werden. <sup><a id="2.1">[[2]](#2)</a></sup> Heutzutage wird es als Synonym für animierte Kurzvideos – meist in Form von sehr kurzen Filmszenen – verwendet, auch wenn diese technisch nicht in diesem Grafikaustauschformat vorliegen.<sup><a id="3.1">[[3]](#3)</a></sup> Wenn diese Kurzvideoausschnitte noch mit einem Untertitel oder Text versehen werden, ersetzen sie oft eine geschriebene Antwort.<sup><a id='4.1'>[[4]](#4)</a></sup>
 
 Beispiel: 	Videodatei „Katzenvideo_GIF ohne Text“  verwenden und ganz am Ende beim letzten Standbild folgende Über-/Unterschrift verwenden:
 „SHIT I THINK
@@ -106,22 +114,24 @@ Auf diese Weise können Nutzerinnen und Nutzer auf Beiträge anderer hinweisen u
 <a id="28">[[28]](#28.1)</a> Quelle
 
 
-<div class="tooltip">Hover over me
+
+
+<span class="tooltip">Hover over me
   <span class="tooltiptext">Tooltip text</span>
-</div>
+</span>
 
 <style>
     /* Tooltip container */
 .tooltip {
     position: relative;
     display: inline-block;
-    border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+/*    border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
 }
 
 /* Tooltip text */
 .tooltip .tooltiptext {
     visibility: hidden;
-    width: 120px;
+    width: auto;
     background-color: #555;
     color: #fff;
     text-align: center;
