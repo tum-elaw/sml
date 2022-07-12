@@ -35,52 +35,40 @@ Die technischen Voraussetzungen dafür lassen sich in drei Stufen unterteilen. Z
 Das autonome Fahren führt nicht nur zu großen technischen Herausforderungen, sondern wirft auch weitreichende und komplexe juristische Fragen, beispielsweise bezüglich der Haftung nach einem Unfall oder des Datenschutzes bzw. der Datennutzung. In Deutschland traten hierfür am 21. Juni 2017 das Gesetz zum automatisierten Fahren für Systeme der Stufe 3 und am 28. Juli 2021 das Gesetz zum autonomen Fahren für Systeme der Stufe 4 in Kraft. Wichtige Maßstäbe für die beiden Gesetze gab eine vom Bundesverkehrsministerium eingesetzte Ethikkommission vor – unter anderem besetzt durch Prof. Dr. Dirk Heckmann –, die 20 ethische Regeln für den vernetzten und automatisierten Fahrzeugverkehr formulierte. Demnach muss das primäre Ziel automatisierter (Verkehrs-)Systeme eine Verbesserung der Sicherheit sein und der Schutz menschlichen Lebens muss stets Vorrang genießen; bei Unfällen darf keine Quantifizierung oder Qualifizierung nach z.B. äußerlichen Merkmalen der betroffenen Personen erfolgen. Auf europäischer und internationaler Ebene fehlt es bislang an Regelungen für autonomes Fahren, allerdings hat die Europäische Kommission im Oktober 2021 einen Verordnungsentwurf diesbezüglich an die Mitgliedsstaaten versandt. Auf internationaler Ebene gibt es das von 80 Staaten ratifizierte Wieder Übereinkommen über den Straßenverkehr von 1968 und bei dessen letzten Änderung im Jahr 2016 automatisierte, nicht aber autonome, Systeme zur Fahrzeugsteuerung geregelt bzw. erlaubt wurden. 
 Ob und in welchem Ausmaß die Technologie zum autonomen Fahren genutzt wird, hängt auch von den einzelnen Autofahrer:innen ab und wie sie der Technik gegenüberstehen. Zahlen hierfür liefert z.B. die Mobilitätsstudie 2020 der Continental AG. Demnach glauben 51% der befragten Personen nicht, dass die Technik je zuverlässig funktionieren wird und 60% sagen, dass ihnen automatisiertes Fahren weniger Freude bereitet als „klassisches“ Autofahren. Diese Ergebnisse dürfen jedoch nicht überbewertet werden, da die Studie auch zeigt, dass bereits existierende Assistenzsysteme eher akzeptiert werden, wenn deren Vorteile klar erkennbar sind.
 
-
 <style>
-    /* Tooltip container */
+/* Tooltip container */
 .tooltip {
-    position: relative;
-    display: inline-block;
-    border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+  position: relative;
+  display: inline-block;
 }
 
 /* Tooltip text */
 .tooltip .tooltiptext {
-    visibility: hidden;
-    width: 120px;
-    background-color: #555;
-    color: #fff;
-    text-align: center;
-    padding: 5px 0;
-    border-radius: 6px;
+  position: absolute;
+  width: max-content;
+  max-width: 2000%;
+  visibility: hidden;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  padding: 5px 5px;
+  border-radius: 6px;
 
-    /* Position the tooltip text */
-    position: absolute;
-    z-index: 1;
-    bottom: 125%;
-    left: 50%;
-    margin-left: -60px;
+  /* Position the tooltip text */
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
 
-    /* Fade in tooltip */
-    opacity: 0;
-    transition: opacity 0.3s;
-}
-
-/* Tooltip arrow */
-.tooltip .tooltiptext::after {
-    content: "";
-    position: absolute;
-    top: 100%;
-    left: 50%;
-    margin-left: -5px;
-    border-width: 5px;
-    border-style: solid;
-    border-color: #555 transparent transparent transparent;
+  /* Fade in tooltip */
+  opacity: 0;
+  transition: opacity 0.3s;
 }
 
 /* Show the tooltip text when you mouse over the tooltip container */
 .tooltip:hover .tooltiptext {
-    visibility: visible;
-    opacity: 1;
+  visibility: visible;
+  opacity: 1;
 }
-</style>
+</script>

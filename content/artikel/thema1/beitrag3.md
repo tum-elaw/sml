@@ -53,7 +53,7 @@ Die Meinungsäußerung ist erlaubt – unabhängig davon, ob sie begründet/grun
 
 Hinsichtlich (Meinungs-)Äußerungen betreffend die eigene Arbeitsstelle wird auf die Frage weiter unten „F. Darf ich über meine Arbeit bei der Behörde schreiben?“ verwiesen.
 
-### Besonderheiten bei Angestellten des öffentlichen Dienstes, die nicht verbeamtet sind (d.h. Tarifbeschäftigten):
+ Besonderheiten bei Angestellten des öffentlichen Dienstes, die nicht verbeamtet sind (d.h. Tarifbeschäftigten):
 <span class='tooltip'><sup><a id='18.1'>[[18]](#18)</a></sup><span class='tooltiptext'>Bei den Beschäftigungsverhältnissen im öffentlichen Dienst unterscheidet man zwischen den Dienstverhältnis-sen der Beamtinnen sowie Beamten und den privatrechtlichen Arbeitsverhältnissen (der Tarifbeschäftigten). Die rechtliche Stellung der Beamtinnen und Beamten ergibt sich maßgeblich aus den einschlägigen gesetzlichen Rege-lungen (u.a. GG, Bundesbeamtengesetz (BBG), Beamtenstatusgesetz (BeamtStG)). Die rechtliche Stellung der pri-vatrechtlich Beschäftigten ergibt sich hingegen aus dem Arbeits- und Tarifrecht und wird vor allem durch die jeweiligen Tarifverträge sowie durch privatrechtliche Arbeitsverträge gestaltet; WD 6 - 3000 - 045/19, S. 4.</span></span>
 
 **Kein html in Headings???**
@@ -126,7 +126,7 @@ Rn. 19.
 Rn. 19, m.w.N.  
 <a id="38">[[38]](#38.1)</a> Werres in: Beck Online Kommentar Beamtenrecht Bund, 25. Edition, Stand: 1. Februar 2022, § 60 BBG,
 Rn. 19.  
-<a id="39">[[39]](#39.1)</a> So wird es zum Beispiel auch bei der Feststellung der Gesetzestreue eines Beamten gehandhabt: ein einmaliges außerdienstliches Fehlverhalten eines Beamten bedeutet nicht gleich, dass er keine Gesetzestreue oder kein Ver-antwortungsbewusstsein bei der Erfüllung seiner konkreten dienstlichen (Beamten-)Pflichten hat. Dem außer-dienstlichen Fehlverhalten kommt eine Indizwirkung für eine Verletzung der Dienstpflichten umso eher zu, je näher der Bezug des besagten Fehlverhaltens zu den übertragenen Dienstpflichten ist. Bei einem Kassenbeamten sind beispielsweise außerdienstliche Vermögensdelikte eher geeignet, Rückschlüsse auf seine dienstliche Ver-trauenswürdigkeit zu geben, als es bei außerdienstlichen Straßenverkehrs- oder Ehrverletzungsdelikten der Fall wäre, BVerwG NJW 2001, 1080 (1082); ausländerfeindliche Aussagen dürften hingegen insbesondere schwerwie-gen, wenn es sich bei dem äußernden Beamten um den Leiter eines Personalreferats handelt, vgl. BVerwG NJW 2002, 155.
+<a id="39">[[39]](#39.1)</a> So wird es zum Beispiel auch bei der Feststellung der Gesetzestreue eines Beamten gehandhabt: ein einmaliges außerdienstliches Fehlverhalten eines Beamten bedeutet nicht gleich, dass er keine Gesetzestreue oder kein Ver-antwortungsbewusstsein bei der Erfüllung seiner konkreten dienstlichen (Beamten-)Pflichten hat. Dem außer-dienstlichen Fehlverhalten kommt eine Indizwirkung für eine Verletzung der Dienstpflichten umso eher zu, je näher der Bezug des besagten Fehlverhaltens zu den übertragenen Dienstpflichten ist. Bei einem Kassenbeamten sind beispielsweise außerdienstliche Vermögensdelikte eher geeignet, Rückschlüsse auf seine dienstliche Vertrauenswürdigkeit zu geben, als es bei außerdienstlichen Straßenverkehrs- oder Ehrverletzungsdelikten der Fall wäre, BVerwG NJW 2001, 1080 (1082); ausländerfeindliche Aussagen dürften hingegen insbesondere schwerwie-gen, wenn es sich bei dem äußernden Beamten um den Leiter eines Personalreferats handelt, vgl. BVerwG NJW 2002, 155.
 
 <style>
 /* Tooltip container */
@@ -137,12 +137,15 @@ Rn. 19.
 
 /* Tooltip text */
 .tooltip .tooltiptext {
+  position: absolute;
+  width: max-content;
+  max-width: 2000%;
   visibility: hidden;
-  heigth: auto;
   background-color: #555;
   color: #fff;
   text-align: center;
   padding: 5px 0;
+  padding: 5px 5px;
   border-radius: 6px;
 
   /* Position the tooltip text */

@@ -46,54 +46,40 @@ Die Einführung eines zentralen Bayernportals zur Digitalisierung der Verwaltung
 Nachbesserungsbedarf ergibt sich nach Ansicht der Opposition vor allem im Bereich der Teilhabe, um z.B. Menschen mit Behinderung oder älteren Menschen eine Bedienung des Portals zu ermöglichen. Hier bleibt der Gesetzentwurf an vielen Stellen vage und unkonkret. 
 Auch mangelnde Vorgaben beim Thema OpenData werden kritisiert. Hier hätte das Gesetz einen großen Schritt in Richtung Aufbau einer innovativen Dateninfrastruktur für Bayern wagen können. Offene Daten könnten z.B. viel Potenzial für mehr Transparenz des Staates gegenüber der Gesellschaft im Sinne von Open Government bedeuten. Ebenso können sie bei der Entwicklung von Innovation und der neuer Geschäftsmodelle entscheidend unterstützen.
 
-
-
-
 <style>
-    /* Tooltip container */
+/* Tooltip container */
 .tooltip {
-    position: relative;
-    display: inline-block;
-    border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+  position: relative;
+  display: inline-block;
 }
 
 /* Tooltip text */
 .tooltip .tooltiptext {
-    visibility: hidden;
-    width: 120px;
-    background-color: #555;
-    color: #fff;
-    text-align: center;
-    padding: 5px 0;
-    border-radius: 6px;
+  position: absolute;
+  width: max-content;
+  max-width: 2000%;
+  visibility: hidden;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  padding: 5px 5px;
+  border-radius: 6px;
 
-    /* Position the tooltip text */
-    position: absolute;
-    z-index: 1;
-    bottom: 125%;
-    left: 50%;
-    margin-left: -60px;
+  /* Position the tooltip text */
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
 
-    /* Fade in tooltip */
-    opacity: 0;
-    transition: opacity 0.3s;
-}
-
-/* Tooltip arrow */
-.tooltip .tooltiptext::after {
-    content: "";
-    position: absolute;
-    top: 100%;
-    left: 50%;
-    margin-left: -5px;
-    border-width: 5px;
-    border-style: solid;
-    border-color: #555 transparent transparent transparent;
+  /* Fade in tooltip */
+  opacity: 0;
+  transition: opacity 0.3s;
 }
 
 /* Show the tooltip text when you mouse over the tooltip container */
 .tooltip:hover .tooltiptext {
-    visibility: visible;
-    opacity: 1;
+  visibility: visible;
+  opacity: 1;
 }
-</style>
+</script>

@@ -35,53 +35,40 @@ Eine enorme Chance, aus politikwissenschaftlicher Perspektive ist, dass das Gese
 Es müssen genaue Ziele und ein Zeitplan für Qualifizierung festgelegt werden, um den Fortschritt messen und einschätzen zu können. In dieser Hinsicht besteht Nachbesserungsbedarf, da die öffentliche Verwaltung ein attraktiver Arbeitgeber für begehrte Arbeitnehmer künftiger Generationen werden muss. Deswegen muss der Gesetzgeber so schnell wie möglich detaillierte Konzepte zur Qualifizierung und Weiterbildung transparent machen, damit potenzielle, zukünftige Mitarbeiter die Chancen und Möglichkeiten erkennen und dann ergreifen können. Durch den Aufbau einer internen Qualifizierungsplattform könnten die Mitarbeiter jederzeit Weiterbildungen online durchführen. Durch die zentrale Plattform können dort Fragen gestellt werden die schnellstmöglich von Bots oder von Mitarbeitern beantwortet werden. Ohne Leistungsdruck und Stress könnten die Mitarbeiter so in ihrem eigenen Tempo die Plattform zum Lernen nutzen. Da jeder andere Voraussetzungen mitbringt können verschiedene Workshops und Übungen übersprungen oder bei Bedarf wiederholt werden.
 
 
-
-
 <style>
-    /* Tooltip container */
+/* Tooltip container */
 .tooltip {
-    position: relative;
-    display: inline-block;
-    border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+  position: relative;
+  display: inline-block;
 }
 
 /* Tooltip text */
 .tooltip .tooltiptext {
-    visibility: hidden;
-    width: 120px;
-    background-color: #555;
-    color: #fff;
-    text-align: center;
-    padding: 5px 0;
-    border-radius: 6px;
+  position: absolute;
+  width: max-content;
+  max-width: 2000%;
+  visibility: hidden;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  padding: 5px 5px;
+  border-radius: 6px;
 
-    /* Position the tooltip text */
-    position: absolute;
-    z-index: 1;
-    bottom: 125%;
-    left: 50%;
-    margin-left: -60px;
+  /* Position the tooltip text */
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
 
-    /* Fade in tooltip */
-    opacity: 0;
-    transition: opacity 0.3s;
-}
-
-/* Tooltip arrow */
-.tooltip .tooltiptext::after {
-    content: "";
-    position: absolute;
-    top: 100%;
-    left: 50%;
-    margin-left: -5px;
-    border-width: 5px;
-    border-style: solid;
-    border-color: #555 transparent transparent transparent;
+  /* Fade in tooltip */
+  opacity: 0;
+  transition: opacity 0.3s;
 }
 
 /* Show the tooltip text when you mouse over the tooltip container */
 .tooltip:hover .tooltiptext {
-    visibility: visible;
-    opacity: 1;
+  visibility: visible;
+  opacity: 1;
 }
-</style>
+</script>

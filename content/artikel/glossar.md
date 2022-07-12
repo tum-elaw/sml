@@ -113,38 +113,39 @@ Auf diese Weise können Nutzerinnen und Nutzer auf Beiträge anderer hinweisen u
 <a id='29'>[[29]](#29.1)</a> Weiterführende Hinweise: Günther/Lenz, ArbRAktuell 2020, 405 (406) m.w.N.
 
 <style>
-    /* Tooltip container */
+/* Tooltip container */
 .tooltip {
-    position: relative;
-    display: inline-block;
-/*    border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+  position: relative;
+  display: inline-block;
 }
 
 /* Tooltip text */
 .tooltip .tooltiptext {
-    visibility: hidden;
-    width: auto;
-    background-color: #555;
-    color: #fff;
-    text-align: center;
-    padding: 5px 0;
-    border-radius: 6px;
+  position: absolute;
+  width: max-content;
+  max-width: 2000%;
+  visibility: hidden;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  padding: 5px 5px;
+  border-radius: 6px;
 
-    /* Position the tooltip text */
-    position: absolute;
-    z-index: 1;
-    bottom: 125%;
-    left: 50%;
-    margin-left: -60px;
+  /* Position the tooltip text */
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
 
-    /* Fade in tooltip */
-    opacity: 0;
-    transition: opacity 0.3s;
+  /* Fade in tooltip */
+  opacity: 0;
+  transition: opacity 0.3s;
 }
 
 /* Show the tooltip text when you mouse over the tooltip container */
 .tooltip:hover .tooltiptext {
-    visibility: visible;
-    opacity: 1;
+  visibility: visible;
+  opacity: 1;
 }
-</style>
+</script>
