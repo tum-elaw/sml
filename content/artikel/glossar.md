@@ -8,13 +8,6 @@ versions:
   ghae: '*'
 shortTitle: Glossar
 ---
-<link rel="stylesheet" href="/stylesheets/smltooltip.css"></link>
-
-Hallo dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem <span class="tooltip"><a id='1.1'>[[1]](#1)</a>
-  <span class="tooltiptext">Netzwelt 2020 frgthzjukilökijutzzuzuzuuz: [https://www.netzwelt.de/abkuerzung/174552-bedeutet-gif-erklaerung-definition.html](https://www.netzwelt.de/abkuerzung/174552-bedeutet-gif-erklaerung-definition.htm)  </span>
-</span> ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-<sup><a id='1.1'>[[1]](#1)</a></sup>
 
 ## A. Begriffe
 
