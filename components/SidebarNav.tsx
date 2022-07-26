@@ -42,10 +42,12 @@ export const SidebarNav = () => {
         {error === '404' || relativePath === 'index.md' ? (
           <ul className="sidebar-products mt-4">
             {!isFPT && <AllProductsLink />}
+            {/* this is responsible for sidebar on homepage*/}
             <SidebarHomepage />
           </ul>
         ) : (
           <ul className="sidebar-products">
+            {/* this is only responsible for sidebar E.g. "Alle Inhalte"-subpage */}
             <SidebarProduct />
           </ul>
         )}
