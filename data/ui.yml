@@ -52,6 +52,12 @@ support:
   contact_support: Administrator kontaktieren
   ask_community: TUM-Chat zur Wiki-Entwicklung
   qna: Q&A
+  GG: Grundgesetz (GG)
+  NetzDG: Netzwerkdurchsetzungsgesetz (NetzDG)
+  UrhG: Urheberrechtsgesetz (UrhG)
+  KUG: Kunsturhebergesetz (KUG)
+  DSGVO: Datenschutzgrundverordnung (DSGVO)
+  StGB: Strafgesetzbuch (StGB)
 survey:
   able_to_find: Wie findest du dieses Wiki?
   yes: Yes

@@ -99,7 +99,10 @@ const SidebarHomepage = () => {
               {product.name}
               {product.external && (
                 <span className="ml-1">
+                  {/*Icon for external links - disabled to support articles on homepage 
                   <LinkExternalIcon size="small" />
+                  */}
+                  
                 </span>
               )}
             </a>

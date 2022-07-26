@@ -14,36 +14,23 @@ featuredLinks:
 versions: '*'
 children:
   - artikel
+  
 externalProducts:
-  qa:
-    id: qa
-    name: Grundgesetz (GG)
-    href: 'https://www.gesetze-im-internet.de/gg/'
+  artikel1:
+    id: a1
+    name: Darf ich während meiner Arbeitszeit Social Media verwenden?
+    href: artikel/thema1/beitrag1
     external: true
-  codeql:
-    id: codeql
-    name: Netzwerkdurchsetzungsgesetz (NetzDG)
-    href: 'https://www.gesetze-im-internet.de/netzdg/index.html'
+  artikel2:
+    id: a12
+    name: Muss ich bei meiner privaten Social Media-Profilseite angeben, dass es sich um meine private Seite handelt?
+    href: artikel/thema1/beitrag2
     external: true
-  atom:
-    id: atom
-    name: Urheberrechtsgesetz (UrhG)
-    href: 'https://www.gesetze-im-internet.de/urhg/'
+  artikel3:
+    id: a3
+    name: Kann ich Ärger bekommen, wenn ich meine Meinung auf Social Media äußere?
+    href: artikel/thema1/beitrag2
     external: true
-  cli:
-    id: cli
-    name: Kunsturhebergesetz (KUG)
-    href: 'https://www.gesetze-im-internet.de/kunsturhg/index.html'
-    external: true
-  electron:
-    id: electron
-    name: Datenschutzgrundverordnung (DSGVO)
-    href: 'https://dejure.org/gesetze/DSGVO'
-    external: true
-  test:
-    id: test
-    name: Strafgesetzbuch (StGB)
-    href: 'https://www.gesetze-im-internet.de/stgb/'
-    external: true
+
 ---
 
