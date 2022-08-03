@@ -18,6 +18,7 @@ export const SupportSection = () => {
     <section className="mt-lg-9 py-7 px-3 px-md-6 no-print color-bg-tertiary">
       <div className="container-xl gutter-lg-spacious clearfix">
         <div className="col-4 col-lg-4 col-xl-2 float-left">
+        <h3 className="mb-2 f4">{"Gesetzestexte"}</h3>
         <a id="GG" href="https://www.gesetze-im-internet.de/gg/" target="_blank" className="btn btn-outline mr-4 mt-2">
           {t`GG`}
         </a>
