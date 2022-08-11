@@ -93,7 +93,7 @@ const SidebarHomepage = () => {
           >
             <a
               href={href}
-              target={product.external ? '_blank' : undefined}
+      
               className="f4 pl-4 pr-5 py-2 color-text-primary"
             >
               {product.name}
