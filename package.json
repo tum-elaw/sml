@@ -216,7 +216,7 @@
     "heroku-postbuild": "node script/early-access/clone-for-build.js && npm run build"
   },
   "engines": {
-    "node": ">= 16.0.0"
+    "node": "16.16.0"
   },
   "repository": "https://github.com/github/docs"
 }
