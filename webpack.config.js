@@ -2,6 +2,7 @@ const path = require('path')
 const MiniCssExtractPlugin = require('mini-css-extract-plugin')
 const CopyWebpackPlugin = require('copy-webpack-plugin')
 const { EnvironmentPlugin, ProvidePlugin } = require('webpack')
+const NodePolyfillPlugin = require('node-polyfill-webpack-plugin');
 
 module.exports = {
   mode: 'development',
@@ -75,6 +76,7 @@ module.exports = {
     }),
     new ProvidePlugin({
       process: 'process/browser'
-    })
+    }),
+    new NodePolyfillPlugin()
   ]
 }
