@@ -1,5 +1,9 @@
 import sys, getopt
 
+# give a filepath and the amount of footnotes as parameters
+# place {i} in text to generate a link to the footnotes
+# place {ii} at start of a footnote
+# the first {i} ist then matched to the first {ii} in the footnotes and so on
 def main():
     fname = ''
     amount = 0

@@ -41,7 +41,8 @@ export const SidebarNav = () => {
       <nav>
       <ul className="sidebar-products mt-4">
             {!isFPT && <AllProductsLink />}
-            {/* this is responsible for sidebar on homepage*/}
+            {/* this is responsible for sidebar on homepage
+                <SidebarProduct /> was responsible for subpages*/}
             <SidebarHomepage />
           </ul>
       </nav>
