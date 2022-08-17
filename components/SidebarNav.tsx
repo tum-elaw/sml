@@ -47,8 +47,9 @@ export const SidebarNav = () => {
           </ul>
         ) : (
           <ul className="sidebar-products">
-            {/* this is only responsible for sidebar E.g. "Alle Inhalte"-subpage */}
-            <SidebarProduct />
+            {/* this is only responsible for sidebar E.g. "Alle Inhalte"-subpage 
+            <SidebarProduct />*/}
+            <SidebarHomepage />
           </ul>
         )}
       </nav>
@@ -88,7 +89,7 @@ const SidebarHomepage = () => {
         return (
           <li
             key={product.id}
-            title={`${product.name}${product.external ? '(External Site)' : ''}`}
+            title={`${product.name}`}
             className="sidebar-product"
           >
             <a
