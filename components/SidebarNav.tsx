@@ -39,19 +39,11 @@ export const SidebarNav = () => {
         </Link>
       </div>
       <nav>
-        {error === '404' || relativePath === 'index.md' ? (
-          <ul className="sidebar-products mt-4">
+      <ul className="sidebar-products mt-4">
             {!isFPT && <AllProductsLink />}
             {/* this is responsible for sidebar on homepage*/}
             <SidebarHomepage />
           </ul>
-        ) : (
-          <ul className="sidebar-products">
-            {/* this is only responsible for sidebar E.g. "Alle Inhalte"-subpage 
-            <SidebarProduct />*/}
-            <SidebarHomepage />
-          </ul>
-        )}
       </nav>
 
       <style jsx>
@@ -93,7 +85,7 @@ const SidebarHomepage = () => {
             className="sidebar-product"
           >
             <a
-              href={href}
+              href={product.href}
       
               className="f4 pl-4 pr-5 py-2 color-text-primary"
             >

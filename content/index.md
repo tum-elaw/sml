@@ -19,7 +19,7 @@ externalProducts:
   artikel1:
     id: a1
     name: Darf ich während meiner Arbeitszeit Social Media verwenden?
-    href: artikel/thema1/beitrag1
+    href: 'http://sml.tum-cdps.de/en/artikel/thema1/beitrag1'
     external: true
   artikel2:
     id: a2
