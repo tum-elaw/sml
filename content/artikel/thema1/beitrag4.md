@@ -21,6 +21,9 @@ Ein pauschales Vernetzungsverbot darüber hinaus, etwa mit Antragstellerinnen un
 ## Quellenverzeichnis
 {ii} Vgl. BVerfG, NJW 2008, 2568 (2569); BeckOK BeamtenR Bund/Werres, 26. Ed. 1.2.2022, BBG § 60 Rn. 13
 
+
+
+
 <style>
 /* Tooltip container */
 .tooltip {
