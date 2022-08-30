@@ -18,6 +18,9 @@ Das hängt davon ab, ob es eine ausdrückliche Gestattung des Arbeitgebers (z.B.
 
 Bei ausdrücklicher Erlaubnis ist die private Nutzung von Social Media während der Arbeitszeit in dem erlaubten Umfang gestattet, außer die Arbeitsleistung wird erheblich beeinträchtigt. Wenn nichts zur Nutzung gesagt wurde, ist die private Nutzung während der Arbeitszeit grundsätzlich nicht erlaubt. Bei Verstößen dagegen droht zunächst eine Abmahnung und bei mehreren Verstößen sogar eine Kündigung; bei gravierenden Verstößen wäre auch eine außerordentliche/fristlose Kündigung denkbar.
 
+
+![Beschreibender Text](https://media.ethicalads.io/media/images/2022/06/ad-code.png)
+
 <style>
 /* Tooltip container */
 .tooltip {
