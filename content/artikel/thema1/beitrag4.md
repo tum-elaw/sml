@@ -19,9 +19,7 @@ Ausnahmen können sich aber auch bei einer privaten Nutzung ergeben. So könnte 
 Ein pauschales Vernetzungsverbot darüber hinaus, etwa mit Antragstellerinnen und Antragstellern oder Vorgesetzten bzw. Mitarbeiterinnen und Mitarbeitern, gibt es zwar nicht. Der Anschein einer unberechtigten Bevorzugung sollte jedoch freilich vermieden werden.
 
 ## Quellenverzeichnis
-{ii} Vgl. BVerfG, NJW 2008, 2568 (2569); BeckOK BeamtenR Bund/Werres, 26. Ed. 1.2.2022, BBG § 60 Rn. 13
-
-
+{ii} Vgl. BVerfG, NJW 2008, 2568 (2569); BeckOK BeamtenR Bund/Werres, 26. Ed. 1.2.2022, BBG § 60 Rn. 13.
 
 
 <style>
