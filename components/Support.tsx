@@ -10,14 +10,6 @@ export const Support = () => {
   return (
     <div>
       <h3 className="mb-2 f4">{t`still_need_help`}</h3>
-      <a id="ask-community" href="https://chat.tum.de/invite/MxqZgg" target="_blank" className="btn btn-outline mr-4 mt-2">
-        <PeopleIcon size="small" className="octicon mr-1" />
-        {t`ask_community`}
-      </a>
-      <a id="qna" href="https://github.com/tum-elaw/BayDiG-wiki/discussions/categories/q-a" target="_blank" className="btn btn-outline mr-4 mt-2">
-        <QuestionIcon size="small" className="octicon mr-1" />
-        {t`qna`}
-      </a>
       <a
         id="contact-us"
         href={

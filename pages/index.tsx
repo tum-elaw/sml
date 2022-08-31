@@ -25,13 +25,12 @@ type FeaturedLink = {
 type Props = {
   mainContext: MainContextT
   popularLinks: Array<FeaturedLink>
-  gettingStartedLinks: Array<FeaturedLink>
 }
-export default function MainLanding({ mainContext, gettingStartedLinks, popularLinks }: Props) {
+export default function MainLanding({ mainContext, popularLinks }: Props) {
   return (
     <MainContext.Provider value={mainContext}>
       <DefaultLayout>
-        <LandingPage gettingStartedLinks={gettingStartedLinks} popularLinks={popularLinks} />
+        <LandingPage popularLinks={popularLinks} />
       </DefaultLayout>
     </MainContext.Provider>
   )
@@ -39,11 +38,10 @@ export default function MainLanding({ mainContext, gettingStartedLinks, popularL
 
 type LandingPageProps = {
   popularLinks: Array<FeaturedLink>
-  gettingStartedLinks: Array<FeaturedLink>
 }
 function LandingPage(props: LandingPageProps) {
   const router = useRouter()
-  const { gettingStartedLinks, popularLinks } = props
+  const {popularLinks } = props
   const { activeProducts, isFPT } = useMainContext()
   const { currentVersion } = useVersion()
   const { t } = useTranslation(['homepage', 'search', 'toc'])
@@ -85,7 +83,7 @@ function LandingPage(props: LandingPageProps) {
           <div className="mt-5 float-left">
             <img className="float-left mt-2" src ="/assets/images/Profilbild_DH_Credits_an_Kilian_Blues_bidt_test.png" width="60px"></img>
             <div className="col-12 col-lg-6 float-left">
-          <h3 className="display-4 ml-3 float-left color-text-link">Prof. Dr. Dirk Heckmann</h3>
+          <h3 className="display-4 ml-3 float-left color-text-link"><a href="https://www.gov.sot.tum.de/elaw/lehrstuhlinhaber/" target="_blank">Prof. Dr. Dirk Heckmann</a></h3>
           <h5 className="display-4 ml-3 float-left">Technische Universität München, Direktor des TUM Center for Digital Public Services (CDPS)</h5>
           <div className="display-4 ml-3 float-left">Foto: Kilian Blues bidt</div>
           </div>
@@ -110,16 +108,8 @@ function LandingPage(props: LandingPageProps) {
         
           <div className="featured-links container-xl">
           <div className="gutter gutter-xl-spacious clearfix">
-            <div className="col-12 col-lg-6 mt-6 mb-md-4 mb-lg-0 float-left">
-            
-              <ArticleList
-                title={t('toc:getting_started')}
-                variant="spaced"
-                articles={gettingStartedLinks}
-              />
-            </div>
 
-            <div className="col-12 col-lg-6 mt-8 float-left">
+            <div className="mt-8 float-left">
               <ArticleList title={t('toc:popular')} variant="spaced" articles={popularLinks} />
             </div>
           </div>
@@ -137,9 +127,6 @@ export const getServerSideProps: GetServerSideProps<Props> = async (context) => 
   return {
     props: {
       mainContext: getMainContextFromRequest(req),
-      gettingStartedLinks: req.context.featuredLinks.gettingStarted.map(
-        ({ title, href, intro }: any) => ({ title, href, intro })
-      ),
       popularLinks: req.context.featuredLinks.popular.map(({ title, href, intro }: any) => ({
         title,
         href,

@@ -4,14 +4,6 @@
     {% data ui.support.still_need_help %}
   </h3>
   {% if currentVersion contains 'enterprise' %}{% assign isEnterprise = true %}{% else %}{% assign isEnterprise = false %}{% endif %}
-  <a id="ask-community" href="https://discord.gg/M7U4SuyjYc" class="btn btn-outline mr-4 mt-2">
-    {% octicon "people" width="16" %}
-    {% data ui.support.ask_community %}
-  </a>
-  <a id="qna" href="https://github.com/tum-elaw/BayDiG-wiki/discussions/categories/q-a" class="btn btn-outline mt-2">
-    {% octicon "question" width="16" %}
-    {% data ui.support.qna %}
-  </a>
   <a id="contact-us" href="https://www.gov.tum.de/elaw/team/michael-bressler/" class="btn btn-outline mt-2">
     {% octicon "comment-discussion" width="16" %}
     {% data ui.support.contact_support %}
