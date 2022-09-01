@@ -114,6 +114,16 @@ function LandingPage(props: LandingPageProps) {
             </div>
           </div>
         </div>
+        <div className="container-xl">
+          <div className="col-12 col-lg-12 mt-6 float-left h2-mktg">
+              <a href="http://sml.tum-cdps.de/en/artikel/glossar">
+                Glossar
+              </a>
+          </div>
+          <div className="mt-3">
+          Glossar über einschlägige Begriffe im Zusammenhang mit Social Media
+          </div>
+        </div>
       </div>
     </div>
   )
