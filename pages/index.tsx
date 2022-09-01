@@ -109,7 +109,7 @@ function LandingPage(props: LandingPageProps) {
           <div className="featured-links container-xl">
           <div className="gutter gutter-xl-spacious clearfix">
 
-            <div className="mt-8 float-left">
+            <div className="col-12 col-lg-12 mt-6 mb-md-4 mb-lg-0 float-left">
               <ArticleList title={t('toc:popular')} variant="spaced" articles={popularLinks} />
             </div>
           </div>
