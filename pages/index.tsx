@@ -57,8 +57,9 @@ function LandingPage(props: LandingPageProps) {
                   <div className="col-lg-7">
                     <HfPHeader />
                   </div>
-                  <div className="col-lg-5 mt-6">
-                    <h1 className="h1-mktg mb-3">{t('search:need_help')}</h1>
+                  <div className="col-lg-6">
+                    {/*Headline above search input */}
+                    <h1 className="h0-mktg mb-3">{t('search:need_help')}</h1>
                     {SearchInput}
                   </div>
                 </div>

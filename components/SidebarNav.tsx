@@ -34,8 +34,8 @@ export const SidebarNav = () => {
           href={`/${router.locale}`}
           className="h4-mktg color-text-primary no-underline no-wrap flex-auto"
         >
-          {/*{t('github_docs')} */}
-          Social Media Leitfaden
+          {t('github_docs')}
+          
         </Link>
       </div>
       <nav>
