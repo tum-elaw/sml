@@ -30,7 +30,7 @@ export const ProductSubLanding = () => {
       {includeGuides && (
         <LandingSection
           title={`${title}`}
-          className="border-top py-6 color-border-primary"
+          className="py-6"
           sectionLink="all-guides"
         >
           <ArticleCards />

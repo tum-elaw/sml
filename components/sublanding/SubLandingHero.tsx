@@ -39,16 +39,6 @@ export const SubLandingHero = () => {
 
   return (
     <div>
-      <header className="d-flex gutter mb-6">
-        <div className="col-12">
-          <Breadcrumbs variant="large" />
-          <h1 className="my-3 font-mktg">{title}</h1>
-          <div
-            className="lead-mktg color-text-secondary f4 description-text"
-            dangerouslySetInnerHTML={{ __html: intro }}
-          />
-        </div>
-      </header>
       {featuredTrack && (
         <div className="mb-6 position-relative overflow-hidden mr-n3 ml-n3 px-3">
           <ul className="list-style-none d-flex flex-nowrap overflow-x-scroll px-2 feature-track">
