@@ -11,7 +11,7 @@ versions:
   fpt: '*'
 type: fragen
 topics:
-  - Art. 27
+  - Allgemein
 shortTitle: Kann ich Ärger bekommen, wenn ich eine eigene Social Media-Gruppe erstelle oder fremden Gruppen beitrete?
 ---
 

@@ -11,7 +11,7 @@ versions:
   fpt: '*'
 type: fragen
 topics:
-  - Art. 2
+  - Allgemein
 shortTitle: Wie soll ich reagieren, wenn mich eine Person aufgrund meiner Tätigkeit bei der Landesverwaltung kontaktiert?
 ---
 ## 1. Definition des Begriffs laut Gesetz, Verständnis der Gesetzesbegründung, Verständnis aus Fachperspektive

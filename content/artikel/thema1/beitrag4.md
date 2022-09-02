@@ -11,7 +11,7 @@ versions:
   fpt: '*'
 type: fragen
 topics:
-  - Art. 2
+  - Allgemein
 shortTitle: Mit wem darf ich mich auf Social Media vernetzen?
 ---
 Grundsätzlich ist eine Vernetzung mit anderen Nutzerinnen und Nutzer eines sozialen Netzwerks erlaubt, solange dies als Privatperson erfolgt. Nutzerkonten in dienstlicher Funktionen dürfen nur mit Erlaubnis und in Abstimmung mit der Behördenleitung eröffnet werden; dies ist dann Teil der förmlichen Öffentlichkeitsarbeit der Behörde und unterliegt (neben der allgemeinen Gesetzesbindung) der innerbehördlichen Regulierung.

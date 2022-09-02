@@ -11,7 +11,7 @@ versions:
   fpt: '*'
 type: fragen
 topics:
-  - Art. 7
+  - Allgemein
 shortTitle: Muss ich bei meiner privaten Social Media-Profilseite angeben, dass es sich um meine private Seite handelt?
 ---
 

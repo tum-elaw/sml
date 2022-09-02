@@ -14,7 +14,7 @@ versions:
   fpt: '*'
 type: fragen
 topics:
-  - Art. 2
+  - Allgemein
 shortTitle: Darf ich während meiner Arbeitszeit Social Media verwenden?
 ---
 Das hängt davon ab, ob es eine ausdrückliche Gestattung des Arbeitgebers (z.B. der Behördenleitung) zur privaten Nutzung des Internets gibt. Dabei kann auch eine teilweise Nutzung erlaubt sein. 

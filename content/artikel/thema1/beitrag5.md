@@ -11,7 +11,7 @@ versions:
   fpt: '*'
 type: fragen
 topics:
-  - Art. 2
+  - Allgemein
 shortTitle: Darf ich andere Nutzer blockieren?
 ---
 

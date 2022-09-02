@@ -11,7 +11,7 @@ versions:
   fpt: '*'
 type: fragen
 topics:
-  - Art. 7
+  - Allgemein
 miniTocMaxHeadingLevel: 3
 shortTitle: Kann ich Ärger bekommen, wenn ich meine Meinung auf Social Media äußere?
 ---

@@ -11,7 +11,7 @@ versions:
   fpt: '*'
 type: fragen
 topics:
-  - Art. 7
+  - Allgemein
 shortTitle: Darf ich im Namen meiner Behörde kommunizieren?
 ---
 

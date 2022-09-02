@@ -11,7 +11,7 @@ versions:
   fpt: '*'
 type: fragen
 topics:
-  - Art. 39
+  - Allgemein
 shortTitle: Worauf muss ich achten, wenn ich fremde Inhalte auf Social Media teile?
 ---
 Es ist ein Hauptmerkmal von Social Media, (fremde) Inhalte wie Bilder, Videos und Texte hochladen, verbreiten und teilen (und nicht nur „liken“) zu können. Was viele nicht wis-sen: Diese Handlungen können eine Urheberrechtsverletzung darstellen. 

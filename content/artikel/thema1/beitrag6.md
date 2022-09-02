@@ -11,7 +11,7 @@ versions:
   fpt: '*'
 type: fragen
 topics:
-  - Art. 3
+  - Allgemein
 shortTitle: Darf ich über meine Arbeit bei der Behörde schreiben?
 ---
 

@@ -11,7 +11,7 @@ versions:
   fpt: '*'
 type: fragen
 topics:
-  - Art. 17
+  - Allgemein
 shortTitle: Kann ich Ärger bekommen, wenn ich fremde Inhalte like bzw. favorisiere?
 ---
 ## 1. Definition des Begriffs

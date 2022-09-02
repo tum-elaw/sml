@@ -11,7 +11,7 @@ versions:
   fpt: '*'
 type: fragen
 topics:
-  - Art. 7
+  - Allgemein
 shortTitle: Darf ich meine Bilder, die auf dem letzten Event der Behörde gemacht habe, auf Social Media veröffentlichen?
 ---
 
