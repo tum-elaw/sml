@@ -177,15 +177,12 @@ product_sublanding:
   load_more: Lade mehr tolle Beiträge
   all_guides: '{{ productMap[currentProduct].name }} o'
   filters:
-    type: Thema
-    topic: BayDiG-E Artikel
+    type: Art
+    topic: Thema
     all: Alle
   guide_types:
-    overview: Kategorie 1
-    quick_start: Kategorie 2
-    tutorial: Kategorie 3
-    how_to: Kategorie 4
-    reference: Kategorie 5
+    fragen: Fragen
+    glossar: Glossar
 learning_track_nav:
   prevGuide: Previous guide
   nextGuide: Next guide

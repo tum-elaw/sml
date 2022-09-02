@@ -9,7 +9,7 @@ redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/managing-billing-for-git-large-file-storage/upgrading-git-large-file-storage
 versions:
   fpt: '*'
-type: how_to
+type: fragen
 topics:
   - Art. 3
 shortTitle: Darf ich über meine Arbeit bei der Behörde schreiben?

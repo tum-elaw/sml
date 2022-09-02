@@ -20,6 +20,7 @@ includeGuides:
 - /artikel/thema1/beitrag10
 - /artikel/thema1/beitrag11
 - /artikel/thema1/beitrag12
+- /artikel/glossar
 versions:
   fpt: '*'
   ghes: '*'

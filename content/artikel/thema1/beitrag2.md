@@ -9,7 +9,7 @@ redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/managing-billing-for-git-large-file-storage/upgrading-git-large-file-storage
 versions:
   fpt: '*'
-type: how_to
+type: fragen
 topics:
   - Art. 7
 shortTitle: Muss ich bei meiner privaten Social Media-Profilseite angeben, dass es sich um meine private Seite handelt?

@@ -9,7 +9,7 @@ redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/managing-billing-for-git-large-file-storage/upgrading-git-large-file-storage
 versions:
   fpt: '*'
-type: how_to
+type: fragen
 topics:
   - Art. 2
 shortTitle: Wie soll ich reagieren, wenn mich eine Person aufgrund meiner Tätigkeit bei der Landesverwaltung kontaktiert?
