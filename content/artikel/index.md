@@ -1,6 +1,6 @@
 ---
 title: Alle Inhalte
-shortTitle: Alle Inhalte
+shortTitle: Übersicht
 intro: 'Übersicht aller Inhalte des Social Media Leitfaden'
 redirect_from:
   - /categories/20/articles/
