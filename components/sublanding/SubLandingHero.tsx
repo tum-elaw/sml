@@ -42,7 +42,7 @@ export const SubLandingHero = () => {
       <header className="d-flex gutter mb-6">
         <div className="col-12">
           <Breadcrumbs variant="large" />
-          <h1 className="my-3 font-mktg">{title} guides</h1>
+          <h1 className="my-3 font-mktg">{title}</h1>
           <div
             className="lead-mktg color-text-secondary f4 description-text"
             dangerouslySetInnerHTML={{ __html: intro }}
