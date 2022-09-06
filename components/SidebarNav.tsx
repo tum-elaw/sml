@@ -87,18 +87,9 @@ const SidebarHomepage = () => {
           >
             <a
               href={product.href}
-      
-              className="f4 pl-4 pr-5 py-2 color-text-primary"
+              className="f4 pl-4 pr-5 py-2 color-text-primary hover-grow"
             >
               {product.name}
-              {product.external && (
-                <span className="ml-1">
-                  {/*Icon for external links - disabled to support articles on homepage 
-                  <LinkExternalIcon size="small" />
-                  */}
-                  
-                </span>
-              )}
             </a>
           </li>
         )
