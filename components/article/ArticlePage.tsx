@@ -47,17 +47,6 @@ export const ArticlePage = () => {
             <div className="article-grid-head">
               <ArticleTitle>{title}</ArticleTitle>
 
-              {contributor && (
-                <div className="contributor-callout border rounded-1 mb-4 p-3 color-border-info color-bg-info f5">
-                  <p>
-                    <span className="mr-2">
-                      <InfoIcon />
-                    </span>
-                    {t('contributor_callout')} <a href={contributor.URL} target="_blank">{contributor.name}</a>.
-                  </p>
-                </div>
-              )}
-
               {intro && (
                 <div className="lead-mktg">
                   <p>{intro}</p>
@@ -145,6 +134,17 @@ export const ArticlePage = () => {
                 dangerouslySetInnerHTML={{ __html: renderedPage }}
               />
             </div>
+
+            {contributor && (
+                <div className="contributor-callout border rounded-1 mb-4 p-3 color-border-info color-bg-info f5">
+                  <p>
+                    <span className="mr-2">
+                      <InfoIcon />
+                    </span>
+                    {t('contributor_callout')} <a href={contributor.URL} target="_blank">{contributor.name}</a>.
+                  </p>
+                </div>
+              )}
           </div>
                           
           {currentLearningTrack?.trackName ? (
