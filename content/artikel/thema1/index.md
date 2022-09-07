@@ -11,17 +11,17 @@ redirect_from:
 versions:
   fpt: '*'
 children:
-  - beitrag1
-  - beitrag2
-  - beitrag3
-  - beitrag4
-  - beitrag5
-  - beitrag6
-  - beitrag7
-  - beitrag8
-  - beitrag9
-  - beitrag10
-  - beitrag11
-  - beitrag12
+  - arbeitszeit
+  - hinweisprivat
+  - meinungskundgabe
+  - vernetzung
+  - blockierung
+  - aussagenüberarbeit
+  - kontaktanfragen
+  - behördenrepräsentation
+  - fotoveröffentlichungen
+  - urheberrechte
+  - likenundfavorisieren
+  - fanpages
 ---
 

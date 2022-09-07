@@ -8,18 +8,18 @@ redirect_from:
 product: 'Entwickelt am Lehrstuhl für Recht und Sicherheit der Digitalisierung (TUM) in Zusammenarbeit mit Studierenden der Hochschule für Politik München (TUM)'
 layout: product-sublanding
 includeGuides:
-- /artikel/thema1/beitrag1
-- /artikel/thema1/beitrag2
-- /artikel/thema1/beitrag3
-- /artikel/thema1/beitrag4
-- /artikel/thema1/beitrag5
-- /artikel/thema1/beitrag6
-- /artikel/thema1/beitrag7
-- /artikel/thema1/beitrag8
-- /artikel/thema1/beitrag9
-- /artikel/thema1/beitrag10
-- /artikel/thema1/beitrag11
-- /artikel/thema1/beitrag12
+- /artikel/thema1/arbeitszeit
+- /artikel/thema1/hinweisprivat
+- /artikel/thema1/meinungskundgabe
+- /artikel/thema1/vernetzung
+- /artikel/thema1/blockierung
+- /artikel/thema1/aussagenüberarbeit
+- /artikel/thema1/kontaktanfragen
+- /artikel/thema1/behördenrepräsentation
+- /artikel/thema1/fotoveröffentlichungen
+- /artikel/thema1/urheberrechte
+- /artikel/thema1/likenundfavorisieren
+- /artikel/thema1/fanpages
 - /artikel/glossar
 versions:
   fpt: '*'
