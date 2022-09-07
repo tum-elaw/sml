@@ -12,7 +12,7 @@ versions:
 type: fragen
 topics:
   - Allgemein
-shortTitle: Darf ich im Namen meiner Behörde kommunizieren?
+shortTitle: Kommunikation im Namen der Behörde
 ---
 
 Die Öffentlichkeitsarbeit für Ihren Arbeitgeber (z.B. die bayerischen Landesbehörden) übernehmen die hierfür vorgesehenen Pressestellen und Abteilungen (bzw. Behördenvertreter).

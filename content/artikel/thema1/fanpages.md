@@ -12,7 +12,7 @@ versions:
 type: fragen
 topics:
   - Allgemein
-shortTitle: Kann ich Ärger bekommen, wenn ich eine eigene Social Media-Gruppe erstelle oder fremden Gruppen beitrete?
+shortTitle: Umgang mit Social Media-Gruppen
 ---
 
 ## 1.Definition des Begriffs

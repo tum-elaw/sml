@@ -12,7 +12,7 @@ versions:
 type: fragen
 topics:
   - Allgemein
-shortTitle: Darf ich über meine Arbeit bei der Behörde schreiben?
+shortTitle: Aussagen über die Arbeit
 ---
 
 ## I. Definition

@@ -12,7 +12,7 @@ versions:
 type: fragen
 topics:
   - Allgemein
-shortTitle: Darf ich andere Nutzer blockieren?
+shortTitle: Blockierung Anderer
 ---
 
 ## I. Definition

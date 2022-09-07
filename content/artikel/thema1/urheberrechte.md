@@ -12,7 +12,7 @@ versions:
 type: fragen
 topics:
   - Allgemein
-shortTitle: Worauf muss ich achten, wenn ich fremde Inhalte auf Social Media teile?
+shortTitle: Umgang mit fremden Inhalten
 ---
 Es ist ein Hauptmerkmal von Social Media, (fremde) Inhalte wie Bilder, Videos und Texte hochladen, verbreiten und teilen (und nicht nur „liken“) zu können. Was viele nicht wis-sen: Diese Handlungen können eine Urheberrechtsverletzung darstellen. 
 Die folgende Checkliste soll einen Überblick darüber geben, ob man einen fremden  Inhalt auf Social Media verwenden darf oder nicht:

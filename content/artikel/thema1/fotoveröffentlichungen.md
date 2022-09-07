@@ -12,7 +12,7 @@ versions:
 type: fragen
 topics:
   - Allgemein
-shortTitle: Darf ich meine Bilder, die auf dem letzten Event der Behörde gemacht habe, auf Social Media veröffentlichen?
+shortTitle: Veröffentlichungen von Eventbildern
 ---
 
 ## 1. Definition des Begriffs laut Gesetz, Verständnis der Gesetzesbegründung, Verständnis aus Fachperspektive

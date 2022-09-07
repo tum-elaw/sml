@@ -12,7 +12,7 @@ versions:
 type: fragen
 topics:
   - Allgemein
-shortTitle: Kann ich Ärger bekommen, wenn ich fremde Inhalte like bzw. favorisiere?
+shortTitle: „Liken“ & Favorisieren fremder Inhalte
 ---
 ## 1. Definition des Begriffs
 
