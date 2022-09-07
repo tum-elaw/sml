@@ -15,7 +15,7 @@ import { useRouter } from 'next/router'
 import { HfPHeader } from 'components/landing/HfPHeader'
 import { ArticleList } from 'components/landing/ArticleList'
 import { Search } from 'components/Search'
-import { Einleitung } from 'content/artikel/thema1/Einleitung'
+import { Einleitung } from 'content/fragen/Einleitung'
 
 type FeaturedLink = {
   href: string
@@ -108,7 +108,7 @@ function LandingPage(props: LandingPageProps) {
         </div>
         <div className="container-xl">
           <div className="col-12 col-lg-12 mt-6 float-left h2-mktg">
-              <a href="http://sml.tum-cdps.de/en/artikel/glossar">
+              <a href="http://sml.tum-cdps.de/en/fragen/glossar">
                 Glossar
               </a>
           </div>

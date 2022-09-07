@@ -12,7 +12,7 @@ versions:
 type: fragen
 topics:
   - Allgemein
-shortTitle: „Liken“ & Favorisieren fremder Inhalte
+shortTitle: „Liken“ und Favorisieren fremder Inhalte
 ---
 ## 1. Definition des Begriffs
 
