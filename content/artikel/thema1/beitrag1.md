@@ -1,9 +1,6 @@
 ---
 title: Nutzung von Social Media während der Arbeitszeit
 intro: Darf ich während meiner Arbeitszeit Social Media verwenden?
-contributor:
-  name: Fay
-  URL: https://www.tum.de/
 redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/upgrading-git-large-file-storage
   - /articles/purchasing-additional-storage-and-bandwidth-for-a-personal-account/
