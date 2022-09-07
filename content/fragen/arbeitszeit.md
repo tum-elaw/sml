@@ -14,32 +14,8 @@ topics:
   - Allgemein
 shortTitle: Nutzung während der Arbeitszeit
 ---
-Das hängt davon ab, ob es eine ausdrückliche Gestattung des Arbeitgebers (z.B. der Behördenleitung) zur privaten Nutzung des Internets gibt. Dabei kann auch eine teilweise Nutzung erlaubt sein. 
-
-Bei ausdrücklicher Erlaubnis ist die private Nutzung von Social Media während der Arbeitszeit in dem erlaubten Umfang gestattet, außer die Arbeitsleistung wird erheblich beeinträchtigt. Wenn nichts zur Nutzung gesagt wurde, ist die private Nutzung während der Arbeitszeit grundsätzlich nicht erlaubt. Bei Verstößen dagegen droht zunächst eine Abmahnung und bei mehreren Verstößen sogar eine Kündigung; bei gravierenden Verstößen wäre auch eine außerordentliche/fristlose Kündigung denkbar.
-
-
-Test
-
-Test
-
-**Test**
-
-# Überschrift
-
-
-## kleinere Überschrift
-
-awdawdawd {i} awdawd.
-
-
-## Literaturverzeichnis
-{ii} Beck adawd
-
-
-
-
-![Beschreibender Text](https://media.ethicalads.io/media/images/2022/06/ad-code.png)
+Ob Social Media-Plattformen während der Arbeitszeit verwendet werden dürfen, hängt davon ab, ob es eine ausdrückliche Gestattung der Arbeitgeberin oder des Arbeitgebers (etwa der Behördenleitung) zur privaten Nutzung des Internets gibt. Dabei kann auch eine teilweise Nutzung erlaubt sein. Bei ausdrücklicher Erlaubnis ist die private Nutzung von Social Media während der Arbeitszeit in dem erlaubten Umfang gestattet, außer die Arbeitsleistung wird erheblich beeinträchtigt. Wenn nichts zur Nutzung gesagt wurde, ist die private Nutzung während der Arbeitszeit grundsätzlich nicht erlaubt. Bei Verstößen dagegen droht zunächst eine Abmahnung und bei mehreren Verstößen sogar eine Kündigung; bei gravierenden Verstößen wäre auch eine außerordentliche Kündigung denkbar.
+Die Behörden und Dienststellen der Landesverwaltung haben den Umfang zur privaten Nutzung des Internet während der Dienstzeiten teilweise unterschiedlich geregelt. Um Unklarheiten zu vermeiden, sollte man sich hierüber vorab informieren.
 
 <style>
 /* Tooltip container */
