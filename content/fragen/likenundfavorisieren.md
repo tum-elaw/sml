@@ -14,6 +14,8 @@ topics:
   - Allgemein
 shortTitle: „Liken“ und Favorisieren fremder Inhalte
 ---
+<div style="text-align:justify">
+
 ## 1. Definition des Begriffs
 
 Der Gesetzentwurf vom 9. Dezember 2021 (LT-Drucksache 18/19572) definiert Digitale öffentliche Dienste in Artikel 17 wie folgt: „Die Behörden sollen ihre hierfür [Digitale Kommunikation] geeigneten Dienste auch digital anbieten. Die Behörden sollen dabei zugleich die Informationen bereitstellen, die ihre sachgerechte und nutzerfreundliche digitale Inanspruchnahme ermöglichen.“  
@@ -42,6 +44,8 @@ Die digitale Implementierung der einzelnen Dienstleistungen im Sinne eines Ende-
 ## 4. Fazit
 Die Einführung von digitalen Prozessen in der öffentlichen Verwaltung ist aus Bürger- und Unternehmenssicht sehr zu begrüßen und eröffnet umfangreiche Möglichkeiten auf dem Weg zum E-Government in Deutschland. Der Gesetzgeber muss bei der technischen Implementierung der Prozesse auf eine möglichst einfache und stringente Umsetzung achten, um Systeme administrierbar zu halten und überflüssige Komplexitäten zu vermeiden.   
 Nachbesserungsbedarf ergibt sich potenziell hinsichtlich der Regelung zur Nutzung von Metadaten bei digitalen Diensten. Durch die Speicherung und Verarbeitung dieser Daten im Betriebsalltag des Systems könnten wertvolle Erkenntnisse zu Verbesserung des Systems abgleitet werden. Auch das Design für zukünftige Automatisierungen kann auf Basis gewonnener Metadaten basieren, um weitere Effizienzverbesserungen zu erzielen. 
+
+</div>
 
 <style>
 /* Tooltip container */

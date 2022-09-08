@@ -14,6 +14,8 @@ topics:
   - Allgemein
 shortTitle: Umgang mit fremden Inhalten
 ---
+<div style="text-align:justify">
+
 Es ist ein Hauptmerkmal von Social Media, (fremde) Inhalte wie Bilder, Videos und Texte hochladen, verbreiten und teilen (und nicht nur „liken“) zu können. Was viele nicht wis-sen: Diese Handlungen können eine Urheberrechtsverletzung darstellen. 
 Die folgende Checkliste soll einen Überblick darüber geben, ob man einen fremden  Inhalt auf Social Media verwenden darf oder nicht:
 
@@ -45,6 +47,8 @@ Die folgende Checkliste soll einen Überblick darüber geben, ob man einen fremd
             B -->|Nein| E[iPhone]
             C -->|Three| F[fa:fa-car Car]
         </div>
+</div>
+
 </div>
 
 <style>

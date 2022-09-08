@@ -14,6 +14,7 @@ topics:
   - Allgemein
 shortTitle: Umgang mit Social Media-Gruppen
 ---
+<div style="text-align:justify">
 
 ## 1.Definition des Begriffs
 
@@ -45,6 +46,8 @@ Die Einführung eines zentralen Bayernportals zur Digitalisierung der Verwaltung
 
 Nachbesserungsbedarf ergibt sich nach Ansicht der Opposition vor allem im Bereich der Teilhabe, um z.B. Menschen mit Behinderung oder älteren Menschen eine Bedienung des Portals zu ermöglichen. Hier bleibt der Gesetzentwurf an vielen Stellen vage und unkonkret. 
 Auch mangelnde Vorgaben beim Thema OpenData werden kritisiert. Hier hätte das Gesetz einen großen Schritt in Richtung Aufbau einer innovativen Dateninfrastruktur für Bayern wagen können. Offene Daten könnten z.B. viel Potenzial für mehr Transparenz des Staates gegenüber der Gesellschaft im Sinne von Open Government bedeuten. Ebenso können sie bei der Entwicklung von Innovation und der neuer Geschäftsmodelle entscheidend unterstützen.
+
+</div>
 
 <style>
 /* Tooltip container */

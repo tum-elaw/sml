@@ -15,6 +15,8 @@ topics:
 miniTocMaxHeadingLevel: 3
 shortTitle: Meinungskundgabe
 ---
+<div style="text-align:justify">
+
 Grundsätzlich darf man seine Meinung als Privatperson uneingeschränkt äußern – auch über Social Media (**grundrechtlich** geschützte **Meinungsfreiheit**). Seine Meinung kann man nicht nur durch Wörter ausdrücken, sondern auch zum Beispiel durch Bilder (etwa sog. Memes), Videos (etwa sog. GIFs), Likes („:+1:“) oder Setzen/Verbreiten eines Links äußern.<span class="tooltip"><sup><a id='1.1'>[[1]](#1)</a></sup><span class="tooltiptext">Quelle</span></span>
 Es gibt aber einige Einschränkungen, die zu beachten sind. Das folgende Schaubild und Prüfungsschema soll eine Handreichung bieten, damit man selbst eine (erste) Einschätzung über die Zulässigkeit einer bestimmten Äußerung auf Social Media vornehmen kann:<span class='tooltip'><sup><a id='2.1'>[[2]](#2)</a></sup><span class='tooltiptext'>Wie immer ist aber natürlich darauf zu achten, dass jeder Fall individuell betrachtet werden muss und ggf. anders zu beurteilen ist, als eine pauschale Vermutung zunächst erlaubt.</span></span> 
 
@@ -127,6 +129,8 @@ Rn. 19, m.w.N.
 <a id="38">[[38]](#38.1)</a> Werres in: Beck Online Kommentar Beamtenrecht Bund, 25. Edition, Stand: 1. Februar 2022, § 60 BBG,
 Rn. 19.  
 <a id="39">[[39]](#39.1)</a> So wird es zum Beispiel auch bei der Feststellung der Gesetzestreue eines Beamten gehandhabt: ein einmaliges außerdienstliches Fehlverhalten eines Beamten bedeutet nicht gleich, dass er keine Gesetzestreue oder kein Ver-antwortungsbewusstsein bei der Erfüllung seiner konkreten dienstlichen (Beamten-)Pflichten hat. Dem außer-dienstlichen Fehlverhalten kommt eine Indizwirkung für eine Verletzung der Dienstpflichten umso eher zu, je näher der Bezug des besagten Fehlverhaltens zu den übertragenen Dienstpflichten ist. Bei einem Kassenbeamten sind beispielsweise außerdienstliche Vermögensdelikte eher geeignet, Rückschlüsse auf seine dienstliche Vertrauenswürdigkeit zu geben, als es bei außerdienstlichen Straßenverkehrs- oder Ehrverletzungsdelikten der Fall wäre, BVerwG NJW 2001, 1080 (1082); ausländerfeindliche Aussagen dürften hingegen insbesondere schwerwie-gen, wenn es sich bei dem äußernden Beamten um den Leiter eines Personalreferats handelt, vgl. BVerwG NJW 2002, 155.
+
+</div>
 
 <style>
 /* Tooltip container */

@@ -11,6 +11,7 @@ versions:
   ghae: '*'
 shortTitle: Glossar
 ---
+<div style="text-align:justify">
 
 ## A. Begriffe
 
@@ -107,6 +108,8 @@ Auf diese Weise können Nutzerinnen und Nutzer auf Beiträge anderer hinweisen u
 <a id="27">[[27]](#27.1)</a> Eckel/Rottmeier, NStZ 2021, 1 (2), m.w.N.  
 <a id="28">[[28]](#28.1)</a> Günther/Lenz, ArbRAktuell 2020, 405.  
 <a id='29'>[[29]](#29.1)</a> Weiterführende Hinweise: Günther/Lenz, ArbRAktuell 2020, 405 (406) m.w.N.
+
+</div>
 
 <style>
 /* Tooltip container */
