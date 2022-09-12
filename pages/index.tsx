@@ -108,7 +108,7 @@ function LandingPage(props: LandingPageProps) {
         </div>
         <div className="container-xl">
           <div className="col-12 col-lg-12 mt-6 float-left h2-mktg">
-              <a href="http://sml.tum-cdps.de/en/fragen/glossar">
+              <a href="https://sml.tum-cdps.de/en/fragen/glossar">
                 Glossar
               </a>
           </div>
