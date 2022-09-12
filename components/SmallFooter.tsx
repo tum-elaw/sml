@@ -19,7 +19,7 @@ export const SmallFooter = () => {
             <a href="https://www.tum-cdps.de/datenschutzerklaerung/">{`Datenschutzerklärung`} </a>
           </li>
           <li className="ml-3">
-            <a href="https://sml.cdps.wiki">{`sml.cdps.wiki`} </a>
+            <a href="https://sml.tum-cdps.de">{`sml.tum-cdps.de`} </a>
           </li>
         </ul>
       </div>
