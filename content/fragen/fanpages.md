@@ -21,7 +21,8 @@ Inhaltlich haben Beamtinnen und Beamte sowie weitere Angestellte des öffentlich
 
 Als Mitglied von Gruppen auf Social Media-Plattformen haben Beamtinnen und Beamte sowie weitere Angestellte des öffentlichen Dienstes diejenigen Vorgaben und Umstände zu beachten, die auch für Aussagen über ihre Arbeit in sozialen Netzwerken (→ Frage 6.), die Verbreitung von Fotografien von Betriebsfeiern (→ Frage 9.) oder die Zurechnung fremder Inhalte (→ Frage 11.) gelten.
 
-## Fusnoten
+<hr>
+
 <a id="1">[[1]](#1.1)</a> Betreiberinnen und Betreiber von facebook-Fanpages tragen laut EuGH v. 5.6.2018 – C-210/16 (= EuZW 2018, 534 – Wirtschaftsakademie Schleswig-Holstein) maßgeblich zur Entscheidung über Mittel und Zweck der Verarbeitung personenbezogener Daten durch facebook bei. Somit sind sie zusammen mit facebook gemeinsame Verantwortliche nach Art. 26 DSGVO, was aber nicht die gleichwertige Verantwortlichkeit meint. Jedenfalls die Datenschutzkonferenz (DSK Beschluss v. 05.09.2018, S. 1 und Kurzgutachten v. 18.03.2022, S. 18 f.) hält die „Informationen zu Seiten-Insights“ von facebook nicht ausreichend, um den Vorgaben einer Vereinbarung nach Art. 26 Abs. 1 Satz 2 DSGVO zu genügen.
 <a id="2">[[2]](#2.1)</a> EuGH v. 05.06.2018 – C-210/16 (= EuZW 2018, 534 – Wirtschaftsakademie Schleswig-Holstein); vgl. hierzu auch Heckmann/Scheurer in Heckmann/Paschke, jurisPK Internetrecht, 7. Aufl. 2021, Kap. 9 Rn. 886 ff.  Die Impressumspflicht ergibt sich aus § 5 TMG.
 <a id="3">[[3]](#3.1)</a> Die Impressumspflicht ergibt sich aus § 5 TMG; vgl. Spindler in Schmitz/Spindler, 2. Aufl. 2018, TMG § 5 Rn. 14, m.w.N.
