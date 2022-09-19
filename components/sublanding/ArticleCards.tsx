@@ -42,28 +42,6 @@ export const ArticleCards = () => {
     <div>
       <form className="mt-2 mb-5 d-flex d-flex">
         <div>
-          <label htmlFor="type" className="text-uppercase f6 color-text-secondary d-block">
-            {t('filters.type')}
-          </label>
-          <select
-            value={typeFilter}
-            className="form-select f4 text-bold border-0 rounded-0 border-top box-shadow-none pl-0"
-            name="type"
-            aria-label="guide types"
-            data-testid="card-filter-dropdown"
-            onChange={onChangeTypeFilter}
-          >
-            <option value="">{t('filters.all')}</option>
-            {Object.entries(guideTypes).map(([key, val]) => {
-              return (
-                <option key={key} value={key}>
-                  {val}
-                </option>
-              )
-            })}
-          </select>
-        </div>
-        <div className="mx-4">
           <label htmlFor="topic" className="text-uppercase f6 color-text-secondary d-block">
             {t('filters.topic')}
           </label>
