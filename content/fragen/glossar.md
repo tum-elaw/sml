@@ -2,9 +2,8 @@
 title: Glossar
 intro: 'Glossar über einschlägige Begriffe im Zusammenhang mit Social Media'
 miniTocMaxHeadingLevel: 3
-type: glossar
 topics:
-  - Allgemein
+  - Kennzeichnung
 versions:
   fpt: '*'
   ghes: '>=2.22'

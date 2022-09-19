@@ -183,6 +183,7 @@ product_sublanding:
   guide_types:
     fragen: Fragen
     glossar: Glossar
+    kennzeichnung: Kennzeichnung
 learning_track_nav:
   prevGuide: Previous guide
   nextGuide: Next guide
