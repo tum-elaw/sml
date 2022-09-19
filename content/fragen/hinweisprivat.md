@@ -1,6 +1,6 @@
 ---
 title: Privates Social Media-Profil als solches Kennzeichnen
-intro: Muss ich bei meiner privaten Social Media-Profilseite angeben, dass es sich um meine private Seite handelt?
+intro: Ist ein Hinweis „hier privat“ auf Social Media-Profilseiten erforderlich?
 redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/upgrading-git-large-file-storage
   - /articles/purchasing-additional-storage-and-bandwidth-for-a-personal-account/
@@ -16,23 +16,13 @@ shortTitle: Kennzeichnung der Profilseite als „privat“
 ---
 <div style="text-align:justify">
 
-Die Öffentlichkeitsarbeit für Ihren Arbeitgeber (z.B. die bayerischen Landesbehörden) übernehmen die hierfür vorgesehenen Pressestellen und Abteilungen (bzw. Behördenvertreter).
+Auf Social Media-Profilseiten findet man gelegentlich den Hinweis „hier privat“. Dies ist nicht zwingend erforderlich, kann aber der Klarstellung dienen. 
 
-## fd
+Wichtiger als dieser Hinweis sind die Inhalte und Aktionen auf der jeweiligen Plattform: Haben diese wirklich privaten Charakter oder geht es (auch) um dienstliche Belange? 
+Ist Letzteres der Fall, nutzt der Hinweis „hier privat“ nichts. Eine Amtsbezeichnung neben dem Namen sollte zur Vermeidung von Missverständnissen dort nicht geführt werden. Dies gilt insbesondere dann, wenn die jeweilige Social Media-Plattform thematisch Überschneidungspotential zur jeweiligen Arbeitsstelle oder zum jeweiligen Amt bietet. In jedem Fall muss vermieden werden, dass der Eindruck eines offiziellen, öffentlich betriebenen Accounts entstehen könnte <a href="https://sml.tum-cdps.de/en/fragen/behoerdenrepraesentation">(→ Frage 8.).</a>
 
-fdsfd
+Soweit die Angabe der Amtsbezeichnung auch auf dem privaten Account zweckmäßig ist, wie insbesondere im Falle von Business-Netzwerken wie LinkedIn oder Xing, und Überschneidungspotential zur Dienstausübung besteht, muss der private Bezug jederzeit erkennbar sein. Dies gilt ganz besonders, wenn der Account auch zu dienstlichen Zwecken genutzt wird oder politische Themen oder solche mit Bezug zur jeweiligen Behörde adressiert werden.
 
-### fdsfsd
-
-fdsafds
-
-### fdsaf
-fdsafds
-## fdsafs
-
-Grundsätzlich sind Angestellte nicht befugt, ihren Arbeitgeber nach außen auf Social Media zu repräsentieren, es sei denn, im Arbeitsvertrag ist ausdrücklich etwas anderes geregelt oder aus der Natur der Arbeitstätigkeit ergibt sich etwas gegenteiliges.
-Sofern Sie nicht den Eindruck erwecken, Äußerungen im Namen Ihres Arbeitgebers zu verbreiten, ist das (arbeitsrechtlich) durchaus erlaubt. Wenn Sie über Ihre Arbeit schreiben oder Fragen diesbezüglich beantworten, sollte ebenfalls nicht der Eindruck entstehen, dass Sie als offizieller Repräsentant Ihrer Arbeitsstelle tätig sind, sondern als Privatperson.
-Beachten Sie immer dabei, dass Sie eventuell hinsichtlich einiger Bereiche und Tätigkeiten der Verschwiegenheitspflicht unterliegen.
 
 </div>
 
