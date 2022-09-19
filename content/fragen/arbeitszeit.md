@@ -16,11 +16,17 @@ shortTitle: Nutzung während der Arbeitszeit
 ---
 <div style="text-align:justify">
 
-Ob Social Media-Plattformen während der Arbeitszeit verwendet werden dürfen, hängt davon ab, ob es eine ausdrückliche Gestattung der Arbeitgeberin oder des Arbeitgebers (etwa der Behördenleitung) zur privaten Nutzung des Internets gibt. 
-
-Dabei kann auch eine teilweise Nutzung erlaubt sein. Bei ausdrücklicher Erlaubnis ist die private Nutzung von Social Media während der Arbeitszeit in dem erlaubten Umfang gestattet, außer die Arbeitsleistung wird erheblich beeinträchtigt. Wenn nichts zur Nutzung gesagt wurde, ist die private Nutzung während der Arbeitszeit grundsätzlich nicht erlaubt. Bei Verstößen dagegen droht zunächst eine Abmahnung und bei mehreren Verstößen sogar eine Kündigung; bei gravierenden Verstößen wäre auch eine außerordentliche Kündigung denkbar.
-
+Ob Social Media-Plattformen während der Arbeitszeit verwendet werden dürfen, hängt davon ab, ob es eine ausdrückliche Gestattung der Arbeitgeberin oder des Arbeitgebers (etwa der Behördenleitung) zur privaten Nutzung des Internets gibt.{i} Dabei kann auch eine teilweise Nutzung erlaubt sein.{i} Bei ausdrücklicher Erlaubnis ist die private Nutzung von Social Media während der Arbeitszeit in dem erlaubten Umfang gestattet, außer die Arbeitsleistung wird erheblich beeinträchtigt.{i} Wenn nichts zur Nutzung gesagt wurde, ist die private Nutzung während der Arbeitszeit grundsätzlich nicht erlaubt.{i} Bei Verstößen dagegen droht zunächst eine Abmahnung und bei mehreren Verstößen sogar eine Kündigung; bei gravierenden Verstößen wäre auch eine außerordentliche Kündigung denkbar.{i}
 Die Behörden und Dienststellen der Landesverwaltung haben den Umfang zur privaten Nutzung des Internet während der Dienstzeiten teilweise unterschiedlich geregelt. Um Unklarheiten zu vermeiden, sollte man sich hierüber vorab informieren.
+
+
+{ii} Pötters in Thüsing/Wurth, Social Media im Betrieb, 2. Auflage 2020, § 9 Rn. 33, 37.
+{ii} Oberthür in Kramer, IT-Arbeitsrecht, 2. Auflage 2019, Rn. 914.
+{ii} Bayreuther/Stark in Hornung/Müller-Terpitz, Rechtshandbuch Social Media, 2. Auflage 2021, Kap. 9 Rn. 24 f.
+{ii} Linck in Schaub, Arbeitsrechts-Handbuch, 19. Auflage 2021, § 53 Rn. 17, 40; BAG v. 07.07.2005 – 2 AZR 581/04 (= NJW 2006, 98).
+{ii} Bayreuther/Stark in Hornung/Müller-Terpitz, Rechtshandbuch Social Media, 2. Auflage 2021, Kap. 9 Rn. 20 f.
+
+
 
 </div>
 
