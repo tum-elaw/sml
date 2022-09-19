@@ -3,7 +3,7 @@ title: Glossar
 intro: 'Glossar über einschlägige Begriffe im Zusammenhang mit Social Media'
 miniTocMaxHeadingLevel: 3
 topics:
-  - Kennzeichnung
+  - Allgemein
 versions:
   fpt: '*'
   ghes: '>=2.22'

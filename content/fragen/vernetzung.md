@@ -10,7 +10,7 @@ redirect_from:
 versions:
   fpt: '*'
 topics:
-  - Allgemein
+  - Umgang mit anderen Usern
 shortTitle: Vernetzung mit Anderen
 ---
 <div>

@@ -103,7 +103,8 @@ function LandingPage(props: LandingPageProps) {
           <div className="gutter gutter-xl-spacious clearfix">
 
             <div className="col-12 col-lg-12 mt-6 mb-md-4 mb-lg-0 float-left">
-              <ArticleList title={t('toc:popular')} variant="compact" articles={popularLinks} />
+              <h4 className='mb-2'>Emfohlene Beiträge</h4>
+              <ArticleList title={t('toc:pAopular')} variant="compact" articles={popularLinks} />
             </div>
           </div>
         </div>
