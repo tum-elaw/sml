@@ -71,7 +71,7 @@ Auf diese Weise können Nutzerinnen und Nutzer auf Beiträge anderer hinweisen u
 ### Verlinken
 [siehe Günther/Lenz, ArbRAktuell 2020, 405 (407)]
 
-<hr>
+<hr style="height:1px">
 
 <a id="1">[[1]](#1.1)</a> Netzwelt 2020: [https://www.netzwelt.de/abkuerzung/174552-bedeutet-gif-erklaerung-definition.html](https://www.netzwelt.de/abkuerzung/174552-bedeutet-gif-erklaerung-definition.htm)  
 <a id="2">[[2]](#2.1)</a> Netzwelt 2020: [https://www.netzwelt.de/abkuerzung/174552-bedeutet-gif-erklaerung-definition.html](https://www.netzwelt.de/abkuerzung/174552-bedeutet-gif-erklaerung-definition.htm)  
