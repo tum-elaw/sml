@@ -1,5 +1,5 @@
 ---
-title: Ich wurde wegen meiner Tätigkeit bei der Landesberwaltung kontaktiert
+title: Ich wurde wegen meiner Tätigkeit bei der Landesverwaltung kontaktiert
 intro: Wie soll ich reagieren, wenn ich auf Social Media dienstlich kontaktiert werde?
 redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/upgrading-git-large-file-storage
