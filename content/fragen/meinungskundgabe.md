@@ -61,6 +61,8 @@ Solange die Meinungsäußerung nicht gegen einen der oben genannten Vorgaben ver
 Ein Verstoß gegen das Gebot unparteiischer und gerechter Aufgabenerfüllung wird beispielsweise angenommen, wenn man als Beamtin oder Beamter ausländerfeindliche Aussagen getroffen hat.{i} Durch solche Aussagen erweckt man die (gerechtfertigte) Besorgnis, man werde bei der Erfüllung seiner dienstlichen Aufgaben Personen ausländischer Herkunft gegenüber anderen Menschen benachteiligen.{i}
 
 
+
+## Fusnoten
 {ii} Zwar wird das bloßes Teilen eines fremden Beitrags als neutrale Ausdrucksform angesehen, der weder eine zustimmende noch ablehnende Haltung entnommen werden kann. Jedoch wird der Aussagegehalt des geteilten Inhalts einem dann angerechnet (wie wenn man es selbst gepostet bzw. veröffentlicht hätte), wenn man die Weiterverbreitung mit einer zustimmenden Bewertung verbindet oder wenn der geteilte Beitrag beispielsweise einen derart gravierenden persönlichkeitsrechtsverletzenden Inhalt aufweist, dass schon die schlichte Weiterverbreitung zu einer (eigenständigen) Ehrverletzung des Betroffenen führt, Günther/Lenz, ArbRAktuell 2020, 405 (406) m.w.N.
 {ii} Vgl. EGMR, NJW 2022, 305.
 {ii} BVerfG NJW-RR 2017, 1001.
