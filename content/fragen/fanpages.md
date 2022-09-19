@@ -1,6 +1,6 @@
 ---
 title: Nutzung von Gruppen in Social Media
-intro: Kann ich Ärger bekommen, wenn ich eine eigene Social Media-Gruppe erstelle oder fremden Gruppen beitrete?
+intro: Welche rechtlichen Anforderungen gelten für Social Media-Gruppen?
 redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/upgrading-git-large-file-storage
   - /articles/purchasing-additional-storage-and-bandwidth-for-a-personal-account/
@@ -16,36 +16,18 @@ shortTitle: Umgang mit Social Media-Gruppen
 ---
 <div style="text-align:justify">
 
-## 1.Definition des Begriffs
+Ist man Betreiberin oder Betreiber einer öffentlichen Gruppe oder Fanpage{i} auf einer Social Media-Plattform, muss man bestimmte datenschutzrechtliche Vorgaben beachten. Man ist grundsätzlich verpflichtet, den Nutzerinnen und Nutzer solcher Gruppen alle erforderlichen Informationen über die verarbeiteten personenbezogenen Daten durch diese Gruppe in Form einer Datenschutzerklärung zur Verfügung zu stellen.{i} Auch über die Spezifikationen der Verarbeitung solcher Daten durch die Social Media-Plattform selbst, wie etwa den Einsatz von Cookies, ist zu informieren, wobei sich im Einzelfall die Einbeziehung der Datenschutzerklärung der genutzten Plattform anbieten kann. Daneben besteht die Pflicht ein Impressum zu führen.{i} Die Nutzerinnen und Nutzer müssen zudem auf Basis einer unzweideutigen Information in die Speicherung ihrer Daten im Rahmen des Betriebes der Gruppe einwilligen.{i} Werden zum Zwecke dieser Einwilligung Cookies verwendet, müssen Nutzerinnen und Nutzer die Möglichkeit haben, aktiv durch Ankreuzen von Cookie-Banner-Kästchen ihre Einwilligung zu erteilen.{i} Die Betreiberinnen und Betreiber sind schließlich dazu verpflichtet, die Daten der Nutzerinnen und Nutzer rechtmäßig, nachvollziehbar und für festgelegte und eindeutige Zwecke zu verarbeiten.
+Inhaltlich haben Beamtinnen und Beamte sowie weitere Angestellte des öffentlichen Dienstes beim Betrieb einer solchen Gruppe, wie etwa eine Fanpage, auch im privaten Bereich ihre Verschwiegenheitspflicht (→ Frage 6.) sowie weitere Pflichten (→ insb. Fragen 3., 4. und 9.) zu befolgen und darauf zu achten, den Eindruck zu vermeiden, dass es sich bei den Aussagen um (offizielle) Mitteilungen der Behörde handelt (→ Frage 8.).
 
-Der Gesetzentwurf vom 9. Dezember 2021 (LT-Drucksache 18/19572) definiert das Bayernportal in Artikel 27 Satz 1 wie folgt: „Das Bayernportal ist das allgemeine Verwaltungsportal des Freistaates Bayern“  
+Als Mitglied von Gruppen auf Social Media-Plattformen haben Beamtinnen und Beamte sowie weitere Angestellte des öffentlichen Dienstes diejenigen Vorgaben und Umstände zu beachten, die auch für Aussagen über ihre Arbeit in sozialen Netzwerken (→ Frage 6.), die Verbreitung von Fotografien von Betriebsfeiern (→ Frage 9.) oder die Zurechnung fremder Inhalte (→ Frage 11.) gelten.
 
-In der Gesetzesbegründung zu Artikel 27 (S. 69) wird zum Begriff des Bayernportals Folgendes ausgeführt: 
-„Art. 27 definiert im Satz 1 das Bayernportal als allgemeines Verwaltungsportal des Freistaates Bayern. Im Satz 2 werden die Funktionen aufgezählt, die der Freistaat Bayern bereitstellt, um ein modernes Verwaltungsportal zu gewährleisten. Insbesondere wird über das Bayernportal die Identifizierung und Authentifizierung über das Bürgerkonto gemäß Art. 29 Abs. 2 ermöglicht. Auch Justizleistungen können in das Bayernportal aufgenommen werden. Ein Anspruch, Justizleistungen über das Bayernportal abrufen zu können, wird dadurch allerdings nicht begründet.“
+{ii} Betreiberinnen und Betreiber von facebook-Fanpages tragen laut EuGH v. 5.6.2018 – C-210/16 (= EuZW 2018, 534 – Wirtschaftsakademie Schleswig-Holstein) maßgeblich zur Entscheidung über Mittel und Zweck der Verarbeitung personenbezogener Daten durch facebook bei. Somit sind sie zusammen mit facebook gemeinsame Verantwortliche nach Art. 26 DSGVO, was aber nicht die gleichwertige Verantwortlichkeit meint. Jedenfalls die Datenschutzkonferenz (DSK Beschluss v. 05.09.2018, S. 1 und Kurzgutachten v. 18.03.2022, S. 18 f.) hält die „Informationen zu Seiten-Insights“ von facebook nicht ausreichend, um den Vorgaben einer Vereinbarung nach Art. 26 Abs. 1 Satz 2 DSGVO zu genügen.
+{ii} EuGH v. 05.06.2018 – C-210/16 (= EuZW 2018, 534 – Wirtschaftsakademie Schleswig-Holstein); vgl. hierzu auch Heckmann/Scheurer in Heckmann/Paschke, jurisPK Internetrecht, 7. Aufl. 2021, Kap. 9 Rn. 886 ff.  Die Impressumspflicht ergibt sich aus § 5 TMG.
+{ii} Die Impressumspflicht ergibt sich aus § 5 TMG.
+{ii} Nach der Datenschutzkonferenz (DSK Kurzgutachten v. 18.03.2022, S. 7) sind zum Betrieb einer facebook-Fanpage nun auch die Pflichten des § 25 TTDSG (Einwilligung) einzuhalten.
+{ii} So EuGH v. 01.10.2019 – C-673/17 – Planet49.
 
-Aus technischer Sicht kann der Begriff des Bayernportals bzw. des Portalverbundes anhand des vorliegenden Gesetzentwurfs als die Vereinheitlichung einer modular organisierten Systemlandschaft verstanden werden. Während die Systeme der einzelnen Organisationsebenen (z.B. Kommunen) im Kern erhalten bleiben, soll eine normierte Benutzeroberfläche die Navigation zwischen den Systemen nutzerfreundlich ermöglichen. 
 
-## 2. Umsetzung des Begriffs
-
-Notwendige Handlungsschritte zur Errichtung eines Portalverbunds, der systemseitig auf dem Zusammenspiel mehrerer einzelner Systeme basiert, ist die Definition von klaren zentralen Anforderungen, um eine Integration technisch überhaupt grundsätzlich zu ermöglichen. 
-
-Das geplante Digitalgesetz existiert derzeit als Gesetzesentwurf und wird in mehreren Ausschüssen und Verbänden diskutiert. Die Erstlesung zum Gesetz fand im Bayrischen Landtag am 25. Januar 2022 statt. Jüngster Schritt im Zuge der Umsetzung war die Expertenanhörung im Bayerischen Landtag vom 17.März 2022, welcher untermauerte, dass das geplante Bayerische Digitalgesetz des Staatsministeriums für Digitales auf dem richtigen Weg ist. 
-
-Konkreter Handlungsbedarf ergibt sich aus der Frist zur Umsetzung des Onlinezugangsgesetzes – OZG, welches Bund, Länder und Kommunen bis Ende 2022 verpflichtet ihre Verwaltungsleistungen über Verwaltungsportale auch digital anzubieten (§1 Abs. 1 OZG). Auch die bayrische Digitalministerin Judith Gerlach (CSU) betonte, dass man bei der Umsetzung „nochmals Gas geben werden müsse.“
-
-## 3. Chancen und Herausforderungen
-
-Die Errichtung des Bayernportals als Portalverbund stellt eine wegweisende Möglichkeit dar einen allgemeinen Rechtsrahmen für die Digitalisierung von Gesellschaft und Wirtschaft, Staat und Verwaltung zu schaffen. Bürgerfreundliche Verwaltung könnte dadurch gelebte Realität werden und eventuell bestehende Hürden zwischen Staat und Bürger überwinden. Durch eine umfangreiche Digitalisierung der Verwaltungsprozesse können zudem enorme Zeit- und Ressourcen-Effizienzen auf Seiten der Verwaltung erreicht werden. Durch Wegfall des physischen Behördengangs mit potenziell langen Wartezeiten kann auch ein gesamtwirtschaftlicher Wohlfahrtsgewinn entstehen.
-Bei durchdachter Umsetzung und weitsichtiger Implementierungsstrategie auf technischer Seite kann das System für zukünftige Anforderungen flexibel erweitert werden und vermeidet Insellösungen. Eine Herausforderung wird in diesem Kontext die Realisierung eines vorausschauenden Systemdesigns sein und die Prognose zukünftiger – ex ante noch nicht bekannter – Anforderungen sein.
-
-Große Herausforderungen erwachsen vor allem aus der komplexen Aufgabenstellung eine Systemlandschaft mit fragmentiertem Back-End in seiner Benutzeroberfläche so weit zu harmonisieren, dass eine verständliche und intuitive Bedienung möglich ist, jedoch gleichzeitig die notwendige Flexibilität zur systemseitig übergreifenden Implementierung besteht. Anzumerken sei auch, dass diese technisch sehr ambitionierte Umsetzung ein hinreichend hohes technisches Verständnis auf Seiten der Verwaltung erfordert. Es werden umfassende Schulungen für das Verwaltungspersonal notwendig sein, um eine effiziente Bedienung der IT sicherzustellen.
-
-## 4. Fazit/Bewertung
-
-Die Einführung eines zentralen Bayernportals zur Digitalisierung der Verwaltung stellt eine großartige Bereicherung der Debatte rund um High-Tech, bürgerfreundliche Verwaltung und modernes Staatswesen dar. Eine zügige Umsetzung ist unbedingt notwendig, um dem Anspruch moderner Politik gerecht zu werden. 
-
-Nachbesserungsbedarf ergibt sich nach Ansicht der Opposition vor allem im Bereich der Teilhabe, um z.B. Menschen mit Behinderung oder älteren Menschen eine Bedienung des Portals zu ermöglichen. Hier bleibt der Gesetzentwurf an vielen Stellen vage und unkonkret. 
-Auch mangelnde Vorgaben beim Thema OpenData werden kritisiert. Hier hätte das Gesetz einen großen Schritt in Richtung Aufbau einer innovativen Dateninfrastruktur für Bayern wagen können. Offene Daten könnten z.B. viel Potenzial für mehr Transparenz des Staates gegenüber der Gesellschaft im Sinne von Open Government bedeuten. Ebenso können sie bei der Entwicklung von Innovation und der neuer Geschäftsmodelle entscheidend unterstützen.
 
 </div>
 

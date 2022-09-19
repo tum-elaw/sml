@@ -16,11 +16,10 @@ shortTitle: Kommunikation im Namen der Behörde
 ---
 <div style="text-align:justify">
 
-Die Öffentlichkeitsarbeit für Ihren Arbeitgeber (z.B. die bayerischen Landesbehörden) übernehmen die hierfür vorgesehenen Pressestellen und Abteilungen (bzw. Behördenvertreter).
+Die Öffentlichkeitsarbeit für die Arbeitgeberin oder den Arbeitgeber (etwa eine bayerische Landesbehörde) übernehmen die hierfür vorgesehenen Pressestellen und Abteilungen.
+Grundsätzlich sind Angestellte nicht befugt, ihre Arbeitgeberin oder ihren Arbeitgeber nach außen auf Social Media zu repräsentieren, es sei denn, im Arbeitsvertrag ist ausdrücklich etwas anderes geregelt oder aus der Natur der Arbeitstätigkeit ergibt sich etwas Gegenteiliges.
+Man darf sich aber natürlich als Privatperson äußern und Fragen hierzu beantworten (→ Fragen 3. und 6.), sofern nicht der Eindruck erweckt wird, dass die Äußerungen im Namen der Arbeitgeberin oder des Arbeitgebers erfolgen oder man als offizielle Repräsentantin oder offizieller Repräsentant seiner Arbeitsstelle tätig ist. Im Zuge dessen bietet es sich an, einen konkreten Beitrag mit dem Zusatz „Privatmeinung“ zu kennzeichnen.
 
-Grundsätzlich sind Angestellte nicht befugt, ihren Arbeitgeber nach außen auf Social Media zu repräsentieren, es sei denn, im Arbeitsvertrag ist ausdrücklich etwas anderes geregelt oder aus der Natur der Arbeitstätigkeit ergibt sich etwas gegenteiliges.
-Sofern Sie nicht den Eindruck erwecken, Äußerungen im Namen Ihres Arbeitgebers zu verbreiten, ist das (arbeitsrechtlich) durchaus erlaubt. Wenn Sie über Ihre Arbeit schreiben oder Fragen diesbezüglich beantworten, sollte ebenfalls nicht der Eindruck entstehen, dass Sie als offizieller Repräsentant Ihrer Arbeitsstelle tätig sind, sondern als Privatperson.
-Beachten Sie immer dabei, dass Sie eventuell hinsichtlich einiger Bereiche und Tätigkeiten der Verschwiegenheitspflicht unterliegen.
 
 </div>
 
