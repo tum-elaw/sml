@@ -21,7 +21,7 @@ Dabei kann auch eine teilweise Nutzung erlaubt sein.<span class='tooltip'><sup><
 
 Die Behörden und Dienststellen der Landesverwaltung haben den Umfang zur privaten Nutzung des Internet während der Dienstzeiten teilweise unterschiedlich geregelt. Um Unklarheiten zu vermeiden, sollte man sich hierüber vorab informieren.
 
-<hr style="height:1px">
+<hr>
 
 <a id="1">[[1]](#1.1)</a> Pötters in Thüsing/Wurth, Social Media im Betrieb, 2. Auflage 2020, § 9 Rn. 33, 37. 
 

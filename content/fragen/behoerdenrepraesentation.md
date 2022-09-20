@@ -13,11 +13,13 @@ topics:
   - Social Media und Arbeit
 shortTitle: Kommunikation im Namen der Behörde
 ---
-<div style="text-align:justify">
+<div>
 
-Die Öffentlichkeitsarbeit für die Arbeitgeberin oder den Arbeitgeber (etwa eine bayerische Landesbehörde) übernehmen die hierfür vorgesehenen Pressestellen und Abteilungen.
-Grundsätzlich sind Angestellte nicht befugt, ihre Arbeitgeberin oder ihren Arbeitgeber nach außen auf Social Media zu repräsentieren, es sei denn, im Arbeitsvertrag ist ausdrücklich etwas anderes geregelt oder aus der Natur der Arbeitstätigkeit ergibt sich etwas Gegenteiliges.
-Man darf sich aber natürlich als Privatperson äußern und Fragen hierzu beantworten (→ Fragen 3. und 6.), sofern nicht der Eindruck erweckt wird, dass die Äußerungen im Namen der Arbeitgeberin oder des Arbeitgebers erfolgen oder man als offizielle Repräsentantin oder offizieller Repräsentant seiner Arbeitsstelle tätig ist. Im Zuge dessen bietet es sich an, einen konkreten Beitrag mit dem Zusatz „Privatmeinung“ zu kennzeichnen.
+Die Öffentlichkeitsarbeit für die Arbeitgeberin oder den Arbeitgeber (etwa eine bayerische Landesbehörde) übernehmen die hierfür vorgesehenen Pressestellen und Abteilungen. 
+
+Grundsätzlich sind Angestellte **nicht befugt**, ihre Arbeitgeberin oder ihren Arbeitgeber nach außen auf Social Media zu repräsentieren, **es sei denn, im Arbeitsvertrag ist ausdrücklich etwas anderes geregelt** oder aus **der Natur der Arbeitstätigkeit ergibt sich etwas Gegenteiliges**. 
+
+Man darf sich aber natürlich als Privatperson äußern und Fragen hierzu beantworten (siehe <a href ="https://sml.tum-cdps.de/en/fragen/meinungskundgabe">Meinungskundgabe</a> und <a href="https://sml.tum-cdps.de/en/fragen/aussagenueberarbeit">Aussagen über die Arbeit</a>), sofern nicht der Eindruck erweckt wird, dass die Äußerungen im Namen der Arbeitgeberin oder des Arbeitgebers erfolgen oder man als offizielle Repräsentantin oder offizieller Repräsentant seiner Arbeitsstelle tätig ist. Im Zuge dessen bietet es sich an, einen konkreten Beitrag mit dem Zusatz „Privatmeinung“ zu kennzeichnen.
 
 
 </div>
