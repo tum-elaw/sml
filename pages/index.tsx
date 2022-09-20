@@ -81,7 +81,7 @@ function LandingPage(props: LandingPageProps) {
 
       <div className="px-3 px-md-6 container-xl">
       <div className="col-12 col-lg-10 float-left">
-      <h3 className="display-4">„Demokratie heißt auch nah an den Menschen zu sein. Social Media schafft Nähe zwischen dem Staat und seinen Bürgerinnen und Bürgern.”</h3>
+      <h3 className="display-4">„Social Media ist Ausdruck persönlicher Lebensgestaltung, auch für Beschäftigte im Öffentlichen Dienst. Sie sollten aber die Stoppschilder und Vorfahrtsregeln der Datenverkehrsordnung kennen.”</h3>
           </div>
           <div className="mt-5 float-left">
             <img className="float-left mt-2" src ="/assets/images/Profilbild_DH_Credits_an_Kilian_Blues_bidt_test.png" width="60px"></img>
