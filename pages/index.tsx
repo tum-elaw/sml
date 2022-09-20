@@ -86,7 +86,7 @@ function LandingPage(props: LandingPageProps) {
           <div className="mt-5 float-left">
             <img className="float-left mt-2" src ="/assets/images/Profilbild_DH_Credits_an_Kilian_Blues_bidt_test.png" width="60px"></img>
             <div className="col-12 col-lg-6 float-left">
-          <h3 className="display-4 ml-3 float-left color-text-link"><a href="https://www.gov.sot.tum.de/elaw/lehrstuhlinhaber/" target="_blank">Prof. Dr. Dirk Heckmann</a></h3>
+          <div className="display-4 ml-3 h3-mktg float-left color-text-link"><a href="https://www.gov.sot.tum.de/elaw/lehrstuhlinhaber/" target="_blank">Prof. Dr. Dirk Heckmann</a></div>
           <h5 className="display-4 ml-3 float-left">Technische Universität München, Direktor des TUM Center for Digital Public Services (CDPS)</h5>
           <div className="display-4 ml-3 float-left">Foto: Kilian Blues bidt</div>
           </div>
