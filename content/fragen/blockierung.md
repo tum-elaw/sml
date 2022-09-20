@@ -13,7 +13,7 @@ topics:
   - Umgang mit anderen Usern
 shortTitle: Blockierung Anderer
 ---
-<div style="text-align:justify">
+<div>
 
 Auf einem privaten Social Media-Account darf man andere Nutzerinnen und Nutzer ohne Weiteres blockieren. Als Kehrseite zur Möglichkeit, grundsätzlich uneingeschränkt Kontakte hinzuzufügen (<a href="https://sml.tum-cdps.de/en/fragen/vernetzung">→ Vernetzung mit Anderen</a>), ist es gleichermaßen erlaubt, diese wieder zu entfernen oder gar zu blockieren. 
 
