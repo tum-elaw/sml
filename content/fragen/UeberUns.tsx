@@ -9,14 +9,84 @@ export function UeberUns() {
 Weitere Informationen zum CDPS finden Sie hier: <a href="https://www.tum-cdps.de/ueber-die-forschungsstelle/" target="_blank">https://www.tum-cdps.de/ueber-die-forschungsstelle/.</a>
 </p>          
               </div>
-              <h2 className="h3-mktg mt-5">Redaktion</h2>
-              <div className='mt-3 markdown-body'>
-                <p>Als Brückenkopf interdisziplinärer Spitzenforschung hat sich das TUM Center for Digital Public Services (CDPS) als allgemeines Ziel gesetzt, die Digitalisierung rechtssicher und praxistauglich zu gestalten. </p>
+
+              <div className="float-left col-12 col-lg-6">
+
+              <h2 className="h2-mktg mt-5">Redaktion</h2>
+
+
+              <div className="mt-5 float-left">      
+            <div className="col-12 col-lg-10 float-left">
+                <div className="col-12 col-lg-12">
+          <h3 className="display-4 ml-0 h3-mktg"><a href="https://www.gov.sot.tum.de/elaw/lehrstuhlinhaber/" target="_blank">Prof. Dr. Dirk Heckmann</a></h3>
+          </div>
+          <h5 className="display-4 ml-0 float-left">Herausgeber</h5>
+          <div className="display-4 ml-0 float-left">Direktor, TUM Center for Digital Public Services (CDPS)</div>
+          </div>
+          </div>
+
+          <div className="mt-4 float-left">
+            <div className="col-12 col-lg-10 float-left">
+                <div className="col-12 col-lg-12">
+          <h3 className="display-4 ml-0 h3-mktg"><a href="https://www.gov.sot.tum.de/elaw/lehrstuhlinhaber/" target="_blank">Fay Carathanassis</a></h3>
+          </div>
+          <h5 className="display-4 ml-0 float-left">Projektleiterin</h5>
+          <div className="display-4 ml-0 float-left">Wissenschaftliche Mitarbeiterin, TUM Center for Digital Public Services (CDPS)</div>
+          </div>
+          </div>
+
+                <div className="mt-4 float-left">
+            <div className="col-12 col-lg-10 float-left">
+          <h3 className="display-4 ml-0 float-left h3-mktg"><a href="https://www.gov.sot.tum.de/elaw/lehrstuhlinhaber/" target="_blank">Dr. Thimo Brand</a></h3>
+          <div className="display-4 ml-0 float-left">Wissenschaftlicher Mitarbeiter, TUM Center for Digital Public Services (CDPS)</div>
+          </div>
+          </div>
+
+            <div className="mt-4 float-left">
+        
+            <div className="col-12 col-lg-10 float-left">
+          <h3 className="display-4 ml-0 float-left h3-mktg" h3-mktg><a href="https://www.gov.sot.tum.de/elaw/lehrstuhlinhaber/" target="_blank">Pascal Bronner</a></h3>
+          <div className="display-4 ml-0 float-left">Wissenschaftlicher Mitarbeiter, TUM Center for Digital Public Services (CDPS)</div>
+          </div>
+          </div>
+
+          <div className="mt-4 float-left">
+            
+            <div className="col-12 col-lg-10 float-left">
+          <h3 className="display-4 ml-0 float-left h3-mktg"><a href="https://www.gov.sot.tum.de/elaw/lehrstuhlinhaber/" target="_blank">Anne Hilsberg</a></h3>
+          <div className="display-4 ml-0 float-left">Wissenschaftliche Mitarbeiterin, TUM Center for Digital Public Services (CDPS)</div>
+          </div>
+          </div>
+       
+
+          </div>
+
+          <div className="float-left col-12 col-lg-6">
+              <h2 className="h2-mktg mt-5">Technische Gestaltung</h2>
+              
+              <div className="mt-4 float-left">
+            <img className="float-left mt-2" src ="/assets/images/Profilbild_DH_Credits_an_Kilian_Blues_bidt_test.png" width="60px"></img>
+            <div className="col-12 col-lg-10 float-left">
+          <h3 className="display-4 ml-3 float-left"><a href="https://www.gov.sot.tum.de/elaw/lehrstuhlinhaber/" target="_blank">Fay Carathanassis</a></h3>
+          <div className="display-4 ml-3 float-left">Wissenschaftliche Mitarbeiterin, TUM Center for Digital Public Services (CDPS)</div>
+          </div>
+          </div>
+
+          <div className="mt-4 float-left">
+            <img className="float-left mt-2" src ="/assets/images/Profilbild_DH_Credits_an_Kilian_Blues_bidt_test.png" width="60px"></img>
+            <div className="col-12 col-lg-10 float-left">
+          <h3 className="display-4 ml-3 float-left"><a href="https://www.gov.sot.tum.de/elaw/lehrstuhlinhaber/" target="_blank">Fay Carathanassis</a></h3>
+          <div className="display-4 ml-3 float-left">Wissenschaftliche Mitarbeiterin, TUM Center for Digital Public Services (CDPS)</div>
+          </div>
+          </div>
+
+
+
+
+
+
                 </div>
-              <h4 className="h3-mktg mt-5">Technische Gestaltung</h4>
-              <div className='mt-3 markdown-body'>
-                <p>Als Brückenkopf interdisziplinärer Spitzenforschung hat sich das TUM Center for Digital Public Services (CDPS) als allgemeines Ziel gesetzt, die Digitalisierung rechtssicher und praxistauglich zu gestalten. </p>
-                </div>
+
         </div>
     )
 }

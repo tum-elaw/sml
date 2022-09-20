@@ -110,6 +110,7 @@ function LandingPage(props: LandingPageProps) {
               <div className="border-top"></div>
               <div>
                 <div className="mt-4">Den Social Media Leitfaden gibt es auch als PDF!</div>
+                <img src='./assets/images/sml/quickguide_frontpage.png' width="100px" alt="Erste Seite des Leitfadens als PDF Version"></img>
                 <button className="btn btn-primary float-left mt-3 mx-auto" type="button">
                   <span>Download</span>
                 </button>
@@ -117,9 +118,16 @@ function LandingPage(props: LandingPageProps) {
             </div>
           </div>
         </div>
+        
+          <div className="featured-links container-xl">
+          <div className="gutter gutter-xl-spacious clearfix">
         <UeberUns/>
+        </div>
+        </div>
+
+
         <div className="container-xl">
-          <div className="col-12 col-lg-12 mt-6 float-left h2-mktg">
+        <div className="col-12 col-lg-12 mt-6 float-left h2-mktg">
               <a href="https://sml.tum-cdps.de/en/fragen/glossar">
                 Glossar
               </a>
@@ -128,6 +136,7 @@ function LandingPage(props: LandingPageProps) {
           Glossar über einschlägige Begriffe im Zusammenhang mit Social Media
           
           </div>
+
           
         </div>
         
