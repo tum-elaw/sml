@@ -76,5 +76,10 @@ externalProducts:
     name: Umgang mit Social Media-Gruppen
     href: 'https://sml.tum-cdps.de/en/fragen/fanpages'
     external: true
+  glossar:
+    id: glossar
+    name: Glossar
+    href: 'https://sml.tum-cdps.de/en/fragen/glossar'
+    external: true
 ---
 
