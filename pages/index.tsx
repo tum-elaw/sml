@@ -101,10 +101,19 @@ function LandingPage(props: LandingPageProps) {
         
           <div className="featured-links container-xl">
           <div className="gutter gutter-xl-spacious clearfix">
-
-            <div className="col-12 col-lg-12 mt-6 mb-md-4 mb-lg-0 float-left">
-              <h4 className='mb-2'>Emfohlene Beiträge</h4>
+            <div className="col-12 col-lg-6 mt-6 mb-md-4 mb-lg-0 float-left">
+              <h4 className='mb-2'>Empfohlene Beiträge</h4>
               <ArticleList title={t('toc:pAopular')} variant="compact" articles={popularLinks} />
+            </div>
+            <div className="float-left col-12 col-lg-6">
+              <h4 className="mb-2 mt-6">PDF Version</h4>
+              <div className="border-top"></div>
+              <div>
+                <div className="mt-4">Den Social Media Leitfaden gibt es auch als PDF!</div>
+                <button className="btn btn-primary float-left mt-3 mx-auto" type="button">
+                  <span>Download</span>
+                </button>
+              </div>
             </div>
           </div>
         </div>
