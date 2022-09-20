@@ -39,7 +39,8 @@ export const SidebarNav = () => {
         </Link>
       </div>
       <nav>
-      <ul className="sidebar-products mt-4">
+      <ul className="sidebar-products mt-1">
+        <div className="ml-4 f6 bg.subtle mb-2"><b>FRAGEN & ANTWORTEN</b></div>
             {!isFPT && <AllProductsLink />}
             {/* this is responsible for sidebar on homepage
                 <SidebarProduct /> was responsible for subpages*/}
