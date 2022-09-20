@@ -109,8 +109,9 @@ function LandingPage(props: LandingPageProps) {
               <h4 className="mb-2 mt-6">PDF Version</h4>
               <div className="border-top"></div>
               <div>
-                <div className="mt-4">Den Social Media Leitfaden gibt es auch als PDF!</div>
-                <img src="/assets/images/sml/quickguide_frontpage.png" width="200px" alt="Erste Seite des Leitfadens als PDF Version"></img>
+              <img className="mt-3" src="/assets/images/sml/quickguide_frontpage.png" width="150px" alt="Erste Seite des Leitfadens als PDF Version"></img>
+              <img className="mt-3 ml-3" src="/assets/images/sml/quickguide_frontpage.png" width="150px" alt="Erste Seite des Leitfadens als PDF Version"></img>
+                <div className="mt-2">Den Social Media Leitfaden gibt es auch als PDF!</div>
                 <button className="btn btn-primary float-left mt-3 mx-auto" type="button">
                   <span>Download</span>
                 </button>
