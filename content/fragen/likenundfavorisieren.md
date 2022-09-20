@@ -10,7 +10,7 @@ redirect_from:
 versions:
   fpt: '*'
 topics:
-  - Allgemein
+  - Beiträge auf Social Media
 shortTitle: „Liken“ und Favorisieren fremder Inhalte
 ---
 <div style="text-align:justify">

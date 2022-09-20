@@ -10,7 +10,7 @@ redirect_from:
 versions:
   fpt: '*'
 topics:
-  - Allgemein
+  - Social Media und Arbeit
 shortTitle: Nutzung während der Arbeitszeit
 ---
 <div>

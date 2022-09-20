@@ -10,7 +10,7 @@ redirect_from:
 versions:
   fpt: '*'
 topics:
-  - Allgemein
+  - Social Media und Arbeit
 shortTitle: Aussagen über die Arbeit
 ---
 <div style="text-align:justify">

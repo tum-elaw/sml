@@ -10,7 +10,7 @@ redirect_from:
 versions:
   fpt: '*'
 topics:
-  - Allgemein
+  - Umgang mit anderen Usern
 shortTitle: Umgang mit Kontaktanfragen aufgrund der Arbeitsstelle
 ---
 <div style="text-align:justify">

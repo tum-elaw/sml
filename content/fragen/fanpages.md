@@ -10,7 +10,8 @@ redirect_from:
 versions:
   fpt: '*'
 topics:
-  - Allgemein
+  - Umgang mit anderen Usern
+  - Kennzeichnung
 shortTitle: Umgang mit Social Media-Gruppen
 ---
 <div style="text-align:justify">

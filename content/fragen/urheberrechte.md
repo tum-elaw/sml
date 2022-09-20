@@ -10,7 +10,7 @@ redirect_from:
 versions:
   fpt: '*'
 topics:
-  - Allgemein
+  - Beiträge auf Social Media
 shortTitle: Umgang mit fremden Inhalten
 ---
 <div style="text-align:justify">

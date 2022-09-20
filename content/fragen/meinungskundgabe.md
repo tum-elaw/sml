@@ -10,7 +10,7 @@ redirect_from:
 versions:
   fpt: '*'
 topics:
-  - Allgemein
+  - Beiträge auf Social Media
 miniTocMaxHeadingLevel: 3
 shortTitle: Meinungskundgabe
 ---

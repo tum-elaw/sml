@@ -10,7 +10,7 @@ redirect_from:
 versions:
   fpt: '*'
 topics:
-  - Allgemein
+  - Kennzeichnung
 shortTitle: Kennzeichnung der Profilseite als „privat“
 ---
 <div>
