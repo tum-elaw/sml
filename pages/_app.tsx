@@ -23,7 +23,7 @@ const MyApp = ({ Component, pageProps, csrfToken, themeProps }: MyAppProps) => {
     <>
       <Head>
         <meta charSet="utf-8" />
-        <title>Social Media Leitfaden</title>
+        <title>Social Media Leitfaden für Bedienstete im Öffentlichen Dienst</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
         <link rel="alternate icon" type="image/png" href="/assets/images/site/favicon.png" />
