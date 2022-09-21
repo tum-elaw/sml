@@ -165,7 +165,7 @@ module.exports = async function renderPage (req, res, next) {
 
   // add localized ` - GitHub Docs` suffix to <title> tag (except for the homepage)
   if (!patterns.homepagePath.test(req.pagePath)) {
-    context.page.fullTitle = context.page.fullTitle + ' - ' + context.site.data.ui.search.need_help
+    context.page.fullTitle = context.page.fullTitle + ' - ' + context.site.data.ui.header.github_docs
   }
 
   // `?json` query param for debugging request context
