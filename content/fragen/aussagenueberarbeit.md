@@ -28,16 +28,23 @@ Ob eine datenschutzrechtliche Rechtfertigung wie eine informierte und freiwillig
 
 Zu **unterlassen** sind schließlich **falsche Tatsachenbehauptungen, Drohungen, Beleidigungen und Diffamierungen** gegenüber Kolleginnen und Kollegen sowie Vorgesetzten. Die Meinungsfreiheit (im Netz) wird dann eingeschränkt, wenn <a href="https://sml.tum-cdps.de/en/fragen/meinungskundgabe#schm%C3%A4hkritik">ehrverletzende Äußerungen</a> getätigt werden (<a href="https://sml.tum-cdps.de/en/fragen/meinungskundgabe">→ Meinungskundgabe</a>). Wird zum Beispiel eine dienstliche Anordnung als „Unverschämtheit“ bezeichnet, bewegt sich dies etwa bereits außerhalb sachlicher Kritik und ist damit unzulässig.<span class='tooltip'><sup><a id='6.1'>[[6]](#6)</a></sup><span class='tooltiptext'>Werres in BeckOK BeamtenR Bund, 26. Ed. 1.2.2022, <a href="https://www.gesetze-im-internet.de/beamtstg/__33.html" target="_blanc">BeamtStG § 33</a> Rn. 26.</span></span> 
 
-Potenzielle Missstände in Arbeitsabläufen sind wegen der Treue- und Loyalitätspflicht der Beamtinnen und Beamten und Angestellten im öffentlichen Dienst (→ Frage 3.) intern durch Rüge- und Abhilfemöglichkeiten (sog. Remonstration) anzubringen. Verlagert man diesen rechtlich vorgeschriebenen Weg auf Social Media, drohen disziplinarrechtliche Maßnahmen.{i}
+Potenzielle Missstände in Arbeitsabläufen sind wegen der **Treue- und Loyalitätspflicht** der Beamtinnen und Beamten und Angestellten im öffentlichen Dienst (<a href="https://sml.tum-cdps.de/en/fragen/meinungskundgabe#besonderheiten-bei-angestellten-des-%C3%B6ffentlichen-dienstes-die-nicht-verbeamtet-sind-dh-tarifbesch%C3%A4ftigten">→ Meinungskundgabe</a>) intern durch **Rüge- und Abhilfemöglichkeiten** (sog. Remonstration) anzubringen. Verlagert man diesen rechtlich vorgeschriebenen Weg auf Social Media, drohen disziplinarrechtliche Maßnahmen.<span class='tooltip'><sup><a id='7.1'>[[7]](#7)</a></sup><span class='tooltiptext'>BVerwG v. 10.10.1989 - 2 WDB 4/89, BVerwGE 86, 188 = NVwZ 1990, 762.</span></span> 
 
 <hr>
 
 <a id="1">[[1]](#1.1)</a> Dies ergibt sich für die Beamtinnen und Beamte in Bayern aus § 37 Beamtenstatusgesetz (BeamStG) und für Bundesbeamtinnen und -beamte aus <a href="https://www.gesetze-im-internet.de/bbg_2009/__67.html" target="_blanc">§ 67 Bundesbeamtengesetz</a> (BBG). Für weitere Tarifbeschäftigte im öffentlichen Dienst wird die Verschwiegenheitspflicht in <a href="https://www.tdl-online.de/tv-l/tarifvertrag.html" target="_blanc">§ 3 Abs. 2 TV-L</a> geregelt (Tarifbeschäftigte der Länder) bzw. in <a href="https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/oeffentlicher-dienst/tarifvertraege/tvoed.html" target="_blanc">§ 3 Abs. 1 TVöD</a> (Tarifbeschäftigte des Bundes).
+
 <a id="2">[[2]](#2.1)</a> Weinrich in BeckOK BeamtenR Bund, 26. Ed. 1.5.2022, <a href="https://www.gesetze-im-internet.de/beamtstg/__37.html" target="_blanc">BeamtStG § 37</a> Rn. 1; vgl. VGH Kassel NVwZ-RR 2021, 905 Rn. 36.
+
 <a id="3">[[3]](#3.1)</a> Weinrich in BeckOK BeamtenR Bund, 26. Ed. 1.5.2022, <a href="https://www.gesetze-im-internet.de/beamtstg/__37.html" target="_blanc">BeamtStG § 37</a> Rn. 7; so auch OVG Schleswig NVwZ-RR, 413 Rn. 21.
+
 <a id="4">[[4]](#4.1)</a> Eine freiwillige und informierte Einwilligung in die Datenverarbeitung macht diese nach <a href="https://dejure.org/gesetze/DSGVO/6.html" target="_blanc">Art. 6 Abs. 1 lit. a DSGVO</a> grundsätzlich zulässig.
+
 <a id="5">[[5]](#5.1)</a> Vgl. so auch „Der rechtliche Rahmen für den Umgang der Beschäftigten der Bayerischen Staatsverwaltung mit Sozialen Medien“, 09/2012, IT-Beauftragter der Bayerischen Staatsregierung, S. 7.
+
 <a id="6">[[6]](#6.1)</a> Werres in BeckOK BeamtenR Bund, 26. Ed. 1.2.2022, <a href="https://www.gesetze-im-internet.de/beamtstg/__33.html" target="_blanc">BeamtStG § 33</a> Rn. 26.
+
+<a id="7">[[7]](#7.1)</a> BVerwG v. 10.10.1989 - 2 WDB 4/89, BVerwGE 86, 188 = NVwZ 1990, 762.
 
 
 

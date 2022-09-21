@@ -13,10 +13,15 @@ topics:
   - Umgang mit anderen Usern
 shortTitle: Umgang mit Kontaktanfragen aufgrund der Arbeitsstelle
 ---
-<div style="text-align:justify">
+<div>
 
-Wenn man in seiner Funktion als Verwaltungsbedienstete oder -bediensteter auf einer privat genutzten Social Media-Plattform kontaktiert wird, sollte man grundsätzlich zurückhaltend agieren. Angestellte sind, sofern sich aus dem Arbeitsvertrag oder der Art der Tätigkeit nichts anderes ergibt, nicht befugt, ihre Arbeitgeberin oder ihren Arbeitgeber auf Social Media zu repräsentieren. Man sollte immer den Eindruck vermeiden, dass Aussagen als offizielle Mitteilungen der Behörde interpretiert werden können (→ Frage 8.). Das gilt auch für Privatnachrichten. Zudem hat man als Angestellte oder Angestellter im öffentlichen Dienst gewisse Verschwiegenheits- und Geheimhaltungspflichten zu wahren (→ Frage 6.). 
-Man kann an die geeignete Ansprechperson verweisen oder auf eine bevorzugte Art der Kommunikation (etwa eine Funktionsemailadresse) hinweisen. Bei Anfragen von Journalistinnen und Journalisten ist es ratsam, an die Pressestelle zu verweisen. Ist im Arbeitsvertrag eine Repräsentation der Arbeitgeberin oder des Arbeitgebers nach außen geregelt, dann gelten diese Vorgaben.
+Wenn man in seiner Funktion als Verwaltungsbedienstete oder -bediensteter auf einer privat genutzten Social Media-Plattform kontaktiert wird, sollte man **grundsätzlich zurückhaltend** agieren. 
+
+Angestellte sind, sofern sich aus dem Arbeitsvertrag oder der Art der Tätigkeit nichts anderes ergibt, nicht befugt, ihre Arbeitgeberin oder ihren Arbeitgeber auf Social Media zu repräsentieren. Man sollte immer den **Eindruck vermeiden**, dass **Aussagen als offizielle Mitteilungen** der Behörde interpretiert werden können (<a href="https://sml.tum-cdps.de/en/fragen/behoerdenrepraesentation">→ Kommunikation im Namen der Behörde</a>). Das gilt auch für Privatnachrichten. 
+
+Zudem hat man als Angestellte oder Angestellter im öffentlichen Dienst gewisse <a href="https://sml.tum-cdps.de/en/fragen/aussagenueberarbeit">Verschwiegenheits- und Geheimhaltungspflichten</a> zu wahren (<a href="https://sml.tum-cdps.de/en/fragen/aussagenueberarbeit">→ Aussagen über die Arbeit</a>). 
+
+Man kann an die **geeignete Ansprechperson verweisen** oder auf eine **bevorzugte Art der Kommunikation (etwa eine Funktionsemailadresse) hinweisen.** Bei Anfragen von Journalistinnen und Journalisten ist es ratsam, an die **Pressestelle** zu verweisen. Ist im Arbeitsvertrag eine Repräsentation der Arbeitgeberin oder des Arbeitgebers nach außen geregelt, dann gelten diese Vorgaben.
 
 
 </div>
