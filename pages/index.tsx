@@ -106,29 +106,36 @@ function LandingPage(props: LandingPageProps) {
           </div>
           <div className="mt-3">
           Glossar über einschlägige Begriffe im Zusammenhang mit Social Media
-          
           </div>
-
-          
         </div>
           
-        
           <div className="featured-links container-xl">
           <div className="gutter gutter-xl-spacious clearfix">
             <div className="col-12 col-lg-6 mt-6 mb-md-4 mb-lg-0 float-left">
               <h4 className='mb-2'>Empfohlene Beiträge</h4>
               <ArticleList title={t('toc:pAopular')} variant="compact" articles={popularLinks} />
             </div>
-            <div className="float-left col-12 col-lg-6">
-              <h4 className="mb-2 mt-6">PDF Version</h4>
+            <div className="float-left col-12 col-lg-6 mt-6">
+              <h4 className="mb-2">PDF Version</h4>
               <div className="border-top"></div>
-              <div>
-              <img className="mt-3" src="/assets/images/sml/quickguide_frontpage.png" width="150px" alt="Erste Seite des Leitfadens als PDF Version"></img>
-              <img className="mt-3 ml-3" src="/assets/images/sml/quickguide_frontpage.png" width="150px" alt="Erste Seite des Leitfadens als PDF Version"></img>
-                <div className="mt-2">Den Social Media Leitfaden gibt es auch als PDF!</div>
-                <button className="btn btn-primary float-left mt-3 mx-auto" type="button">
-                  <span>Download</span>
-                </button>
+              <div className="clearfix">
+                <div className="float-left col-auto">
+                  <img className="my-3 mr-3" src="/assets/images/sml/quickguide_frontpage.png" width="150px" alt="Erste Seite des Leitfadens als PDF Version"></img>
+                </div>
+                <div className="float-left col-6">
+                  <div className="float-left col-12">
+                    <div className="mt-2">Den Social Media Leitfaden gibt es auch als PDF!</div>
+                    <button className="btn btn-primary float-left mt-3" type="button">
+                      <span>Download</span>
+                    </button>
+                  </div>
+                  <div className="float-left col-12">
+                    <div className="mt-4">Hier geht es zur tintensparenden und barrierefreien Version!</div>
+                    <button className="btn btn-primary float-left mt-3" type="button">
+                      <span>Download</span>
+                    </button>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
