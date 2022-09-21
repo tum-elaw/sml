@@ -13,6 +13,7 @@ type SearchResult = {
   heading: string
   title: string
   content: string
+  topics: string
 }
 
 type Props = {
@@ -148,7 +149,7 @@ export function Search({ isStandalone = false, updateSearchParams = true, childr
         {Boolean(results.length) && (
           <div className="ais-Hits d-block">
             <ol className="ais-Hits-list">
-              {results.map(({ url, breadcrumbs, heading, title, content }, index) => (
+              {results.map(({ url, breadcrumbs, heading, title, content, topics }, index) => (
                 <li
                   key={url}
                   className={'ais-Hits-item' + (index + 1 === activeHit ? ' active' : '')}
@@ -158,7 +159,7 @@ export function Search({ isStandalone = false, updateSearchParams = true, childr
                       {/* Breadcrumbs in search records don't include the page title. These fields may contain <mark> elements that we need to render */}
                       <div
                         className="search-result-breadcrumbs d-block color-text-primary opacity-60 text-small pb-1"
-                        dangerouslySetInnerHTML={{ __html: breadcrumbs }}
+                        dangerouslySetInnerHTML={{ __html: topics }}
                       />
                       <div
                         className="search-result-title d-block h4-mktg color-text-primary"
