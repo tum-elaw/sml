@@ -12,7 +12,7 @@ versions:
 topics:
   - Beiträge auf Social Media
 shortTitle: Veröffentlichungen von Eventbildern
-maxTocLevel: 3
+miniTocMaxHeadingLevel: 3
 ---
 <div>
 
