@@ -21,6 +21,8 @@ includeGuides:
 - /fragen/likenundfavorisieren
 - /fragen/fanpages
 - /fragen/glossar
+- /fragen/impressum
+- /fragen/datenschutzerklaerung
 versions:
   fpt: '*'
   ghes: '*'
@@ -39,5 +41,7 @@ children:
   - likenundfavorisieren
   - fanpages
   - glossar
+  - impressum
+  - datenschutzerklaerung
 ---
 
