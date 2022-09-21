@@ -58,6 +58,10 @@ support:
   KUG: Kunsturhebergesetz (KUG)
   DSGVO: Datenschutzgrundverordnung (DSGVO)
   StGB: Strafgesetzbuch (StGB)
+  BBG: Bundesbeamtengesetz (BBG)
+  BeamStG: Beamtenstatusgesetz (BeamStG)
+  TVöD: Tarifvertrag für den Öffentlichen Dienst (TVöD)
+  TV-L: Tarifvertrag für den Öffentlichen Dienst der Länder (TV-L)
 survey:
   able_to_find: Wie findest du dieses Wiki?
   yes: Yes

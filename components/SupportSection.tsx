@@ -23,9 +23,6 @@ export const SupportSection = () => {
           <a id="GG" href="https://www.gesetze-im-internet.de/gg/" target="_blank" className="btn btn-outline mr-4 mt-2">
             {t`GG`}
           </a>
-          <a id="NetzDG" href="https://www.gesetze-im-internet.de/netzdg/index.html" target="_blank" className="btn btn-outline mr-4 mt-2">
-            {t`NetzDG`}
-          </a>
           <a id="UrhG" href="https://www.gesetze-im-internet.de/urhg/" target="_blank" className="btn btn-outline mr-4 mt-2">
             {t`UrhG`}
           </a>
@@ -37,6 +34,18 @@ export const SupportSection = () => {
           </a>
           <a id="StGB" href="https://www.gesetze-im-internet.de/stgb/" target="_blank" className="btn btn-outline mr-4 mt-2">
             {t`StGB`}
+          </a>
+          <a id="BBG" href="https://www.gesetze-im-internet.de/bbg_2009/" target="_blank" className="btn btn-outline mr-4 mt-2">
+            {t`BBG`}
+          </a>
+          <a id="BeamStG" href="https://www.gesetze-im-internet.de/beamtstg/" target="_blank" className="btn btn-outline mr-4 mt-2">
+            {t`BeamStG`}
+          </a>
+          <a id="TVöD" href="https://www.gesetze-im-internet.de/stgb/" target="_blank" className="btn btn-outline mr-4 mt-2">
+            {t`TVöD`}
+          </a>
+          <a id="TV-L" href="https://www.gesetze-im-internet.de/stgb/" target="_blank" className="btn btn-outline mr-4 mt-2">
+            {t`TV-L`}
           </a>
         </div>
         <div>
