@@ -122,9 +122,9 @@ function LandingPage(props: LandingPageProps) {
                 <div className="float-left col-auto">
                   <img className="my-3 mr-3" src="/assets/images/sml/quickguide_frontpage.png" width="150px" alt="Erste Seite des Leitfadens als PDF Version"></img>
                 </div>
-                <div className="float-left col-6">
+                <div className="float-left col-6 ml-2">
                   <div className="float-left col-12">
-                    <div className="mt-2">Den Social Media Leitfaden gibt es auch als PDF!</div>
+                    <div className="mt-3">Den Social Media Leitfaden gibt es auch als PDF!</div>
                     <button className="btn btn-primary float-left mt-3" type="button">
                       <span>Download</span>
                     </button>
