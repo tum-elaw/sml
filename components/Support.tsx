@@ -10,38 +10,10 @@ export const Support = () => {
   return (
     <div>
       <div>
-      <h3 className="mb-2 f4">{t`still_need_help`}</h3>
-      <a
-        id="contact-us"
-        href={
-          isEnterprise
-            ? 'https://www.gov.sot.tum.de/elaw/team/michael-bressler/'
-            : 'https://www.gov.sot.tum.de/elaw/team/michael-bressler/'
-         
-        }
-        target="_blank"
-        className="btn btn-outline mt-2"
-      >
-        <CommentDiscussionIcon size="small" className="octicon mr-1" />
-        {t`contact_support`}
-      </a>
-      </div>
-      <div>
-      <h3 className="mt-6 mb-2 f4">Feedback?</h3>
-      <a
-        id="feedback"
-        href={
-          isEnterprise
-            ? 'https://www.gov.sot.tum.de/elaw/team/michael-bressler/'
-            : 'https://www.gov.sot.tum.de/elaw/team/michael-bressler/'
-         
-        }
-        target="_blank"
-        className="btn btn-outline mt-2"
-      >
-        <CommentDiscussionIcon size="small" className="octicon mr-1" />
-        E-Mail schreiben
-      </a>
+      <h3 className="mt-2 mb-2 f4">Kontakt</h3>
+      Du hast benötigst Hilfe oder hast Feedback zum Social Media Leitfaden?
+      <p>Schreibe uns gerne eine Mail an: </p>
+      <p>sml.elaw@sot.tum.de</p>
       </div>
     </div>
   )
