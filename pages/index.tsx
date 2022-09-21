@@ -120,20 +120,26 @@ function LandingPage(props: LandingPageProps) {
               <div className="border-top"></div>
               <div className="clearfix">
                 <div className="float-left col-auto">
+                <a href="/assets/Social_Media_Leitfaden_Quickguide.pdf" target="_blank">
                   <img className="my-3 mr-3" src="/assets/images/sml/quickguide_frontpage.png" width="150px" alt="Erste Seite des Leitfadens als PDF Version"></img>
-                </div>
+               </a>
+               </div>
                 <div className="float-left col-6 ml-2">
                   <div className="float-left col-12">
                     <div className="mt-3">Den Social Media Leitfaden gibt es auch als PDF!</div>
+                    <a href="/assets/Social_Media_Leitfaden_Quickguide.pdf" target="_blank">
                     <button className="btn btn-primary float-left mt-3" type="button">
                       <span>Download</span>
                     </button>
+                    </a>
                   </div>
                   <div className="float-left col-12">
                     <div className="mt-4">Hier geht es zur tintensparenden und barrierefreien Version!</div>
+                    <a href="/assets/Social_Media_Leitfaden_Quickguide_barrierefrei_tintensparend.pdf" target="_blank">
                     <button className="btn float-left mt-3" type="button">
                       <span>Download</span>
                     </button>
+                    </a>
                   </div>
                 </div>
               </div>
