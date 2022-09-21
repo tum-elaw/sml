@@ -88,7 +88,10 @@ const SidebarHomepage = () => {
           >
             <a
               href={product.href}
-              className="f4 pl-4 pr-5 py-2 color-text-primary hover-grow"
+              className={product.href.substring(26, product.href.length)===router.asPath?
+                "f4 pl-4 pr-5 py-2 color-text-blue hover-grow": product.href===router.asPath?
+                "f4 pl-4 pr-5 py-2 color-text-blue hover-grow":
+                "f4 pl-4 pr-5 py-2 color-text-primary hover-grow"}
             >
               {product.name}
             </a>
