@@ -13,7 +13,7 @@ topics:
   - Umgang mit anderen Usern
 shortTitle: Umgang mit Kontaktanfragen aufgrund der Arbeitsstelle
 ---
-<div>
+<div style="text-align:justify">
 
 Wenn man in seiner Funktion als Verwaltungsbedienstete oder -bediensteter auf einer privat genutzten Social Media-Plattform kontaktiert wird, sollte man **grundsätzlich zurückhaltend** agieren. 
 

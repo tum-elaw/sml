@@ -14,7 +14,7 @@ topics:
 shortTitle: Umgang mit fremden Inhalten
 miniTocMaxHeadingLevel: 3
 ---
-<div>
+<div style="text-align:justify">
 
 Es ist ein Hauptmerkmal von Social Media, (fremde) Inhalte wie Bilder, Videos und Texte hochladen, verbreiten und teilen (und nicht nur „liken“) zu können. <br>Was viele nicht wissen: **Diese Handlungen können Rechte des geistigen Eigentums anderer Personen verletzen.**<span class='tooltip'><sup><a id='1.1'>[[1]](#1)</a></sup><span class='tooltiptext'>
 

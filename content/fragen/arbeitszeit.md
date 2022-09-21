@@ -13,7 +13,7 @@ topics:
   - Social Media und Arbeit
 shortTitle: Nutzung während der Arbeitszeit
 ---
-<div>
+<div style="text-align:justify">
 
 Ob Social Media-Plattformen während der Arbeitszeit verwendet werden dürfen, hängt davon ab, **ob es eine ausdrückliche Gestattung der Arbeitgeberin oder des Arbeitgebers** (etwa der Behördenleitung) zur privaten Nutzung des Internets gibt.<span class='tooltip'><sup><a id='1.1'>[[1]](#1)</a></sup><span class='tooltiptext'>Pötters in Thüsing/Wurth, Social Media im Betrieb, 2. Auflage 2020, § 9 Rn. 33, 37.</span></span>
 

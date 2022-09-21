@@ -13,7 +13,7 @@ topics:
   - Social Media und Arbeit
 shortTitle: Kommunikation im Namen der Behörde
 ---
-<div>
+<div style="text-align:justify">
 
 Die Öffentlichkeitsarbeit für die Arbeitgeberin oder den Arbeitgeber (etwa eine bayerische Landesbehörde) übernehmen die hierfür vorgesehenen Pressestellen und Abteilungen. 
 

@@ -14,7 +14,7 @@ topics:
 miniTocMaxHeadingLevel: 3
 shortTitle: Meinungskundgabe
 ---
-<div>
+<div style="text-align:justify">
 
 Grundsätzlich darf man seine Meinung als Privatperson uneingeschränkt äußern – auch über Social Media (**grundrechtlich geschützte Meinungsfreiheit**).<br> Seine Meinung kann man nicht nur durch Worte ausdrücken, sondern auch zum Beispiel durch Bilder (etwa sog. Memes), Videos (etwa sog. GIFs) und unter Umständen auch durch Teilen eines fremden Beitrags,<span class='tooltip'><sup><a id='1.1'>[[1]](#1)</a></sup><span class='tooltiptext'>Zwar wird das bloßes Teilen eines fremden Beitrags als neutrale Ausdrucksform angesehen, der weder eine zustimmende noch ablehnende Haltung entnommen werden kann. Jedoch wird der Aussagegehalt des geteilten Inhalts einem dann angerechnet (wie wenn man es selbst gepostet bzw. veröffentlicht hätte), wenn man die Weiterverbreitung mit einer zustimmenden Bewertung verbindet oder wenn der geteilte Beitrag beispielsweise einen derart gravierenden persönlichkeitsrechtsverletzenden Inhalt aufweist, dass schon die schlichte Weiterverbreitung zu einer (eigenständigen) Ehrverletzung des Betroffenen führt, Günther/Lenz, ArbRAktuell 2020, 405 (406) m.w.N.</span></span> Likes („👍“)<span class='tooltip'><sup><a id='2.1'>[[2]](#2)</a></sup><span class='tooltiptext'>Vgl. EGMR, NJW 2022, 305.</span></span> oder Setzen/Verbreiten eines Links äußern.
 

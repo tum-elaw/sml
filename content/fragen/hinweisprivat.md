@@ -13,7 +13,8 @@ topics:
   - Kennzeichnung
 shortTitle: Kennzeichnung der Profilseite als „privat“
 ---
-<div>
+
+<div style="text-align:justify">
 
 Auf Social Media-Profilseiten findet man gelegentlich den Hinweis „hier privat“. Dies ist nicht zwingend erforderlich, kann aber der Klarstellung dienen. 
 

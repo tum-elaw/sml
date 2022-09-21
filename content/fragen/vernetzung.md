@@ -13,7 +13,7 @@ topics:
   - Umgang mit anderen Usern
 shortTitle: Vernetzung mit Anderen
 ---
-<div>
+<div style="text-align:justify">
 
 Grundsätzlich ist eine Vernetzung mit anderen Nutzerinnen und Nutzern auf einer Social Media-Plattform uneingeschränkt **erlaubt**, solange dies **als Privatperson erfolgt.** <br>
 Nutzerkonten in dienstlicher Funktionen dürfen nur mit Erlaubnis und in Abstimmung mit der Behördenleitung eröffnet werden; dies ist dann Teil der **förmlichen Öffentlichkeitsarbeit der Behörde** und unterliegt (neben der allgemeinen Gesetzesbindung) der innerbehördlichen Regulierung.

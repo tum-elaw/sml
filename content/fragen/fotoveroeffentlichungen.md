@@ -14,7 +14,7 @@ topics:
 shortTitle: Veröffentlichungen von Eventbildern
 miniTocMaxHeadingLevel: 3
 ---
-<div>
+<div style="text-align:justify">
 
 Bei der Erstellung und anschließenden Verbreitung von Bildaufnahmen von (arbeitsinternen) Events gibt es einige Aspekte, die man beachten sollte:
 
