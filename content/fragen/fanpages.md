@@ -34,7 +34,7 @@ Inhaltlich haben Beamtinnen und Beamte sowie weitere Angestellte des Öffentlich
 ## Mitgliedschaft in einer Gruppe
 Als **Mitglied von Gruppen** auf Social Media-Plattformen haben Beamtinnen und Beamte sowie weitere Angestellte des Öffentlichen Dienstes **diejenigen Vorgaben und Umstände** zu beachten, die auch für <a href="https://sml.tum-cdps.de/en/fragen/aussagenueberarbeit">Aussagen über ihre Arbeit in sozialen Netzwerken</a>, die <a href="https://sml.tum-cdps.de/en/fragen/fotoveroeffentlichungen">Verbreitung von Fotografien von Betriebsfeiern</a> oder die <a href="https://sml.tum-cdps.de/en/fragen/urheberrechte">Zurechnung fremder Inhalte</a> gelten.
 
-<hr style="height:1px">
+<hr>
 
 <a id="1">[[1]](#1.1)</a> Betreiberinnen und Betreiber von facebook-Fanpages tragen laut EuGH v. 5.6.2018 – C-210/16 (= EuZW 2018, 534 – Wirtschaftsakademie Schleswig-Holstein) maßgeblich zur Entscheidung über Mittel und Zweck der Verarbeitung personenbezogener Daten durch facebook bei. Somit sind sie zusammen mit facebook gemeinsame Verantwortliche nach <a href="https://dejure.org/gesetze/DSGVO/26.html" target="_blanc">Art. 26 DSGVO</a>, was aber nicht die gleichwertige Verantwortlichkeit meint. Jedenfalls die Datenschutzkonferenz (DSK Beschluss v. 05.09.2018, S. 1 und Kurzgutachten v. 18.03.2022, S. 18 f.) hält die „Informationen zu Seiten-Insights“ von facebook nicht ausreichend, um den Vorgaben einer Vereinbarung nach <a href="https://dejure.org/gesetze/DSGVO/26.html" target="_blanc">Art. 26 Abs. 1 Satz 2 DSGVO</a> zu genügen.
 
