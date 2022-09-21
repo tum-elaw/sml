@@ -29,14 +29,7 @@ const MyApp = ({ Component, pageProps, csrfToken, themeProps }: MyAppProps) => {
         <link rel="alternate icon" type="image/png" href="/assets/images/site/favicon.png" />
         <link rel="icon" type="image/svg+xml" href="/assets/images/site/favicon.svg" />
 
-        <meta
-          name="google-site-verification"
-          content="OgdQc0GZfjDI52wDv1bkMT-SLpBUo_h5nn9mI9L22xQ"
-        />
-        <meta
-          name="google-site-verification"
-          content="c1kuD-K2HIVF635lypcsWPoD4kilo5-jA_wBFyT4uMY"
-        />
+        <meta name="google-site-verification" content="fGufAggzntKzj1dhoOpTQjFxKxD6KZb5fWJcpIwnFQU" />
 
         <meta name="csrf-token" content={csrfToken} />
       </Head>
