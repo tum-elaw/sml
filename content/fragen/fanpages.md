@@ -29,17 +29,21 @@ Die Nutzerinnen und Nutzer müssen zudem **auf Basis einer unzweideutigen Inform
 Die Betreiberinnen und Betreiber sind schließlich dazu verpflichtet, die Daten der Nutzerinnen und Nutzer **rechtmäßig, nachvollziehbar** und für **festgelegte** und **eindeutige Zwecke** zu verarbeiten.
 
 ### Inhaltliche Anforderungen für Beschäftigte des Öffentlichen Diensts
-Inhaltlich haben Beamtinnen und Beamte sowie weitere Angestellte des Öffentlichen Dienstes beim Betrieb einer solchen Gruppe, wie etwa eine Fanpage, auch im privaten Bereich ihre **Verschwiegenheitspflicht** (→ Frage 6.) sowie **weitere Pflichten** (→ insb. Fragen 3., 4. und 9.) zu befolgen und darauf zu achten, den **Eindruck zu vermeiden**, dass es sich bei den Aussagen um **(offizielle) Mitteilungen der Behörde** handelt (→ Frage 8.).
+Inhaltlich haben Beamtinnen und Beamte sowie weitere Angestellte des Öffentlichen Dienstes beim Betrieb einer solchen Gruppe, wie etwa eine Fanpage, auch im privaten Bereich ihre <a href="https://sml.tum-cdps.de/en/fragen/aussagenueberarbeit">**Verschwiegenheitspflicht**</a> sowie **weitere Pflichten** ( insb. <a href="https://sml.tum-cdps.de/en/fragen/meinungskundgabe">Meinungskundgabe</a>, <a href="https://sml.tum-cdps.de/en/fragen/vernetzung">Vernetzung mit Anderen</a> und <a href="https://sml.tum-cdps.de/en/fragen/fotoveroeffentlichungen">Veröffentlichung von Eventbildern</a>) zu befolgen und darauf zu achten, den **Eindruck zu vermeiden**, dass es sich bei den Aussagen um **(offizielle) Mitteilungen der Behörde** handelt <br> (<a href="https://sml.tum-cdps.de/en/fragen/behoerdenrepraesentation">→ Kommunikation im Namen der Behörde</a>).
 
 ## Mitgliedschaft in einer Gruppe
-Als **Mitglied von Gruppen** auf Social Media-Plattformen haben Beamtinnen und Beamte sowie weitere Angestellte des Öffentlichen Dienstes diejenigen Vorgaben und Umstände zu beachten, die auch für Aussagen über ihre Arbeit in sozialen Netzwerken (→ Frage 6.), die Verbreitung von Fotografien von Betriebsfeiern (→ Frage 9.) oder die Zurechnung fremder Inhalte (→ Frage 11.) gelten.
+Als **Mitglied von Gruppen** auf Social Media-Plattformen haben Beamtinnen und Beamte sowie weitere Angestellte des Öffentlichen Dienstes **diejenigen Vorgaben und Umstände** zu beachten, die auch für <a href="https://sml.tum-cdps.de/en/fragen/aussagenueberarbeit">Aussagen über ihre Arbeit in sozialen Netzwerken</a>, die <a href="https://sml.tum-cdps.de/en/fragen/fotoveroeffentlichungen">Verbreitung von Fotografien von Betriebsfeiern</a> oder die <a href="https://sml.tum-cdps.de/en/fragen/urheberrechte">Zurechnung fremder Inhalte</a> gelten.
 
 <hr style="height:1px">
 
 <a id="1">[[1]](#1.1)</a> Betreiberinnen und Betreiber von facebook-Fanpages tragen laut EuGH v. 5.6.2018 – C-210/16 (= EuZW 2018, 534 – Wirtschaftsakademie Schleswig-Holstein) maßgeblich zur Entscheidung über Mittel und Zweck der Verarbeitung personenbezogener Daten durch facebook bei. Somit sind sie zusammen mit facebook gemeinsame Verantwortliche nach <a href="https://dejure.org/gesetze/DSGVO/26.html" target="_blanc">Art. 26 DSGVO</a>, was aber nicht die gleichwertige Verantwortlichkeit meint. Jedenfalls die Datenschutzkonferenz (DSK Beschluss v. 05.09.2018, S. 1 und Kurzgutachten v. 18.03.2022, S. 18 f.) hält die „Informationen zu Seiten-Insights“ von facebook nicht ausreichend, um den Vorgaben einer Vereinbarung nach <a href="https://dejure.org/gesetze/DSGVO/26.html" target="_blanc">Art. 26 Abs. 1 Satz 2 DSGVO</a> zu genügen.
+
 <a id="2">[[2]](#2.1)</a> EuGH v. 05.06.2018 – C-210/16 (= EuZW 2018, 534 – Wirtschaftsakademie Schleswig-Holstein); vgl. hierzu auch Heckmann/Scheurer in Heckmann/Paschke, jurisPK Internetrecht, 7. Aufl. 2021, Kap. 9 Rn. 886 ff.  Die Impressumspflicht ergibt sich aus <a href="https://www.gesetze-im-internet.de/tmg/__5.html" target="_blanc">§ 5 TMG</a>.
+
 <a id="3">[[3]](#3.1)</a> Die Impressumspflicht ergibt sich aus <a href="https://www.gesetze-im-internet.de/tmg/__5.html" target="_blanc">§ 5 TMG</a>; vgl. Spindler in Schmitz/Spindler, 2. Aufl. 2018, <a href="https://www.gesetze-im-internet.de/tmg/__5.html" target="_blanc">TMG § 5</a> Rn. 14, m.w.N.
+
 <a id="4">[[4]](#4.1)</a> Nach der Datenschutzkonferenz (DSK Kurzgutachten v. 18.03.2022, S. 7) sind zum Betrieb einer facebook-Fanpage nun auch die Pflichten des <a href="http://www.gesetze-im-internet.de/ttdsg/__25.html" target="_blanc">§ 25 TTDSG</a> (Einwilligung) einzuhalten.
+
 <a id="5">[[5]](#5.1)</a> So EuGH v. 01.10.2019 – C-673/17 – Planet49.
 
 
