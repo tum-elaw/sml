@@ -131,7 +131,7 @@ function LandingPage(props: LandingPageProps) {
                   </div>
                   <div className="float-left col-12">
                     <div className="mt-4">Hier geht es zur tintensparenden und barrierefreien Version!</div>
-                    <button className="btn btn-primary float-left mt-3" type="button">
+                    <button className="btn float-left mt-3" type="button">
                       <span>Download</span>
                     </button>
                   </div>
