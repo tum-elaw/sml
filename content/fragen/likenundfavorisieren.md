@@ -15,7 +15,9 @@ shortTitle: „Liken“ und Favorisieren fremder Inhalte
 ---
 <div style="text-align:justify">
 
-Das „Liken“ fremder Beiträge ist grundsätzlich erlaubt. Man muss dabei nur beachten, dass man sich durch das Anklicken des „Gefällt mir“-Buttons, den (geistigen) Aussagegehalt des Beitrags eventuell zurechnet und es unter Umständen als eigene Meinungsäußerung gewertet werden kann. Je nachdem, ob die „gelikte“ Aussage an sich erlaubt ist oder nicht (→ Frage 3.), kann es demnach sein, dass man allein durch das „Liken“ eine Pflichtverletzung begeht und somit (rechtliche) Konsequenzen zu befürchten hat.
+Das „Liken“ fremder Beiträge ist **grundsätzlich erlaubt**. <br>Man muss dabei nur beachten, dass man sich durch das Anklicken des „Gefällt mir“-Buttons, den **(geistigen) Aussagegehalt des Beitrags eventuell zurechnet** und es unter Umständen als **eigene Meinungsäußerung** gewertet werden kann. 
+
+Je nachdem, ob die „gelikte“ Aussage an sich erlaubt ist oder nicht (<a href="https://sml.tum-cdps.de/en/fragen/meinungskundgabe">→ Meinungskundgabe</a>), kann es demnach sein, dass man allein durch das „Liken“ eine <a href="https://sml.tum-cdps.de/en/fragen/meinungskundgabe#besonderheiten-bei-angestellten-des-%C3%B6ffentlichen-dienstes-die-nicht-verbeamtet-sind-dh-tarifbesch%C3%A4ftigten">**Pflichtverletzung**</a> begeht und somit (rechtliche) Konsequenzen zu befürchten hat.
 
 </div>
 
