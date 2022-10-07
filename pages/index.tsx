@@ -7,7 +7,7 @@ import {
   useMainContext,
 } from 'components/context/MainContext'
 
-import { DefaultLayout } from 'components/DefaultLayout'
+import { DefaultLayout } from 'components/HomepageLayout'
 import { useTranslation } from 'components/hooks/useTranslation'
 import { useVersion } from 'components/hooks/useVersion'
 import { LinkExternalIcon, ArrowRightIcon, CommentDiscussionIcon } from '@primer/octicons-react'
