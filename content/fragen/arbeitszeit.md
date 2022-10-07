@@ -23,15 +23,15 @@ Die Behörden und Dienststellen der Landesverwaltung haben den Umfang zur privat
 
 <hr>
 
-<a id="1">[[1]](#1.1)</a> Pötters in Thüsing/Wurth, Social Media im Betrieb, 2. Auflage 2020, § 9 Rn. 33, 37. 
+<a id="1">[[1]](#1.1)</a> *Pötters* in Thüsing/Wurth, Social Media im Betrieb, 2. Auflage 2020, § 9 Rn. 33, 37. 
 
-<a id="2">[[2]](#2.1)</a> Oberthür in Kramer, IT-Arbeitsrecht, 2. Auflage 2019, Rn. 914.
+<a id="2">[[2]](#2.1)</a> *Oberthür* in Kramer, IT-Arbeitsrecht, 2. Auflage 2019, Rn. 914.
 
-<a id="3">[[3]](#3.1)</a> Bayreuther/Stark in Hornung/Müller-Terpitz, Rechtshandbuch Social Media, 2. Auflage 2021, Kap. 9 Rn. 24 f.
+<a id="3">[[3]](#3.1)</a> *Bayreuther/Stark* in Hornung/Müller-Terpitz, Rechtshandbuch Social Media, 2. Auflage 2021, Kap. 9 Rn. 24 f.
 
-<a id="4">[[4]](#4.1)</a> Linck in Schaub, Arbeitsrechts-Handbuch, 19. Auflage 2021, § 53 Rn. 17, 40; BAG v. 07.07.2005 – 2 AZR 581/04 (= NJW 2006, 98).
+<a id="4">[[4]](#4.1)</a> *Linck* in Schaub, Arbeitsrechts-Handbuch, 19. Auflage 2021, § 53 Rn. 17, 40; BAG v. 07.07.2005 – 2 AZR 581/04 (= NJW 2006, 98).
 
-<a id="5">[[5]](#5.1)</a> Bayreuther/Stark in Hornung/Müller-Terpitz, Rechtshandbuch Social Media, 2. Auflage 2021, Kap. 9 Rn. 20 f.
+<a id="5">[[5]](#5.1)</a> *Bayreuther/Stark* in Hornung/Müller-Terpitz, Rechtshandbuch Social Media, 2. Auflage 2021, Kap. 9 Rn. 20 f.
 
 
 
