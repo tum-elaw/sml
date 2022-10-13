@@ -120,8 +120,8 @@ function LandingPage(props: LandingPageProps) {
               <div className="border-top"></div>
               <div className="clearfix">
                 <div className="float-left col-auto">
-                <a href="/assets/Social_Media_Leitfaden_Quickguide.pdf" target="_blank">
-                  <img className="my-3 mr-3" src="/assets/images/sml/quickguide_frontpage.png" width="150px" alt="Erste Seite des Leitfadens als PDF Version"></img>
+                <a href="/assets/Social_Media_Leitfaden_Quickguide1.pdf" target="_blank">
+                  <img className="my-3 mr-3" src="/assets/images/sml/quickguide_frontpage3.png" width="150px" alt="Erste Seite des Leitfadens als PDF Version"></img>
                </a>
                </div>
                 <div className="float-left col-6 ml-2">
