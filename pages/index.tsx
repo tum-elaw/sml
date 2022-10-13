@@ -127,7 +127,7 @@ function LandingPage(props: LandingPageProps) {
                 <div className="float-left col-6 ml-2">
                   <div className="float-left col-12">
                     <div className="mt-3">Den Social Media Leitfaden gibt es auch als PDF!</div>
-                    <a href="/assets/Social_Media_Leitfaden_Quickguide.pdf" target="_blank">
+                    <a href="/assets/Social_Media_Leitfaden_Quickguide1.pdf" target="_blank">
                     <button className="btn btn-primary float-left mt-3" type="button">
                       <span>Download</span>
                     </button>
