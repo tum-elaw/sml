@@ -66,7 +66,7 @@ Sollte die Verbreitungshandlung in ein bestehendes Urheberrecht eingreifen<span 
 
 <a id="4">[[4]](#4.1)</a> LG Bielefeld v. 03.01.2017 –  4 O 141/16.
 
-<a id="5">[[5]](#5.1)</a> Eine Vervielfältigung i.S.v. <a href="ttp://www.gesetze-im-internet.de/urhg/__16.html" target="_blanc">§ 16 UrhG</a> liegt zum Beispiel vor, wenn eine Kopie des Inhalts (etwa einer Datei) erstellt wird, indem es auf einen anderen Server hoch- oder runtergeladen wird. Eine Vervielfältigung i.S.v. <a href="ttp://www.gesetze-im-internet.de/urhg/__16.html" target="_blanc">§ 16 UrhG</a> liegt zum Beispiel vor, wenn eine Kopie des Inhalts (etwa einer Datei) erstellt wird, indem es auf einen anderen Server hoch- oder runtergeladen wird. Eine Vervielfältigung i.S.v. <a href="ttp://www.gesetze-im-internet.de/urhg/__16.html" target="_blanc">§ 16 UrhG</a> liegt zum Beispiel vor, wenn eine Kopie des Inhalts (etwa einer Datei) erstellt wird, indem es auf einen anderen Server hoch- oder runtergeladen wird.
+<a id="5">[[5]](#5.1)</a> Eine Vervielfältigung i.S.v. <a href="ttp://www.gesetze-im-internet.de/urhg/__16.html" target="_blanc">§ 16 UrhG</a> liegt zum Beispiel vor, wenn eine Kopie des Inhalts (etwa einer Datei) erstellt wird, indem es auf einen anderen Server hoch- oder runtergeladen wird.
 
 <a id="6">[[6]](#6.1)</a> Eine öffentliche Zugänglichmachung i.S.v. <a href="ttp://www.gesetze-im-internet.de/urhg/__19a.html" target="_blanc">§ 19a UrhG</a> liegt zum Beispiel vor, wenn ein Beitrag auf facebook oder ein Tweet auf Twitter gepostet wird, sodass der Beitrag oder der Tweet von der Öffentlichkeit wahrgenommen werden kann.
 

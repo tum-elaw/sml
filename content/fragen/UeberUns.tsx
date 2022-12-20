@@ -38,7 +38,7 @@ Weitere Informationen zum CDPS finden Sie hier: <a href="https://www.tum-cdps.de
                 <div className="mt-4 float-left">
             <div className="col-12 col-lg-10 float-left">
           <div className="display-4 ml-0 float-left h3-mktg"><a href="https://www.gov.sot.tum.de/elaw/team/thimo-brand/" target="_blank">Dr. Thimo Brand</a></div>
-          <div className="display-4 ml-0 float-left">ehemaliger Wissenschaftlicher Mitarbeiter, TUM Center for Digital Public Services (CDPS)</div>
+          <div className="display-4 ml-0 float-left">Ehemaliger Wissenschaftlicher Mitarbeiter, TUM Center for Digital Public Services (CDPS)</div>
           </div>
           </div>
 
@@ -54,7 +54,7 @@ Weitere Informationen zum CDPS finden Sie hier: <a href="https://www.tum-cdps.de
             
             <div className="col-12 col-lg-10 float-left">
           <div className="display-4 ml-0 float-left h3-mktg"><a href="https://www.gov.sot.tum.de/elaw/team/anne-hilsberg/" target="_blank">Anne Hilsberg</a></div>
-          <div className="display-4 ml-0 float-left">ehemalige Wissenschaftliche Mitarbeiterin, TUM Center for Digital Public Services (CDPS)</div>
+          <div className="display-4 ml-0 float-left">Ehemalige Wissenschaftliche Mitarbeiterin, TUM Center for Digital Public Services (CDPS)</div>
           </div>
           </div>
        
