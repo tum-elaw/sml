@@ -52,7 +52,9 @@ Je nach Anzahl an erzielten „Likes“ wird der betroffene Beitrag im sog. News
 Unter einem Meme (Plural: die Memes) wird ein Bild oder Video mit interessantem oder witzigem Inhalt verstanden, welches in sozialen Netzwerken schnell und weit verbreitet wird.<span class='tooltip'><sup><a id='22.1'>[[22]](#22)</a></sup><span class='tooltiptext'>Online-Duden, „Meme“, 2022; abrufbar unter: https://www.duden.de/node/289577/revision/514781.</span></span>
 
 Beispiel:  
-<img src="\assets\images\sml\katzen_meme.jpg" className="width-fit"></img>
+<div className="d-flex flex-justify-center flex-items-center">
+  <img src="\assets\images\sml\katzen_meme.jpg" className="width-fit"></img>
+</div>
 
 ## Posting (auch: Post)
 Auf Social Media kann man verschiedene Beiträge bzw. Inhalte veröffentlichen. Diese Beiträge nennt man (Social Media-)Posts oder auch Postings.<span class='tooltip'><sup><a id='23.1'>[[23]](#23)</a></sup><span class='tooltiptext'>Vgl. Günther/Lenz, ArbRAktuell 2020, 405.</span></span> Die Form (z.B. als Text oder Bild) und der Zugang zu diesen Posts (z.B. für alle Nutzer und Nutzerinnen der Social Media-Plattform oder nur für einen bestimmten Nutzerkreis sichtbar) kann variieren<span class='tooltip'><sup><a id='24.1'>[[24]](#24)</a></sup><span class='tooltiptext'>Vgl. Günther/Lenz, ArbRAktuell 2020, 405.</span></span>  und ist in der Regel von der Person, die den Beitrag veröffentlicht, einstellbar. Die Handlung der Veröffentlichung bezeichnet man als „posten“.<span class='tooltip'><sup><a id='25.1'>[[25]](#25)</a></sup><span class='tooltiptext'>Laut dem Online-Wörterbuch Duden (2022) bedeutet posten „mit Fragen, Antworten, Kommentaren an Internetforen und Weblogs teilnehmen“ oder „in Internetforen und Weblogs schreiben“: https://www.duden.de/rechtschreibung/posten_schreiben_Internet_Newsgroup</span></span> Die Posts erscheinen dann auf dem Profil der- oder desjenigen, die oder der den Post veröffentlicht hat. Andere Nutzerinnen und Nutzer können einen Post in der Regel kommentieren und „reposten“, d.h. weiterverbreiten (z.B. durch Teilen, s.u.). Man sollte bedenken, dass theoretisch auch eine Weiterleitung in andere Netzwerke und auf andere Internetseiten möglich ist, ohne dass der ursprüngliche Verfasser des Posts hierauf noch Einfluss hat.<span class='tooltip'><sup><a id='26.1'>[[26]](#26)</a></sup><span class='tooltiptext'>Günther/Lenz, ArbRAktuell 2020, 405, m.w.N.</span></span>
@@ -76,7 +78,7 @@ Beim Verlinken verknüpft man einen fremden Beitrag, wie etwa ein Foto, mit eine
 
 <hr>
 
-<a id="1">[[1]](#1.1)</a> Online-Duden, „Account“, 2022; abrufbar unter: https://www.duden.de/rechtschreibung/Account.
+<a id="1">[[1]](#1.1)</a> Online-Duden, „Account“, 2022; abrufbar unter: <a href="https://www.duden.de/rechtschreibung/Account" target="_blanc">https://www.duden.de/rechtschreibung/Account</a>.
 
 <a id="2">[[2]](#2.1)</a> Günther/Lenz, ArbRAktuell 2020, 405 (408), m.w.N.
 
@@ -84,13 +86,13 @@ Beim Verlinken verknüpft man einen fremden Beitrag, wie etwa ein Foto, mit eine
 
 <a id="4">[[4]](#4.1)</a> Leyendecker-Langner, BeckOK InfoMedienR, 37. Ed. 1.2.2021, BGB § 12, Rn. 77.
 
-<a id="5">[[5]](#5.1)</a> Seiler, Was bedeutet "GIF"? Erklärung und Definition, Netzwelt, 24.12.2020; abrufbar unter: https://www.netzwelt.de/abkuerzung/174552-bedeutet-gif-erklaerung-definition.html. 
+<a id="5">[[5]](#5.1)</a> Seiler, Was bedeutet "GIF"? Erklärung und Definition, Netzwelt, 24.12.2020; abrufbar unter: <a href="https://www.netzwelt.de/abkuerzung/174552-bedeutet-gif-erklaerung-definition.html" target="_blanc">https://www.netzwelt.de/abkuerzung/174552-bedeutet-gif-erklaerung-definition.html</a>. 
 
-<a id="6">[[6]](#6.1)</a> Seiler, Was bedeutet "GIF"? Erklärung und Definition, Netzwelt, 24.12.2020; abrufbar unter: https://www.netzwelt.de/abkuerzung/174552-bedeutet-gif-erklaerung-definition.html.
+<a id="6">[[6]](#6.1)</a> Seiler, Was bedeutet "GIF"? Erklärung und Definition, Netzwelt, 24.12.2020; abrufbar unter: <a href="https://www.netzwelt.de/abkuerzung/174552-bedeutet-gif-erklaerung-definition.html" target="_blanc">https://www.netzwelt.de/abkuerzung/174552-bedeutet-gif-erklaerung-definition.html</a>.
 
-<a id="7">[[7]](#7.1)</a> Seiler, Was bedeutet "GIF"? Erklärung und Definition, Netzwelt, 24.12.2020; abrufbar unter: https://www.netzwelt.de/abkuerzung/174552-bedeutet-gif-erklaerung-definition.html. 
+<a id="7">[[7]](#7.1)</a> Seiler, Was bedeutet "GIF"? Erklärung und Definition, Netzwelt, 24.12.2020; abrufbar unter: <a href="https://www.netzwelt.de/abkuerzung/174552-bedeutet-gif-erklaerung-definition.html" target="_blanc">https://www.netzwelt.de/abkuerzung/174552-bedeutet-gif-erklaerung-definition.html</a>. 
 
-<a id="8">[[8]](#8.1)</a> Seiler, Was bedeutet "GIF"? Erklärung und Definition, Netzwelt, 24.12.2020; abrufbar unter: https://www.netzwelt.de/abkuerzung/174552-bedeutet-gif-erklaerung-definition.html. 
+<a id="8">[[8]](#8.1)</a> Seiler, Was bedeutet "GIF"? Erklärung und Definition, Netzwelt, 24.12.2020; abrufbar unter: <a href="https://www.netzwelt.de/abkuerzung/174552-bedeutet-gif-erklaerung-definition.html" target="_blanc">https://www.netzwelt.de/abkuerzung/174552-bedeutet-gif-erklaerung-definition.html</a>. 
 
 <a id="9">[[9]](#9.1)</a> Günther/Lenz, ArbRAktuell 2020, 405 (407).
 
@@ -118,13 +120,13 @@ Beim Verlinken verknüpft man einen fremden Beitrag, wie etwa ein Foto, mit eine
 
 <a id="21">[[21]](#21.1)</a> Fuhlrott/Oltmanns, NZA 2016, 785 (787).
 
-<a id="22">[[22]](#22.1)</a> Online-Duden, „Meme“, 2022; abrufbar unter: https://www.duden.de/node/289577/revision/514781.
+<a id="22">[[22]](#22.1)</a> Online-Duden, „Meme“, 2022; abrufbar unter: <a href="https://www.duden.de/node/289577/revision/514781" target="_blanc">https://www.duden.de/node/289577/revision/514781</a>.
 
 <a id="23">[[23]](#23.1)</a> Vgl. Günther/Lenz, ArbRAktuell 2020, 405.
 
 <a id="24">[[24]](#24.1)</a> Vgl. Günther/Lenz, ArbRAktuell 2020, 405.
 
-<a id="25">[[25]](#25.1)</a> Laut dem Online-Wörterbuch Duden (2022) bedeutet posten „mit Fragen, Antworten, Kommentaren an Internetforen und Weblogs teilnehmen“ oder „in Internetforen und Weblogs schreiben“: https://www.duden.de/rechtschreibung/posten_schreiben_Internet_Newsgroup
+<a id="25">[[25]](#25.1)</a> Laut dem Online-Wörterbuch Duden (2022) bedeutet posten „mit Fragen, Antworten, Kommentaren an Internetforen und Weblogs teilnehmen“ oder „in Internetforen und Weblogs schreiben“: <a href="https://www.duden.de/rechtschreibung/posten_schreiben_Internet_Newsgroup" target="_blanc">https://www.duden.de/rechtschreibung/posten_schreiben_Internet_Newsgroup</a>
 
 <a id="26">[[26]](#26.1)</a> Günther/Lenz, ArbRAktuell 2020, 405, m.w.N.
 
