@@ -1,4 +1,3 @@
-# Social Media Leitfaden für Beschäftigte im Öffentlichen Dienst
 Langzeitarchivierung. Quellcode wird nicht mehr aktualisiert.
 
 ## Hinweis
