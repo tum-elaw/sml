@@ -10,7 +10,7 @@ export const SmallFooter = () => {
           <li className="d-flex mr-xl-3 color-text-secondary">
             {/*<MarkGithubIcon className="mr-2 mr-xl-3" size={20} />*/}
             
-            <div style={{marginLeft: 1 + 'em'}}><span>&copy; {new Date().getFullYear()} TUM Center for Digital Public Services</span></div>
+            <div style={{marginLeft: 1 + 'em'}}><span>&copy; 2023 TUM Center for Digital Public Services</span></div>
           </li>
           <li className="ml-3 no-print">
             <a href="https://sml.tum-cdps.de/en/fragen/impressum/">{`Impressum`} </a>

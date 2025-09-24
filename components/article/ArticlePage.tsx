@@ -152,6 +152,8 @@ export const ArticlePage = () => {
               <LearningTrackNav track={currentLearningTrack} />
             </div>
           ) : null}
+
+          <div className="f5 color-text-tertiary">Stand der Bearbeitung: 07.02.2023</div>
         </article>
       </div>
     </DefaultLayout>

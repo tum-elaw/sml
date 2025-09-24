@@ -67,7 +67,7 @@ export const Header = () => {
           {/* <!-- GitHub.com homepage and 404 page has a stylized search; Enterprise homepages do not --> */}
           {relativePath !== 'index.md' && error !== '404' && (
             <div className="d-inline-block ml-4">
-              <Search />
+             
             </div>
           )}
         </div>
@@ -131,7 +131,7 @@ export const Header = () => {
               {/* <!-- GitHub.com homepage and 404 page has a stylized search; Enterprise homepages do not --> */}
               {relativePath !== 'index.md' && error !== '404' && (
                 <div className="pt-3 border-top">
-                  <Search />
+                  
                   
                 </div>
                 

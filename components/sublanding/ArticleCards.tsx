@@ -7,7 +7,7 @@ import {
 import { useTranslation } from 'components/hooks/useTranslation'
 import { ArticleCard } from './ArticleCard'
 
-const PAGE_SIZE = 9
+const PAGE_SIZE = 30
 export const ArticleCards = () => {
   const { t } = useTranslation('product_sublanding')
   const guideTypes: Record<string, string> = t('guide_types')
