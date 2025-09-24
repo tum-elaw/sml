@@ -61,7 +61,7 @@
     "mdast-util-from-markdown": "^0.8.5",
     "mdast-util-to-string": "^2.0.0",
     "morgan": "^1.10.0",
-    "next": "^12.2.4",
+    "next": "^14.2.32",
     "node-fetch": "^2.6.1",
     "node-polyfill-webpack-plugin": "^2.0.1",
     "parse5": "^6.0.1",
