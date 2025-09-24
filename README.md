@@ -1,4 +1,3 @@
-# SML Archiv
 Langzeitarchivierung. Quellcode wird nicht mehr aktualisiert.
 
 ## Hinweis
