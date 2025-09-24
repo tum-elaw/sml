@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 25 Sep 2025 01:10:18 at https://sml.tum-cdps.de/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sml.tum-cdps.de/ -O1 "R:\sml\sml-archive\sml-archive" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:10:19	Warning: 	Moved Permanently for https://sml.tum-cdps.de/
+01:10:19	Warning: 	File has moved from https://sml.tum-cdps.de/ to /en
+01:11:09	Warning: 	Moved Permanently for https://sml.tum-cdps.de/en/fragen/impressum/
+01:11:09	Warning: 	File has moved from https://sml.tum-cdps.de/en/fragen/impressum/ to /en/fragen/impressum
+01:11:09	Warning: 	Moved Permanently for https://sml.tum-cdps.de/en/fragen/datenschutzerklaerung/
+01:11:09	Warning: 	File has moved from https://sml.tum-cdps.de/en/fragen/datenschutzerklaerung/ to /en/fragen/datenschutzerklaerung
+01:11:09	Error: 	"Not Found" (404) at link https://sml.tum-cdps.de/images/spinners/octocat-spinner-16px.gif (from https://sml.tum-cdps.de/_next/static/css/d44e3c3dccbf666e.css)
+01:11:09	Error: 	"Not Found" (404) at link https://sml.tum-cdps.de/images/modules/ajax/success.png (from https://sml.tum-cdps.de/_next/static/css/d44e3c3dccbf666e.css)
+01:11:09	Error: 	"Not Found" (404) at link https://sml.tum-cdps.de/images/modules/ajax/error.png (from https://sml.tum-cdps.de/_next/static/css/d44e3c3dccbf666e.css)
+01:11:09	Error: 	"Not Found" (404) at link https://sml.tum-cdps.de/images/spinners/octocat-spinner-32.gif (from https://sml.tum-cdps.de/_next/static/css/d44e3c3dccbf666e.css)
+01:11:09	Error: 	"Not Found" (404) at link https://sml.tum-cdps.de/images/modules/ajax/success@2x.png (from https://sml.tum-cdps.de/_next/static/css/d44e3c3dccbf666e.css)
+01:11:09	Error: 	"Not Found" (404) at link https://sml.tum-cdps.de/images/modules/ajax/error@2x.png (from https://sml.tum-cdps.de/_next/static/css/d44e3c3dccbf666e.css)
+01:11:09	Error: 	"Not Found" (404) at link https://sml.tum-cdps.de/images/spinners/octocat-spinner-32-EAF2F5.gif (from https://sml.tum-cdps.de/_next/static/css/d44e3c3dccbf666e.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 52 seconds : 64 links scanned, 53 files written (14905950 bytes overall) [12979153 bytes received at 249599 bytes/sec], 2780591 bytes transferred using HTTP compression in 38 files, ratio 22%
+(7 errors, 6 warnings, 0 messages)

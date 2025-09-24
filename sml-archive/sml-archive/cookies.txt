@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+sml.tum-cdps.de	TRUE	/	FALSE	1999999999	_csrf	3uO9hA_IpsYb7QLYIjp_IIWr
+sml.tum-cdps.de	TRUE	/	FALSE	1999999999	SameSite	Lax
+
